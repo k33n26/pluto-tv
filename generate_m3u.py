@@ -4,22 +4,18 @@ import gzip
 from io import BytesIO
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# Pluto TV Güncel Veri Adresi
 DATA_URL = "https://i.mjh.nz/PlutoTV/.channels.json.gz"
 PLAYBACK_URL = "https://jmp2.uk/{slug}"
 OUTPUT_FILE = "pluto_tv.m3u"
 
-# İçerik kalitesi yüksek ve yayınları rahat açılan ana bölgeler
-TARGET_REGIONS = ["us", "gb", "de", "ca"]
-
-# Hızlı tarama parametreleri (30 eşzamanlı istek, 1.2 sn timeout)
-MAX_WORKERS = 30
-TIMEOUT_SECONDS = 1.2
+# Paralel test ayarları
+MAX_WORKERS = 20
+TIMEOUT_SECONDS = 2.0
 
 def check_stream(channel_data):
     ch_id, ch, slug_template = channel_data
     
-    # DRM / Lisans koruması olan kanalları ele
+    # DRM veya Lisanslı kanalları atla
     if ch.get("license_url"):
         return None
 
@@ -31,8 +27,13 @@ def check_stream(channel_data):
     }
 
     try:
-        # Yayın adresine hızlı HEAD kontrolü at
+        # Yayın bağlantısına istek atıp canlılık kontrolü yap
         res = requests.head(stream_url, headers=headers, timeout=TIMEOUT_SECONDS, allow_redirects=True)
+        if res.status_code == 200:
+            return (ch_id, ch, stream_url)
+        
+        # HEAD yanıt vermezse GET dene
+        res = requests.get(stream_url, headers=headers, timeout=TIMEOUT_SECONDS, stream=True)
         if res.status_code == 200:
             return (ch_id, ch, stream_url)
     except Exception:
@@ -45,8 +46,8 @@ def fetch_and_generate_m3u():
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
     
-    print(f"Pluto TV verileri indiriliyor: {DATA_URL}")
-    response = requests.get(DATA_URL, headers=headers, timeout=(5, 15))
+    print(f"Pluto TV verileri çekiliyor: {DATA_URL}")
+    response = requests.get(DATA_URL, headers=headers, timeout=(10, 30))
     response.raise_for_status()
 
     json_bytes = gzip.GzipFile(fileobj=BytesIO(response.content)).read()
@@ -57,13 +58,13 @@ def fetch_and_generate_m3u():
 
     candidate_channels = []
 
+    # Bütün bölgelerdeki kanalları çek
     for region_key, region_val in regions_data.items():
-        if region_key.lower() in TARGET_REGIONS:
-            channels = region_val.get("channels", {})
-            for ch_id, ch in channels.items():
-                candidate_channels.append((ch_id, ch, slug_template))
+        channels = region_val.get("channels", {})
+        for ch_id, ch in channels.items():
+            candidate_channels.append((ch_id, ch, slug_template))
 
-    print(f"Toplam {len(candidate_channels)} aday Pluto TV kanalı bulundu. Bağlantılar test ediliyor...")
+    print(f"Toplam {len(candidate_channels)} kanal bulundu. Canlılık testi başlatılıyor...")
 
     valid_channels = []
     
@@ -74,12 +75,12 @@ def fetch_and_generate_m3u():
             if result:
                 valid_channels.append(result)
 
-    print(f"Test Tamamlandı! {len(valid_channels)} aktif kanal listeye alınıyor...")
+    print(f"Test Bitti! {len(valid_channels)} çalışan kanal bulundu.")
 
-    # M3U Formatında Yapılandır
+    # M3U Oluştur
     m3u_lines = ["#EXTM3U\n"]
     for ch_id, ch, stream_url in valid_channels:
-        name = ch.get("name", "Unknown Channel")
+        name = ch.get("name", "Pluto Channel")
         logo = ch.get("logo", "")
         group = ch.get("group", "Pluto TV")
         chno = ch.get("chno", "")
@@ -93,7 +94,7 @@ def fetch_and_generate_m3u():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.writelines(m3u_lines)
 
-    print(f"Başarılı! '{OUTPUT_FILE}' dosyası oluşturuldu.")
+    print(f"İşlem Tamamlandı! '{OUTPUT_FILE}' dosyasına yazıldı.")
 
 if __name__ == "__main__":
     fetch_and_generate_m3u()
