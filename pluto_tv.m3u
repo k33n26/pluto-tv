@@ -1367,11 +1367,11 @@ https://jmp2.uk/6401d85a49839300087b116c
 #EXTINF:-1 tvg-id="68b5a7b69ac85c428f54c441" tvg-logo="https://images.pluto.tv/channels/68b5a7b69ac85c428f54c441/colorLogoPNG_1762359402221.png" group-title="Movies" tvg-chno="112",Curzon
 https://jmp2.uk/68b5a7b69ac85c428f54c441
 
-#EXTINF:-1 tvg-id="5d4bdb635ce813b38639e6a3" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" group-title="Movies" tvg-chno="113",Pluto TV Westerns
-https://jmp2.uk/5d4bdb635ce813b38639e6a3
-
 #EXTINF:-1 tvg-id="686fc8fe1889b4ad04604704" tvg-logo="https://images.pluto.tv/channels/686fc8fe1889b4ad04604704/colorLogoPNG_1759777262346.png" group-title="Movies" tvg-chno="113",Icons Unearthed+
 https://jmp2.uk/686fc8fe1889b4ad04604704
+
+#EXTINF:-1 tvg-id="5d4bdb635ce813b38639e6a3" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" group-title="Movies" tvg-chno="113",Pluto TV Westerns
+https://jmp2.uk/5d4bdb635ce813b38639e6a3
 
 #EXTINF:-1 tvg-id="5dc3fc6b9133f500099c7d98" tvg-logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png" group-title="Movies" tvg-chno="114",Pluto TV Family Movie Club
 https://jmp2.uk/5dc3fc6b9133f500099c7d98
@@ -1769,9 +1769,6 @@ https://jmp2.uk/66dff9d46ad04d0008fda4de
 #EXTINF:-1 tvg-id="66c45afaa72e7b0008a2b153" tvg-logo="https://images.pluto.tv/channels/66c45afaa72e7b0008a2b153/colorLogoPNG_1775663059595.png" group-title="News" tvg-chno="855",CNNi
 https://jmp2.uk/66c45afaa72e7b0008a2b153
 
-#EXTINF:-1 tvg-id="64634eb42858cb0008fd92d6" tvg-logo="https://images.pluto.tv/channels/64634eb42858cb0008fd92d6/colorLogoPNG.png" group-title="How To Use Pluto TV" tvg-chno="879",How To Use Pluto TV
-https://jmp2.uk/64634eb42858cb0008fd92d6
-
 #EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" tvg-logo="https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png" group-title="Kids" tvg-chno="880",Pluto TV Retro Toons
 https://jmp2.uk/5c5c2b9d8002db3c3e0b1c6d
 
@@ -1796,11 +1793,11 @@ https://jmp2.uk/62ac405b3874370007419b7f
 #EXTINF:-1 tvg-id="664c94e80120f40008b860f0" tvg-logo="https://images.pluto.tv/channels/664c94e80120f40008b860f0/colorLogoPNG.png" group-title="Kids" tvg-chno="889",POP
 https://jmp2.uk/664c94e80120f40008b860f0
 
-#EXTINF:-1 tvg-id="697a2f8b3991484f03064614" tvg-logo="https://images.pluto.tv/channels/697a2f8b3991484f03064614/colorLogoPNG_1770830195618.png" group-title="Kids" tvg-chno="890",Super Mario Bros.
-https://jmp2.uk/697a2f8b3991484f03064614
-
 #EXTINF:-1 tvg-id="68b5a97fc8ef6afa31138718" tvg-logo="https://images.pluto.tv/channels/68b5a97fc8ef6afa31138718/colorLogoPNG_1760380526292.png" group-title="Kids" tvg-chno="890",The Smurfs
 https://jmp2.uk/68b5a97fc8ef6afa31138718
+
+#EXTINF:-1 tvg-id="697a2f8b3991484f03064614" tvg-logo="https://images.pluto.tv/channels/697a2f8b3991484f03064614/colorLogoPNG_1770830195618.png" group-title="Kids" tvg-chno="890",Super Mario Bros.
+https://jmp2.uk/697a2f8b3991484f03064614
 
 #EXTINF:-1 tvg-id="694178a8026be6e9d3ea7d7a" tvg-logo="https://images.pluto.tv/channels/694178a8026be6e9d3ea7d7a/colorLogoPNG_1767865545603.png" group-title="Kids" tvg-chno="891",Mona The Vampire
 https://jmp2.uk/694178a8026be6e9d3ea7d7a
