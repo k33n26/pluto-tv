@@ -2558,6 +2558,9 @@ https://jmp2.uk/65cf8ace332fec00081e7ea2
 #EXTINF:-1 tvg-id="63934c218ef524000757b122" tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" group-title="Paranormal" tvg-chno="595",HauntTV
 https://jmp2.uk/63934c218ef524000757b122
 
+#EXTINF:-1 tvg-id="62ea3ec626dc1900078e9f26" tvg-logo="https://images.pluto.tv/channels/62ea3ec626dc1900078e9f26/colorLogoPNG.png" group-title="Kids" tvg-chno="602",Paw Patrol
+https://jmp2.uk/62ea3ec626dc1900078e9f26
+
 #EXTINF:-1 tvg-id="688a44cf5d73ec0a3f49718b" tvg-logo="https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png" group-title="Drama" tvg-chno="620",Weeds / Nurse Jackie
 https://jmp2.uk/688a44cf5d73ec0a3f49718b
 
@@ -2863,9 +2866,6 @@ https://jmp2.uk/638e10220aa6a6000726979f
 
 #EXTINF:-1 tvg-id="69c592dff0f1a7d732dc6e36" tvg-logo="https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png" group-title="Sports" tvg-chno="1302",Pluto TV Cars
 https://jmp2.uk/69c592dff0f1a7d732dc6e36
-
-#EXTINF:-1 tvg-id="64a28c62d609b60008ca4933" tvg-logo="https://images.pluto.tv/channels/64a28c62d609b60008ca4933/colorLogoPNG_1758270375136.png" group-title="Sports" tvg-chno="1305",Rock Channel
-https://jmp2.uk/64a28c62d609b60008ca4933
 
 #EXTINF:-1 tvg-id="639b4f75d3d35c0007d37b30" tvg-logo="https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png" group-title="Sports" tvg-chno="1310",Pluto TV Snooker 900
 https://jmp2.uk/639b4f75d3d35c0007d37b30
@@ -4898,6 +4898,9 @@ https://jmp2.uk/65cf8ace332fec00081e7ea2
 #EXTINF:-1 tvg-id="63934c218ef524000757b122" tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" group-title="Paranormal" tvg-chno="595",HauntTV
 https://jmp2.uk/63934c218ef524000757b122
 
+#EXTINF:-1 tvg-id="62ea3ec626dc1900078e9f26" tvg-logo="https://images.pluto.tv/channels/62ea3ec626dc1900078e9f26/colorLogoPNG.png" group-title="Kids" tvg-chno="602",Paw Patrol
+https://jmp2.uk/62ea3ec626dc1900078e9f26
+
 #EXTINF:-1 tvg-id="688a44cf5d73ec0a3f49718b" tvg-logo="https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png" group-title="Drama" tvg-chno="620",Weeds / Nurse Jackie
 https://jmp2.uk/688a44cf5d73ec0a3f49718b
 
@@ -5203,9 +5206,6 @@ https://jmp2.uk/638e10220aa6a6000726979f
 
 #EXTINF:-1 tvg-id="69c592dff0f1a7d732dc6e36" tvg-logo="https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png" group-title="Sports" tvg-chno="1302",Pluto TV Cars
 https://jmp2.uk/69c592dff0f1a7d732dc6e36
-
-#EXTINF:-1 tvg-id="64a28c62d609b60008ca4933" tvg-logo="https://images.pluto.tv/channels/64a28c62d609b60008ca4933/colorLogoPNG_1758270375136.png" group-title="Sports" tvg-chno="1305",Rock Channel
-https://jmp2.uk/64a28c62d609b60008ca4933
 
 #EXTINF:-1 tvg-id="639b4f75d3d35c0007d37b30" tvg-logo="https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png" group-title="Sports" tvg-chno="1310",Pluto TV Snooker 900
 https://jmp2.uk/639b4f75d3d35c0007d37b30
