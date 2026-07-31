@@ -2267,8 +2267,29 @@ https://jmp2.uk/604f81a49ef73300070e554f
 #EXTINF:-1 tvg-id="63eb9495a8b227000841bf64" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="MTV en Pluto TV" tvg-chno="659",MTV Vergüenza ajena
 https://jmp2.uk/63eb9495a8b227000841bf64
 
-#EXTINF:-1 tvg-id="6853c216069aec0976371a2f" tvg-logo="https://images.pluto.tv/channels/6853c216069aec0976371a2f/colorLogoPNG_1780331317179.png" group-title="Movies" tvg-chno="10",Pluto TV Christmas in July
-https://jmp2.uk/6853c216069aec0976371a2f
+#EXTINF:-1 tvg-id="691b023a7613e09a8b209539" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png" group-title="Out of This World" tvg-chno="20",The X-Files
+https://jmp2.uk/691b023a7613e09a8b209539
+
+#EXTINF:-1 tvg-id="66166cb1307fa30008f275e7" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="Out of This World" tvg-chno="23",Pluto TV Sci-fi
+https://jmp2.uk/66166cb1307fa30008f275e7
+
+#EXTINF:-1 tvg-id="693bf37b75432d022c85ef01" tvg-logo="https://images.pluto.tv/channels/693bf37b75432d022c85ef01/colorLogoPNG_1765536677197.png" group-title="Out of This World" tvg-chno="25",Stargate
+https://jmp2.uk/693bf37b75432d022c85ef01
+
+#EXTINF:-1 tvg-id="6850335b5965a2fd49f7e36d" tvg-logo="https://images.pluto.tv/channels/6850335b5965a2fd49f7e36d/colorLogoPNG_1750087529738.png" group-title="Out of This World" tvg-chno="27",Andromeda
+https://jmp2.uk/6850335b5965a2fd49f7e36d
+
+#EXTINF:-1 tvg-id="62bdad934d73d50007a82472" tvg-logo="https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png" group-title="Out of This World" tvg-chno="30",Doctor Who Classic
+https://jmp2.uk/62bdad934d73d50007a82472
+
+#EXTINF:-1 tvg-id="6874ad743ffa5e0c917f6e20" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png" group-title="Out of This World" tvg-chno="33",The Outer Limits
+https://jmp2.uk/6874ad743ffa5e0c917f6e20
+
+#EXTINF:-1 tvg-id="62e94ec74823db0007277a8f" tvg-logo="https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png" group-title="Out of This World" tvg-chno="35",One Piece
+https://jmp2.uk/62e94ec74823db0007277a8f
+
+#EXTINF:-1 tvg-id="68d25b620a0f3829b116bb6f" tvg-logo="https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/colorLogoPNG_1758618285949.png" group-title="Out of This World" tvg-chno="37",Pluto TV Anime
+https://jmp2.uk/68d25b620a0f3829b116bb6f
 
 #EXTINF:-1 tvg-id="6654adb1f99922000854388c" tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png" group-title="Movies" tvg-chno="45",Summer of Movies
 https://jmp2.uk/6654adb1f99922000854388c
@@ -2299,6 +2320,9 @@ https://jmp2.uk/691e0561e32eb094b835c418
 
 #EXTINF:-1 tvg-id="62fb6da41afad500077e9178" tvg-logo="https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png" group-title="Movies" tvg-chno="85",Thrillers 365
 https://jmp2.uk/62fb6da41afad500077e9178
+
+#EXTINF:-1 tvg-id="6a28960eee86450920a1cab3" tvg-logo="https://images.pluto.tv/channels/6a28960eee86450920a1cab3/colorLogoPNG_1785269873653.png" group-title="Movies" tvg-chno="87",Pluto TV Spicy
+https://jmp2.uk/6a28960eee86450920a1cab3
 
 #EXTINF:-1 tvg-id="62fb6cd97b90e60007bc318a" tvg-logo="https://images.pluto.tv/channels/62fb6cd97b90e60007bc318a/colorLogoPNG.png" group-title="Movies" tvg-chno="90",Romance 365
 https://jmp2.uk/62fb6cd97b90e60007bc318a
@@ -2393,9 +2417,6 @@ https://jmp2.uk/62e9186f8b685d000773cf58
 #EXTINF:-1 tvg-id="62e91af00c43540007f2bb43" tvg-logo="https://images.pluto.tv/channels/62e91af00c43540007f2bb43/colorLogoPNG.png" group-title="Classic TV Comedy" tvg-chno="240",Pluto TV Classic TV Families
 https://jmp2.uk/62e91af00c43540007f2bb43
 
-#EXTINF:-1 tvg-id="62e91563ce7ce300076f917e" tvg-logo="https://images.pluto.tv/channels/62e91563ce7ce300076f917e/colorLogoPNG.png" group-title="Classic TV Comedy" tvg-chno="245",The Love Boat
-https://jmp2.uk/62e91563ce7ce300076f917e
-
 #EXTINF:-1 tvg-id="62e917b5e354cf0007b97a67" tvg-logo="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png" group-title="Classic TV Comedy" tvg-chno="250",Happy Days
 https://jmp2.uk/62e917b5e354cf0007b97a67
 
@@ -2438,9 +2459,6 @@ https://jmp2.uk/66dad50215d2c60008d7afbd
 #EXTINF:-1 tvg-id="62bdacc96a3751000811842d" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" group-title="Westerns" tvg-chno="345",Pluto TV Westerns
 https://jmp2.uk/62bdacc96a3751000811842d
 
-#EXTINF:-1 tvg-id="62e916affb29c60007211c8a" tvg-logo="https://images.pluto.tv/channels/62e916affb29c60007211c8a/colorLogoPNG.png" group-title="Westerns" tvg-chno="350",Gunsmoke
-https://jmp2.uk/62e916affb29c60007211c8a
-
 #EXTINF:-1 tvg-id="696e647b07ea70192d49f6a5" tvg-logo="https://images.pluto.tv/channels/696e647b07ea70192d49f6a5/colorLogoPNG_1768842647658.png" group-title="Westerns" tvg-chno="355",Bonanza
 https://jmp2.uk/696e647b07ea70192d49f6a5
 
@@ -2470,9 +2488,6 @@ https://jmp2.uk/666021cccb3ea10008406866
 
 #EXTINF:-1 tvg-id="62e92708a7ce600007b2676a" tvg-logo="https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png" group-title="Crime Drama" tvg-chno="430",Pluto TV Crime Drama
 https://jmp2.uk/62e92708a7ce600007b2676a
-
-#EXTINF:-1 tvg-id="65fd548f29adfd00089c662c" tvg-logo="https://images.pluto.tv/channels/65fd548f29adfd00089c662c/colorLogoPNG.png" group-title="Crime Drama" tvg-chno="435",Diagnosis Murder
-https://jmp2.uk/65fd548f29adfd00089c662c
 
 #EXTINF:-1 tvg-id="62e92447ea1e2a000735ed33" tvg-logo="https://images.pluto.tv/channels/62e92447ea1e2a000735ed33/colorLogoPNG.png" group-title="Crime Drama" tvg-chno="440",Midsomer Murders
 https://jmp2.uk/62e92447ea1e2a000735ed33
@@ -2509,30 +2524,6 @@ https://jmp2.uk/6601948129adfd0008a1c0ba
 
 #EXTINF:-1 tvg-id="6703a96763292d000836b4fa" tvg-logo="https://images.pluto.tv/channels/6703a96763292d000836b4fa/colorLogoPNG.png" group-title="True Crime" tvg-chno="515",Crime Up Close
 https://jmp2.uk/6703a96763292d000836b4fa
-
-#EXTINF:-1 tvg-id="691b023a7613e09a8b209539" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png" group-title="Sci-Fi + Fantasy" tvg-chno="530",The X-Files
-https://jmp2.uk/691b023a7613e09a8b209539
-
-#EXTINF:-1 tvg-id="66166cb1307fa30008f275e7" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="Sci-Fi + Fantasy" tvg-chno="535",Pluto TV Sci-fi
-https://jmp2.uk/66166cb1307fa30008f275e7
-
-#EXTINF:-1 tvg-id="693bf37b75432d022c85ef01" tvg-logo="https://images.pluto.tv/channels/693bf37b75432d022c85ef01/colorLogoPNG_1765536677197.png" group-title="Sci-Fi + Fantasy" tvg-chno="540",Stargate
-https://jmp2.uk/693bf37b75432d022c85ef01
-
-#EXTINF:-1 tvg-id="6850335b5965a2fd49f7e36d" tvg-logo="https://images.pluto.tv/channels/6850335b5965a2fd49f7e36d/colorLogoPNG_1750087529738.png" group-title="Sci-Fi + Fantasy" tvg-chno="545",Andromeda
-https://jmp2.uk/6850335b5965a2fd49f7e36d
-
-#EXTINF:-1 tvg-id="62bdad934d73d50007a82472" tvg-logo="https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png" group-title="Sci-Fi + Fantasy" tvg-chno="550",Doctor Who Classic
-https://jmp2.uk/62bdad934d73d50007a82472
-
-#EXTINF:-1 tvg-id="6874ad743ffa5e0c917f6e20" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png" group-title="Sci-Fi + Fantasy" tvg-chno="555",The Outer Limits
-https://jmp2.uk/6874ad743ffa5e0c917f6e20
-
-#EXTINF:-1 tvg-id="62e94ec74823db0007277a8f" tvg-logo="https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png" group-title="Sci-Fi + Fantasy" tvg-chno="560",One Piece
-https://jmp2.uk/62e94ec74823db0007277a8f
-
-#EXTINF:-1 tvg-id="68d25b620a0f3829b116bb6f" tvg-logo="https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/colorLogoPNG_1758618285949.png" group-title="Sci-Fi + Fantasy" tvg-chno="565",Pluto TV Anime
-https://jmp2.uk/68d25b620a0f3829b116bb6f
 
 #EXTINF:-1 tvg-id="68b9afd66985e192657a2b7f" tvg-logo="https://images.pluto.tv/channels/68b9afd66985e192657a2b7f/colorLogoPNG_1760690903489.png" group-title="Paranormal" tvg-chno="580",APTN Beyond
 https://jmp2.uk/68b9afd66985e192657a2b7f
@@ -4592,8 +4583,29 @@ https://jmp2.uk/5f85ca40eda1b10007b967cd
 #EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música" tvg-chno="1525",Karaoke por Stingray
 https://jmp2.uk/5f85cf621d6d2200079f1de0
 
-#EXTINF:-1 tvg-id="6853c216069aec0976371a2f" tvg-logo="https://images.pluto.tv/channels/6853c216069aec0976371a2f/colorLogoPNG_1780331317179.png" group-title="Movies" tvg-chno="10",Pluto TV Christmas in July
-https://jmp2.uk/6853c216069aec0976371a2f
+#EXTINF:-1 tvg-id="691b023a7613e09a8b209539" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png" group-title="Out of This World" tvg-chno="20",The X-Files
+https://jmp2.uk/691b023a7613e09a8b209539
+
+#EXTINF:-1 tvg-id="66166cb1307fa30008f275e7" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="Out of This World" tvg-chno="23",Pluto TV Sci-fi
+https://jmp2.uk/66166cb1307fa30008f275e7
+
+#EXTINF:-1 tvg-id="693bf37b75432d022c85ef01" tvg-logo="https://images.pluto.tv/channels/693bf37b75432d022c85ef01/colorLogoPNG_1765536677197.png" group-title="Out of This World" tvg-chno="25",Stargate
+https://jmp2.uk/693bf37b75432d022c85ef01
+
+#EXTINF:-1 tvg-id="6850335b5965a2fd49f7e36d" tvg-logo="https://images.pluto.tv/channels/6850335b5965a2fd49f7e36d/colorLogoPNG_1750087529738.png" group-title="Out of This World" tvg-chno="27",Andromeda
+https://jmp2.uk/6850335b5965a2fd49f7e36d
+
+#EXTINF:-1 tvg-id="62bdad934d73d50007a82472" tvg-logo="https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png" group-title="Out of This World" tvg-chno="30",Doctor Who Classic
+https://jmp2.uk/62bdad934d73d50007a82472
+
+#EXTINF:-1 tvg-id="6874ad743ffa5e0c917f6e20" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png" group-title="Out of This World" tvg-chno="33",The Outer Limits
+https://jmp2.uk/6874ad743ffa5e0c917f6e20
+
+#EXTINF:-1 tvg-id="62e94ec74823db0007277a8f" tvg-logo="https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png" group-title="Out of This World" tvg-chno="35",One Piece
+https://jmp2.uk/62e94ec74823db0007277a8f
+
+#EXTINF:-1 tvg-id="68d25b620a0f3829b116bb6f" tvg-logo="https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/colorLogoPNG_1758618285949.png" group-title="Out of This World" tvg-chno="37",Pluto TV Anime
+https://jmp2.uk/68d25b620a0f3829b116bb6f
 
 #EXTINF:-1 tvg-id="6654adb1f99922000854388c" tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png" group-title="Movies" tvg-chno="45",Summer of Movies
 https://jmp2.uk/6654adb1f99922000854388c
@@ -4624,6 +4636,9 @@ https://jmp2.uk/691e0561e32eb094b835c418
 
 #EXTINF:-1 tvg-id="62fb6da41afad500077e9178" tvg-logo="https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png" group-title="Movies" tvg-chno="85",Thrillers 365
 https://jmp2.uk/62fb6da41afad500077e9178
+
+#EXTINF:-1 tvg-id="6a28960eee86450920a1cab3" tvg-logo="https://images.pluto.tv/channels/6a28960eee86450920a1cab3/colorLogoPNG_1785269873653.png" group-title="Movies" tvg-chno="87",Pluto TV Spicy
+https://jmp2.uk/6a28960eee86450920a1cab3
 
 #EXTINF:-1 tvg-id="62fb6cd97b90e60007bc318a" tvg-logo="https://images.pluto.tv/channels/62fb6cd97b90e60007bc318a/colorLogoPNG.png" group-title="Movies" tvg-chno="90",Romance 365
 https://jmp2.uk/62fb6cd97b90e60007bc318a
@@ -4718,9 +4733,6 @@ https://jmp2.uk/62e9186f8b685d000773cf58
 #EXTINF:-1 tvg-id="62e91af00c43540007f2bb43" tvg-logo="https://images.pluto.tv/channels/62e91af00c43540007f2bb43/colorLogoPNG.png" group-title="Classic TV Comedy" tvg-chno="240",Pluto TV Classic TV Families
 https://jmp2.uk/62e91af00c43540007f2bb43
 
-#EXTINF:-1 tvg-id="62e91563ce7ce300076f917e" tvg-logo="https://images.pluto.tv/channels/62e91563ce7ce300076f917e/colorLogoPNG.png" group-title="Classic TV Comedy" tvg-chno="245",The Love Boat
-https://jmp2.uk/62e91563ce7ce300076f917e
-
 #EXTINF:-1 tvg-id="62e917b5e354cf0007b97a67" tvg-logo="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png" group-title="Classic TV Comedy" tvg-chno="250",Happy Days
 https://jmp2.uk/62e917b5e354cf0007b97a67
 
@@ -4763,9 +4775,6 @@ https://jmp2.uk/66dad50215d2c60008d7afbd
 #EXTINF:-1 tvg-id="62bdacc96a3751000811842d" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" group-title="Westerns" tvg-chno="345",Pluto TV Westerns
 https://jmp2.uk/62bdacc96a3751000811842d
 
-#EXTINF:-1 tvg-id="62e916affb29c60007211c8a" tvg-logo="https://images.pluto.tv/channels/62e916affb29c60007211c8a/colorLogoPNG.png" group-title="Westerns" tvg-chno="350",Gunsmoke
-https://jmp2.uk/62e916affb29c60007211c8a
-
 #EXTINF:-1 tvg-id="696e647b07ea70192d49f6a5" tvg-logo="https://images.pluto.tv/channels/696e647b07ea70192d49f6a5/colorLogoPNG_1768842647658.png" group-title="Westerns" tvg-chno="355",Bonanza
 https://jmp2.uk/696e647b07ea70192d49f6a5
 
@@ -4795,9 +4804,6 @@ https://jmp2.uk/666021cccb3ea10008406866
 
 #EXTINF:-1 tvg-id="62e92708a7ce600007b2676a" tvg-logo="https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png" group-title="Crime Drama" tvg-chno="430",Pluto TV Crime Drama
 https://jmp2.uk/62e92708a7ce600007b2676a
-
-#EXTINF:-1 tvg-id="65fd548f29adfd00089c662c" tvg-logo="https://images.pluto.tv/channels/65fd548f29adfd00089c662c/colorLogoPNG.png" group-title="Crime Drama" tvg-chno="435",Diagnosis Murder
-https://jmp2.uk/65fd548f29adfd00089c662c
 
 #EXTINF:-1 tvg-id="62e92447ea1e2a000735ed33" tvg-logo="https://images.pluto.tv/channels/62e92447ea1e2a000735ed33/colorLogoPNG.png" group-title="Crime Drama" tvg-chno="440",Midsomer Murders
 https://jmp2.uk/62e92447ea1e2a000735ed33
@@ -4834,30 +4840,6 @@ https://jmp2.uk/6601948129adfd0008a1c0ba
 
 #EXTINF:-1 tvg-id="6703a96763292d000836b4fa" tvg-logo="https://images.pluto.tv/channels/6703a96763292d000836b4fa/colorLogoPNG.png" group-title="True Crime" tvg-chno="515",Crime Up Close
 https://jmp2.uk/6703a96763292d000836b4fa
-
-#EXTINF:-1 tvg-id="691b023a7613e09a8b209539" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png" group-title="Sci-Fi + Fantasy" tvg-chno="530",The X-Files
-https://jmp2.uk/691b023a7613e09a8b209539
-
-#EXTINF:-1 tvg-id="66166cb1307fa30008f275e7" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="Sci-Fi + Fantasy" tvg-chno="535",Pluto TV Sci-fi
-https://jmp2.uk/66166cb1307fa30008f275e7
-
-#EXTINF:-1 tvg-id="693bf37b75432d022c85ef01" tvg-logo="https://images.pluto.tv/channels/693bf37b75432d022c85ef01/colorLogoPNG_1765536677197.png" group-title="Sci-Fi + Fantasy" tvg-chno="540",Stargate
-https://jmp2.uk/693bf37b75432d022c85ef01
-
-#EXTINF:-1 tvg-id="6850335b5965a2fd49f7e36d" tvg-logo="https://images.pluto.tv/channels/6850335b5965a2fd49f7e36d/colorLogoPNG_1750087529738.png" group-title="Sci-Fi + Fantasy" tvg-chno="545",Andromeda
-https://jmp2.uk/6850335b5965a2fd49f7e36d
-
-#EXTINF:-1 tvg-id="62bdad934d73d50007a82472" tvg-logo="https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png" group-title="Sci-Fi + Fantasy" tvg-chno="550",Doctor Who Classic
-https://jmp2.uk/62bdad934d73d50007a82472
-
-#EXTINF:-1 tvg-id="6874ad743ffa5e0c917f6e20" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png" group-title="Sci-Fi + Fantasy" tvg-chno="555",The Outer Limits
-https://jmp2.uk/6874ad743ffa5e0c917f6e20
-
-#EXTINF:-1 tvg-id="62e94ec74823db0007277a8f" tvg-logo="https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png" group-title="Sci-Fi + Fantasy" tvg-chno="560",One Piece
-https://jmp2.uk/62e94ec74823db0007277a8f
-
-#EXTINF:-1 tvg-id="68d25b620a0f3829b116bb6f" tvg-logo="https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/colorLogoPNG_1758618285949.png" group-title="Sci-Fi + Fantasy" tvg-chno="565",Pluto TV Anime
-https://jmp2.uk/68d25b620a0f3829b116bb6f
 
 #EXTINF:-1 tvg-id="68b9afd66985e192657a2b7f" tvg-logo="https://images.pluto.tv/channels/68b9afd66985e192657a2b7f/colorLogoPNG_1760690903489.png" group-title="Paranormal" tvg-chno="580",APTN Beyond
 https://jmp2.uk/68b9afd66985e192657a2b7f
