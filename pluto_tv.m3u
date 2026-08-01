@@ -11,6 +11,9 @@ https://jmp2.uk/68fbf8101d26140175db8b58
 #EXTINF:-1 tvg-id="64b585f84ea480000838e446" tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG_1785343035531.png" group-title="Movies" tvg-chno="20",Pluto TV Icons
 https://jmp2.uk/64b585f84ea480000838e446
 
+#EXTINF:-1 tvg-id="6675c88da1d7ad00084762cb" tvg-logo="https://images.pluto.tv/channels/6675c88da1d7ad00084762cb/colorLogoPNG.png" group-title="Movies" tvg-chno="25",Star Trek: The Motion Pictures
+https://jmp2.uk/6675c88da1d7ad00084762cb
+
 #EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="Movies" tvg-chno="30",Pluto TV Action
 https://jmp2.uk/561d7d484dc7c8770484914a
 
@@ -95,6 +98,9 @@ https://jmp2.uk/66ba495ffe11e5000881f049
 #EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="Comedy" tvg-chno="300",TV Land Sitcoms
 https://jmp2.uk/5c2d64ffbdf11b71587184b8
 
+#EXTINF:-1 tvg-id="6a5ff6d9c868f8fd984e005c" tvg-logo="https://images.pluto.tv/channels/6a5ff6d9c868f8fd984e005c/colorLogoPNG_1785533131338.png" group-title="Comedy" tvg-chno="302",Ghosts
+https://jmp2.uk/6a5ff6d9c868f8fd984e005c
+
 #EXTINF:-1 tvg-id="6132619f9ddaa50007e7dd86" tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png" group-title="Comedy" tvg-chno="310",More TV Sitcoms
 https://jmp2.uk/6132619f9ddaa50007e7dd86
 
@@ -118,6 +124,9 @@ https://jmp2.uk/580e87ff497c73ba2f321dd3
 
 #EXTINF:-1 tvg-id="67882c1c7b11714b795c2008" tvg-logo="https://images.pluto.tv/channels/67882c1c7b11714b795c2008/colorLogoPNG.png" group-title="Comedy" tvg-chno="335",Sketchy AF
 https://jmp2.uk/67882c1c7b11714b795c2008
+
+#EXTINF:-1 tvg-id="6a4fd9f5445cbf6c14ae3ea2" tvg-logo="https://images.pluto.tv/channels/6a4fd9f5445cbf6c14ae3ea2/colorLogoPNG_1785175145313.png" group-title="Comedy" tvg-chno="337",Quirky AF
+https://jmp2.uk/6a4fd9f5445cbf6c14ae3ea2
 
 #EXTINF:-1 tvg-id="5ca671f215a62078d2ec0abf" tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG_1785343315719.png" group-title="Comedy" tvg-chno="340",Comedy Central Pluto TV
 https://jmp2.uk/5ca671f215a62078d2ec0abf
@@ -308,6 +317,9 @@ https://jmp2.uk/61b3b8c645b45d0007a9bb8d
 #EXTINF:-1 tvg-id="6675c742ca74680008566b88" tvg-logo="https://images.pluto.tv/channels/6675c742ca74680008566b88/colorLogoPNG.png" group-title="Drama" tvg-chno="1005",Nash Bridges
 https://jmp2.uk/6675c742ca74680008566b88
 
+#EXTINF:-1 tvg-id="6a065830853a01a827f6dd65" tvg-logo="https://images.pluto.tv/channels/6a065830853a01a827f6dd65/colorLogoPNG_1781131099315.png" group-title="Drama" tvg-chno="1008",Pluto TV Action Drama
+https://jmp2.uk/6a065830853a01a827f6dd65
+
 #EXTINF:-1 tvg-id="5f31fd1b4c510e00071c3103" tvg-logo="https://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/colorLogoPNG.png" group-title="Drama" tvg-chno="1010",Pluto TV Crime Drama
 https://jmp2.uk/5f31fd1b4c510e00071c3103
 
@@ -341,11 +353,17 @@ https://jmp2.uk/5cbf6a868a1bce4a3d52a5e9
 #EXTINF:-1 tvg-id="60f5d389985a0c0007357304" tvg-logo="https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG.png" group-title="Drama" tvg-chno="1090",BritBox Mysteries
 https://jmp2.uk/60f5d389985a0c0007357304
 
+#EXTINF:-1 tvg-id="6a4fd96d7652851fb490204f" tvg-logo="https://images.pluto.tv/channels/6a4fd96d7652851fb490204f/colorLogoPNG_1785178336408.png" group-title="Drama" tvg-chno="1110",Pluto TV Royal Drama
+https://jmp2.uk/6a4fd96d7652851fb490204f
+
 #EXTINF:-1 tvg-id="65775af3b3801200084a3aa4" tvg-logo="https://images.pluto.tv/channels/65775af3b3801200084a3aa4/colorLogoPNG.png" group-title="Drama" tvg-chno="1120",Feel Good Drama
 https://jmp2.uk/65775af3b3801200084a3aa4
 
 #EXTINF:-1 tvg-id="5f24662bebe0f0000767de32" tvg-logo="https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png" group-title="Drama" tvg-chno="1130",Supernatural Drama
 https://jmp2.uk/5f24662bebe0f0000767de32
+
+#EXTINF:-1 tvg-id="6a4bf0a89ad0c6d75edc026b" tvg-logo="https://images.pluto.tv/channels/6a4bf0a89ad0c6d75edc026b/colorLogoPNG_1785174433318.png" group-title="Drama" tvg-chno="1140",Jane the Virgin
+https://jmp2.uk/6a4bf0a89ad0c6d75edc026b
 
 #EXTINF:-1 tvg-id="5f4d83e0a382c00007bc02e7" tvg-logo="https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png" group-title="Drama" tvg-chno="1150",Beverly Hills 90210
 https://jmp2.uk/5f4d83e0a382c00007bc02e7
@@ -560,7 +578,7 @@ https://jmp2.uk/5ca670f6593a5d78f0e85aed
 #EXTINF:-1 tvg-id="68487fb3f212bedacf5a53e3" tvg-logo="https://images.pluto.tv/channels/68487fb3f212bedacf5a53e3/colorLogoPNG_1749846553889.png" group-title="Entertainment" tvg-chno="2050",50 Cent Action
 https://jmp2.uk/68487fb3f212bedacf5a53e3
 
-#EXTINF:-1 tvg-id="691d1200c2185a44642f5e7c" tvg-logo="https://images.pluto.tv/channels/691d1200c2185a44642f5e7c/colorLogoPNG_1764783865457.png" group-title="Entertainment" tvg-chno="2055",El Rey Rebel
+#EXTINF:-1 tvg-id="691d1200c2185a44642f5e7c" tvg-logo="https://images.pluto.tv/channels/691d1200c2185a44642f5e7c/colorLogoPNG_1764783865457.png" group-title="Movies" tvg-chno="2055",El Rey Rebel
 https://jmp2.uk/691d1200c2185a44642f5e7c
 
 #EXTINF:-1 tvg-id="65453f30085df200085883d8" tvg-logo="https://images.pluto.tv/channels/65453f30085df200085883d8/colorLogoPNG.png" group-title="Entertainment" tvg-chno="2060",ION
@@ -1027,6 +1045,9 @@ https://jmp2.uk/67c63b90a20c0399a381b816
 
 #EXTINF:-1 tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="Anime" tvg-chno="4030",Yu-Gi-Oh!
 https://jmp2.uk/5f4ec10ed9636f00089b8c89
+
+#EXTINF:-1 tvg-id="6049295e7dcef800073c2499" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG_1771543916293.png" group-title="En Español" tvg-chno="4085",Star Trek en español
+https://jmp2.uk/6049295e7dcef800073c2499
 
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="En Español" tvg-chno="4090",Cine Premiere
 https://jmp2.uk/5cf968040ab7d8f181e6a68b
