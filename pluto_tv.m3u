@@ -5621,14 +5621,14 @@ https://jmp2.uk/6231ec93779a9d00079ba8e2
 #EXTINF:-1 tvg-id="60d35bcaf1ff4a00078af0a6" tvg-logo="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png" group-title="News" tvg-chno="1415",Euronews
 https://jmp2.uk/60d35bcaf1ff4a00078af0a6
 
-#EXTINF:-1 tvg-id="69ef572280ef8232ceef596b" tvg-logo="https://images.pluto.tv/channels/69ef572280ef8232ceef596b/colorLogoPNG_1779270729947.png" group-title="Novità su Pluto TV" tvg-chno="47",That's 60s
-https://jmp2.uk/69ef572280ef8232ceef596b
-
 #EXTINF:-1 tvg-id="69fc8fd109705ebdf782724a" tvg-logo="https://images.pluto.tv/channels/69fc8fd109705ebdf782724a/colorLogoPNG_1780491297687.png" group-title="Novità su Pluto TV" tvg-chno="50",ZDF Guardia Costiera
 https://jmp2.uk/69fc8fd109705ebdf782724a
 
 #EXTINF:-1 tvg-id="69fc9010f6ac24413f520103" tvg-logo="https://images.pluto.tv/channels/69fc9010f6ac24413f520103/colorLogoPNG_1780491443862.png" group-title="Novità su Pluto TV" tvg-chno="51",ZDF Squadra Speciale Lipsia
 https://jmp2.uk/69fc9010f6ac24413f520103
+
+#EXTINF:-1 tvg-id="69ef572280ef8232ceef596b" tvg-logo="https://images.pluto.tv/channels/69ef572280ef8232ceef596b/colorLogoPNG_1779270729947.png" group-title="Novità su Pluto TV" tvg-chno="52",That's 60s
+https://jmp2.uk/69ef572280ef8232ceef596b
 
 #EXTINF:-1 tvg-id="62442f28afe626000747f195" tvg-logo="https://images.pluto.tv/channels/62442f28afe626000747f195/colorLogoPNG_1779087604763.png" group-title="Serie" tvg-chno="100",I Jefferson
 https://jmp2.uk/62442f28afe626000747f195
