@@ -5618,14 +5618,17 @@ https://jmp2.uk/6231ec93779a9d00079ba8e2
 #EXTINF:-1 tvg-id="60d35bcaf1ff4a00078af0a6" tvg-logo="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png" group-title="News" tvg-chno="1415",Euronews
 https://jmp2.uk/60d35bcaf1ff4a00078af0a6
 
-#EXTINF:-1 tvg-id="69fc8fd109705ebdf782724a" tvg-logo="https://images.pluto.tv/channels/69fc8fd109705ebdf782724a/colorLogoPNG_1780491297687.png" group-title="Novità su Pluto TV" tvg-chno="50",ZDF Guardia Costiera
-https://jmp2.uk/69fc8fd109705ebdf782724a
+#EXTINF:-1 tvg-id="6a439aae539f6cfa9cd04d27" tvg-logo="https://images.pluto.tv/channels/6a439aae539f6cfa9cd04d27/colorLogoPNG_1785329587571.png" group-title="Novità su Pluto TV" tvg-chno="50",Pluto TV Arte
+https://jmp2.uk/6a439aae539f6cfa9cd04d27
 
-#EXTINF:-1 tvg-id="69fc9010f6ac24413f520103" tvg-logo="https://images.pluto.tv/channels/69fc9010f6ac24413f520103/colorLogoPNG_1780491443862.png" group-title="Novità su Pluto TV" tvg-chno="51",ZDF Squadra Speciale Lipsia
+#EXTINF:-1 tvg-id="69ef572280ef8232ceef596b" tvg-logo="https://images.pluto.tv/channels/69ef572280ef8232ceef596b/colorLogoPNG_1779270729947.png" group-title="Novità su Pluto TV" tvg-chno="51",That's 60s
+https://jmp2.uk/69ef572280ef8232ceef596b
+
+#EXTINF:-1 tvg-id="69fc9010f6ac24413f520103" tvg-logo="https://images.pluto.tv/channels/69fc9010f6ac24413f520103/colorLogoPNG_1780491443862.png" group-title="Novità su Pluto TV" tvg-chno="52",ZDF Squadra Speciale Lipsia
 https://jmp2.uk/69fc9010f6ac24413f520103
 
-#EXTINF:-1 tvg-id="69ef572280ef8232ceef596b" tvg-logo="https://images.pluto.tv/channels/69ef572280ef8232ceef596b/colorLogoPNG_1779270729947.png" group-title="Novità su Pluto TV" tvg-chno="52",That's 60s
-https://jmp2.uk/69ef572280ef8232ceef596b
+#EXTINF:-1 tvg-id="69fc8fd109705ebdf782724a" tvg-logo="https://images.pluto.tv/channels/69fc8fd109705ebdf782724a/colorLogoPNG_1780491297687.png" group-title="Novità su Pluto TV" tvg-chno="53",ZDF Guardia Costiera
+https://jmp2.uk/69fc8fd109705ebdf782724a
 
 #EXTINF:-1 tvg-id="62442f28afe626000747f195" tvg-logo="https://images.pluto.tv/channels/62442f28afe626000747f195/colorLogoPNG_1779087604763.png" group-title="Serie" tvg-chno="100",I Jefferson
 https://jmp2.uk/62442f28afe626000747f195
@@ -5672,11 +5675,11 @@ https://jmp2.uk/66d9aa4315d2c60008d4ac40
 #EXTINF:-1 tvg-id="66d9a98961dbf00008efb5fc" tvg-logo="https://images.pluto.tv/channels/66d9a98961dbf00008efb5fc/colorLogoPNG.png" group-title="Serie Crime" tvg-chno="175",Sulle tracce del crimine
 https://jmp2.uk/66d9a98961dbf00008efb5fc
 
-#EXTINF:-1 tvg-id="625e6cc905e09f00073addee" tvg-logo="https://images.pluto.tv/channels/625e6cc905e09f00073addee/colorLogoPNG_1761308604738.png" group-title="Serie Crime" tvg-chno="180",Squadra Speciale Cobra 11
-https://jmp2.uk/625e6cc905e09f00073addee
-
 #EXTINF:-1 tvg-id="6500457d3efb510008315e59" tvg-logo="https://images.pluto.tv/channels/6500457d3efb510008315e59/colorLogoPNG.png" group-title="Serie Crime" tvg-chno="180",New Tricks
 https://jmp2.uk/6500457d3efb510008315e59
+
+#EXTINF:-1 tvg-id="625e6cc905e09f00073addee" tvg-logo="https://images.pluto.tv/channels/625e6cc905e09f00073addee/colorLogoPNG_1761308604738.png" group-title="Serie Crime" tvg-chno="180",Squadra Speciale Cobra 11
+https://jmp2.uk/625e6cc905e09f00073addee
 
 #EXTINF:-1 tvg-id="638f286445264d00084ec6dc" tvg-logo="https://images.pluto.tv/channels/638f286445264d00084ec6dc/colorLogoPNG.png" group-title="Serie Crime" tvg-chno="185",Autostop per il cielo
 https://jmp2.uk/638f286445264d00084ec6dc
