@@ -1268,6 +1268,9 @@ https://jmp2.uk/632b619c8d2a6c0007ff534e
 #EXTINF:-1 tvg-id="5eceb0d4065c240007688ec6" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" group-title="Local News" tvg-chno="5250",CBS News Texas
 https://jmp2.uk/5eceb0d4065c240007688ec6
 
+#EXTINF:-1 tvg-id="6824563bfaaa60cd7deff5ad" tvg-logo="https://images.pluto.tv/channels/6824563bfaaa60cd7deff5ad/colorLogoPNG_1782912488127.png" group-title="New on Pluto TV" tvg-chno="1",Love After Lock Up
+https://jmp2.uk/6824563bfaaa60cd7deff5ad
+
 #EXTINF:-1 tvg-id="6a3a463fd7a42182ccd2d0b1" tvg-logo="https://images.pluto.tv/channels/6a3a463fd7a42182ccd2d0b1/colorLogoPNG_1785310990240.png" group-title="New on Pluto TV" tvg-chno="2",Sam and Colby
 https://jmp2.uk/6a3a463fd7a42182ccd2d0b1
 
@@ -1355,11 +1358,11 @@ https://jmp2.uk/6401d85a49839300087b116c
 #EXTINF:-1 tvg-id="68b5a7b69ac85c428f54c441" tvg-logo="https://images.pluto.tv/channels/68b5a7b69ac85c428f54c441/colorLogoPNG_1762359402221.png" group-title="Movies" tvg-chno="112",Curzon
 https://jmp2.uk/68b5a7b69ac85c428f54c441
 
-#EXTINF:-1 tvg-id="5d4bdb635ce813b38639e6a3" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" group-title="Movies" tvg-chno="113",Pluto TV Westerns
-https://jmp2.uk/5d4bdb635ce813b38639e6a3
-
 #EXTINF:-1 tvg-id="686fc8fe1889b4ad04604704" tvg-logo="https://images.pluto.tv/channels/686fc8fe1889b4ad04604704/colorLogoPNG_1759777262346.png" group-title="Movies" tvg-chno="113",Icons Unearthed+
 https://jmp2.uk/686fc8fe1889b4ad04604704
+
+#EXTINF:-1 tvg-id="5d4bdb635ce813b38639e6a3" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" group-title="Movies" tvg-chno="113",Pluto TV Westerns
+https://jmp2.uk/5d4bdb635ce813b38639e6a3
 
 #EXTINF:-1 tvg-id="5dc3fc6b9133f500099c7d98" tvg-logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png" group-title="Movies" tvg-chno="114",Pluto TV Family Movie Club
 https://jmp2.uk/5dc3fc6b9133f500099c7d98
@@ -1712,11 +1715,11 @@ https://jmp2.uk/64c0d697b0cf5c000824e5d9
 #EXTINF:-1 tvg-id="5ddf901280e3550009139c86" tvg-logo="https://images.pluto.tv/channels/5ddf901280e3550009139c86/colorLogoPNG.png" group-title="Documentaries" tvg-chno="814",5 Exploring Britain
 https://jmp2.uk/5ddf901280e3550009139c86
 
-#EXTINF:-1 tvg-id="6981cc6a644861a57c3bd8ad" tvg-logo="https://images.pluto.tv/channels/6981cc6a644861a57c3bd8ad/colorLogoPNG_1774540226536.png" group-title="Documentaries" tvg-chno="816",Shockwave
-https://jmp2.uk/6981cc6a644861a57c3bd8ad
-
 #EXTINF:-1 tvg-id="65819fc1b9adc4000813f37d" tvg-logo="https://images.pluto.tv/channels/65819fc1b9adc4000813f37d/colorLogoPNG.png" group-title="Documentaries" tvg-chno="816",History Hunters
 https://jmp2.uk/65819fc1b9adc4000813f37d
+
+#EXTINF:-1 tvg-id="6981cc6a644861a57c3bd8ad" tvg-logo="https://images.pluto.tv/channels/6981cc6a644861a57c3bd8ad/colorLogoPNG_1774540226536.png" group-title="Documentaries" tvg-chno="816",Shockwave
+https://jmp2.uk/6981cc6a644861a57c3bd8ad
 
 #EXTINF:-1 tvg-id="5ddf930548ff9b00090d5686" tvg-logo="https://images.pluto.tv/channels/5ddf930548ff9b00090d5686/colorLogoPNG.png" group-title="Living" tvg-chno="830",Pluto TV Food
 https://jmp2.uk/5ddf930548ff9b00090d5686
@@ -1835,11 +1838,11 @@ https://jmp2.uk/62ac50e92c48f900071444c9
 #EXTINF:-1 tvg-id="690dc8ed1ee9b6ac66607ce2" tvg-logo="https://images.pluto.tv/channels/690dc8ed1ee9b6ac66607ce2/colorLogoPNG_1767781622486.png" group-title="Entertainment" tvg-chno="929",America's Funniest Home Videos
 https://jmp2.uk/690dc8ed1ee9b6ac66607ce2
 
-#EXTINF:-1 tvg-id="672cb91149c40600081cbee5" tvg-logo="https://images.pluto.tv/channels/672cb91149c40600081cbee5/colorLogoPNG_1772035532114.png" group-title="Entertainment" tvg-chno="930",Whose Line Is It Anyway?
-https://jmp2.uk/672cb91149c40600081cbee5
-
 #EXTINF:-1 tvg-id="69c6a93486431735d974bc2a" tvg-logo="https://images.pluto.tv/channels/69c6a93486431735d974bc2a/colorLogoPNG_1778165757861.png" group-title="Entertainment" tvg-chno="930",Deal Masters
 https://jmp2.uk/69c6a93486431735d974bc2a
+
+#EXTINF:-1 tvg-id="672cb91149c40600081cbee5" tvg-logo="https://images.pluto.tv/channels/672cb91149c40600081cbee5/colorLogoPNG_1772035532114.png" group-title="Entertainment" tvg-chno="930",Whose Line Is It Anyway?
+https://jmp2.uk/672cb91149c40600081cbee5
 
 #EXTINF:-1 tvg-id="5e6f38792075160007d85823" tvg-logo="https://images.pluto.tv/channels/5e6f38792075160007d85823/colorLogoPNG.png" group-title="Entertainment" tvg-chno="931",Hell's Kitchen
 https://jmp2.uk/5e6f38792075160007d85823
@@ -2270,6 +2273,18 @@ https://jmp2.uk/6231ede1be5b460007f91bc1
 #EXTINF:-1 tvg-id="68345650e8377f86acdeda83" tvg-logo="https://images.pluto.tv/channels/68345650e8377f86acdeda83/colorLogoPNG_1751021711627.png" group-title="Verano de Terror" tvg-chno="316",Pluto TV Series de Terror
 https://jmp2.uk/68345650e8377f86acdeda83
 
+#EXTINF:-1 tvg-id="62e920403bd6940007fb68b8" tvg-logo="https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png" group-title="Comedy" tvg-chno="1",Family Ties
+https://jmp2.uk/62e920403bd6940007fb68b8
+
+#EXTINF:-1 tvg-id="6a56adb02f9e0117d78f5b44" tvg-logo="https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png" group-title="Classic TV Comedy" tvg-chno="2",Hogan's Heroes
+https://jmp2.uk/6a56adb02f9e0117d78f5b44
+
+#EXTINF:-1 tvg-id="6a56ae15bd858f210ae007fe" tvg-logo="https://images.pluto.tv/channels/6a56ae15bd858f210ae007fe/colorLogoPNG_1784069906159.png" group-title="Classic TV Comedy" tvg-chno="3",Classic TV Comedy
+https://jmp2.uk/6a56ae15bd858f210ae007fe
+
+#EXTINF:-1 tvg-id="6a56add5f7dc4ada892d374b" tvg-logo="https://images.pluto.tv/channels/6a56add5f7dc4ada892d374b/colorLogoPNG_1784069781833.png" group-title="Westerns" tvg-chno="4",The Wild Wild West
+https://jmp2.uk/6a56add5f7dc4ada892d374b
+
 #EXTINF:-1 tvg-id="691b023a7613e09a8b209539" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png" group-title="Out of This World" tvg-chno="20",The X-Files
 https://jmp2.uk/691b023a7613e09a8b209539
 
@@ -2341,9 +2356,6 @@ https://jmp2.uk/62f4f90e39183b000769f12b
 
 #EXTINF:-1 tvg-id="62bdb7f0db2eb30007376d4d" tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" group-title="Comedy" tvg-chno="105",Cheers
 https://jmp2.uk/62bdb7f0db2eb30007376d4d
-
-#EXTINF:-1 tvg-id="62e920403bd6940007fb68b8" tvg-logo="https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png" group-title="Comedy" tvg-chno="109",Family Ties
-https://jmp2.uk/62e920403bd6940007fb68b8
 
 #EXTINF:-1 tvg-id="62f4f414c2ba130007f8b24e" tvg-logo="https://images.pluto.tv/channels/62f4f414c2ba130007f8b24e/colorLogoPNG.png" group-title="Comedy" tvg-chno="110",King of Queens
 https://jmp2.uk/62f4f414c2ba130007f8b24e
@@ -2942,11 +2954,11 @@ https://jmp2.uk/5e7b6c60fd20c50007910bf5
 #EXTINF:-1 tvg-id="67d984408d8dc3d7754dccf2" tvg-logo="https://images.pluto.tv/channels/67d984408d8dc3d7754dccf2/colorLogoPNG_1746817551952.png" group-title="Crime" tvg-chno="16",Pluto TV Nordic Crime
 https://jmp2.uk/67d984408d8dc3d7754dccf2
 
-#EXTINF:-1 tvg-id="6a3160fe9465b98649e7d89a" tvg-logo="https://images.pluto.tv/channels/6a3160fe9465b98649e7d89a/colorLogoPNG_1785149260686.png" group-title="60 Jahre Star Trek" tvg-chno="29",Pluto TV Star Trek: Spock - Lebe lang und in Frieden
-https://jmp2.uk/6a3160fe9465b98649e7d89a
+#EXTINF:-1 tvg-id="6a3160bd5304e3244427863d" tvg-logo="https://images.pluto.tv/channels/6a3160bd5304e3244427863d/colorLogoPNG_1785149124560.png" group-title="60 Jahre Star Trek" tvg-chno="29",Pluto TV Star Trek: Kirks Missionen
+https://jmp2.uk/6a3160bd5304e3244427863d
 
-#EXTINF:-1 tvg-id="6a31609d2e5d44e1a2f5fede" tvg-logo="https://images.pluto.tv/channels/6a31609d2e5d44e1a2f5fede/colorLogoPNG_1784801660029.png" group-title="60 Jahre Star Trek" tvg-chno="30",Pluto TV Star Trek: Bösewichte & Gegenspieler
-https://jmp2.uk/6a31609d2e5d44e1a2f5fede
+#EXTINF:-1 tvg-id="6a3160fe9465b98649e7d89a" tvg-logo="https://images.pluto.tv/channels/6a3160fe9465b98649e7d89a/colorLogoPNG_1785149260686.png" group-title="60 Jahre Star Trek" tvg-chno="30",Pluto TV Star Trek: Spock - Lebe lang und in Frieden
+https://jmp2.uk/6a3160fe9465b98649e7d89a
 
 #EXTINF:-1 tvg-id="697a0577f9c3aa5a215a4ef8" tvg-logo="https://images.pluto.tv/channels/697a0577f9c3aa5a215a4ef8/colorLogoPNG_1769604535866.png" group-title="Sitcoms + Comedy" tvg-chno="50",Will&Grace
 https://jmp2.uk/697a0577f9c3aa5a215a4ef8
@@ -4586,6 +4598,18 @@ https://jmp2.uk/5f85ca40eda1b10007b967cd
 #EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música" tvg-chno="1525",Karaoke por Stingray
 https://jmp2.uk/5f85cf621d6d2200079f1de0
 
+#EXTINF:-1 tvg-id="62e920403bd6940007fb68b8" tvg-logo="https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png" group-title="Comedy" tvg-chno="1",Family Ties
+https://jmp2.uk/62e920403bd6940007fb68b8
+
+#EXTINF:-1 tvg-id="6a56adb02f9e0117d78f5b44" tvg-logo="https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png" group-title="Classic TV Comedy" tvg-chno="2",Hogan's Heroes
+https://jmp2.uk/6a56adb02f9e0117d78f5b44
+
+#EXTINF:-1 tvg-id="6a56ae15bd858f210ae007fe" tvg-logo="https://images.pluto.tv/channels/6a56ae15bd858f210ae007fe/colorLogoPNG_1784069906159.png" group-title="Classic TV Comedy" tvg-chno="3",Classic TV Comedy
+https://jmp2.uk/6a56ae15bd858f210ae007fe
+
+#EXTINF:-1 tvg-id="6a56add5f7dc4ada892d374b" tvg-logo="https://images.pluto.tv/channels/6a56add5f7dc4ada892d374b/colorLogoPNG_1784069781833.png" group-title="Westerns" tvg-chno="4",The Wild Wild West
+https://jmp2.uk/6a56add5f7dc4ada892d374b
+
 #EXTINF:-1 tvg-id="691b023a7613e09a8b209539" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png" group-title="Out of This World" tvg-chno="20",The X-Files
 https://jmp2.uk/691b023a7613e09a8b209539
 
@@ -4657,9 +4681,6 @@ https://jmp2.uk/62f4f90e39183b000769f12b
 
 #EXTINF:-1 tvg-id="62bdb7f0db2eb30007376d4d" tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" group-title="Comedy" tvg-chno="105",Cheers
 https://jmp2.uk/62bdb7f0db2eb30007376d4d
-
-#EXTINF:-1 tvg-id="62e920403bd6940007fb68b8" tvg-logo="https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png" group-title="Comedy" tvg-chno="109",Family Ties
-https://jmp2.uk/62e920403bd6940007fb68b8
 
 #EXTINF:-1 tvg-id="62f4f414c2ba130007f8b24e" tvg-logo="https://images.pluto.tv/channels/62f4f414c2ba130007f8b24e/colorLogoPNG.png" group-title="Comedy" tvg-chno="110",King of Queens
 https://jmp2.uk/62f4f414c2ba130007f8b24e
