@@ -2966,11 +2966,11 @@ https://jmp2.uk/5e7b6c60fd20c50007910bf5
 #EXTINF:-1 tvg-id="67d984408d8dc3d7754dccf2" tvg-logo="https://images.pluto.tv/channels/67d984408d8dc3d7754dccf2/colorLogoPNG_1746817551952.png" group-title="Crime" tvg-chno="16",Pluto TV Nordic Crime
 https://jmp2.uk/67d984408d8dc3d7754dccf2
 
-#EXTINF:-1 tvg-id="6a3160bd5304e3244427863d" tvg-logo="https://images.pluto.tv/channels/6a3160bd5304e3244427863d/colorLogoPNG_1785149124560.png" group-title="60 Jahre Star Trek" tvg-chno="29",Pluto TV Star Trek: Kirks Missionen
-https://jmp2.uk/6a3160bd5304e3244427863d
+#EXTINF:-1 tvg-id="6a3160d661bf2f9792c095d1" tvg-logo="https://images.pluto.tv/channels/6a3160d661bf2f9792c095d1/colorLogoPNG_1785149169123.png" group-title="60 Jahre Star Trek" tvg-chno="30",Pluto TV Star Trek: Liebe, Beziehungen & Verführung
+https://jmp2.uk/6a3160d661bf2f9792c095d1
 
-#EXTINF:-1 tvg-id="6a3160eae022927e1c9eb429" tvg-logo="https://images.pluto.tv/channels/6a3160eae022927e1c9eb429/colorLogoPNG_1785149206402.png" group-title="60 Jahre Star Trek" tvg-chno="30",Pluto TV Star Trek: Picards Scharfsinn
-https://jmp2.uk/6a3160eae022927e1c9eb429
+#EXTINF:-1 tvg-id="6a3161122c1c785c1139112a" tvg-logo="https://images.pluto.tv/channels/6a3161122c1c785c1139112a/colorLogoPNG_1785149347050.png" group-title="60 Jahre Star Trek" tvg-chno="31",Pluto TV Star Trek: Zeitreisen, Paradoxa und das Q-Kontinuum
+https://jmp2.uk/6a3161122c1c785c1139112a
 
 #EXTINF:-1 tvg-id="697a0577f9c3aa5a215a4ef8" tvg-logo="https://images.pluto.tv/channels/697a0577f9c3aa5a215a4ef8/colorLogoPNG_1769604535866.png" group-title="Sitcoms + Comedy" tvg-chno="50",Will&Grace
 https://jmp2.uk/697a0577f9c3aa5a215a4ef8
@@ -3065,10 +3065,13 @@ https://jmp2.uk/68ac5543a1ac0c90f2c8943e
 #EXTINF:-1 tvg-id="66337ea1307fa300082c28a0" tvg-logo="https://images.pluto.tv/channels/66337ea1307fa300082c28a0/colorLogoPNG_1755794338808.png" group-title="Live Sports" tvg-chno="93",BVB-Frauen
 https://jmp2.uk/66337ea1307fa300082c28a0
 
-#EXTINF:-1 tvg-id="6866525c8a412a0e95c438b4" tvg-logo="https://images.pluto.tv/channels/6866525c8a412a0e95c438b4/colorLogoPNG_1753770799796.png" group-title="Live Sports" tvg-chno="94",Dyn Sport Mix
+#EXTINF:-1 tvg-id="6a6a02dc05520fcba93df783" tvg-logo="https://images.pluto.tv/channels/6a6a02dc05520fcba93df783/colorLogoPNG_1785333546555.png" group-title="Live Sports" tvg-chno="94",NFL Channel
+https://jmp2.uk/6a6a02dc05520fcba93df783
+
+#EXTINF:-1 tvg-id="6866525c8a412a0e95c438b4" tvg-logo="https://images.pluto.tv/channels/6866525c8a412a0e95c438b4/colorLogoPNG_1753770799796.png" group-title="Live Sports" tvg-chno="95",Dyn Sport Mix
 https://jmp2.uk/6866525c8a412a0e95c438b4
 
-#EXTINF:-1 tvg-id="66337e6ba0a74e000889563b" tvg-logo="https://images.pluto.tv/channels/66337e6ba0a74e000889563b/colorLogoPNG_1732093439335.png" group-title="Live Sports" tvg-chno="95",MODUS Super Series Darts
+#EXTINF:-1 tvg-id="66337e6ba0a74e000889563b" tvg-logo="https://images.pluto.tv/channels/66337e6ba0a74e000889563b/colorLogoPNG_1732093439335.png" group-title="Live Sports" tvg-chno="96",MODUS Super Series Darts
 https://jmp2.uk/66337e6ba0a74e000889563b
 
 #EXTINF:-1 tvg-id="64afe50c5dc16600087f3227" tvg-logo="https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png" group-title="Live Sports" tvg-chno="97",DAZN Heldinnen x Pluto TV
@@ -3467,11 +3470,11 @@ https://jmp2.uk/5f9847fd513250000728a9a5
 #EXTINF:-1 tvg-id="5d00e8adaab96b5635b2a005" tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" group-title="Kids" tvg-chno="470",SpongeBob Schwammkopf
 https://jmp2.uk/5d00e8adaab96b5635b2a005
 
-#EXTINF:-1 tvg-id="600adbdf8c554e00072125c9" tvg-logo="https://images.pluto.tv/channels/600adbdf8c554e00072125c9/colorLogoPNG.png" group-title="Kids" tvg-chno="471",Avatar
-https://jmp2.uk/600adbdf8c554e00072125c9
-
 #EXTINF:-1 tvg-id="65a67c494a10d800085cab06" tvg-logo="https://images.pluto.tv/channels/65a67c494a10d800085cab06/colorLogoPNG.png" group-title="Kids" tvg-chno="471",Drake & Josh
 https://jmp2.uk/65a67c494a10d800085cab06
+
+#EXTINF:-1 tvg-id="600adbdf8c554e00072125c9" tvg-logo="https://images.pluto.tv/channels/600adbdf8c554e00072125c9/colorLogoPNG.png" group-title="Kids" tvg-chno="471",Avatar
+https://jmp2.uk/600adbdf8c554e00072125c9
 
 #EXTINF:-1 tvg-id="5e8b580a233dc90007f0cb9d" tvg-logo="https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png" group-title="Kids" tvg-chno="474",iCarly
 https://jmp2.uk/5e8b580a233dc90007f0cb9d
