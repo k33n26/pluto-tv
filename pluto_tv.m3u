@@ -347,13 +347,13 @@ https://jmp2.uk/654933e253fc970008390114
 #EXTINF:-1 tvg-id="62fa8176b9884200074ef5ae" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-title="Drama" tvg-chno="1060",The Walking Dead Universe
 https://jmp2.uk/62fa8176b9884200074ef5ae
 
-#EXTINF:-1 tvg-id="62f2ce24f328e00007e7f55a" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG_1787093171101.png" group-title="Drama" tvg-chno="1070",Stories by AMC
+#EXTINF:-1 tvg-id="62f2ce24f328e00007e7f55a" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png" group-title="Drama" tvg-chno="1070",Stories by AMC
 https://jmp2.uk/62f2ce24f328e00007e7f55a
 
 #EXTINF:-1 tvg-id="5cbf6a868a1bce4a3d52a5e9" tvg-logo="https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/colorLogoPNG.png" group-title="Drama" tvg-chno="1080",Midsomer Murders
 https://jmp2.uk/5cbf6a868a1bce4a3d52a5e9
 
-#EXTINF:-1 tvg-id="60f5d389985a0c0007357304" tvg-logo="https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG_1786980983531.png" group-title="Drama" tvg-chno="1090",BritBox Mysteries
+#EXTINF:-1 tvg-id="60f5d389985a0c0007357304" tvg-logo="https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG.png" group-title="Drama" tvg-chno="1090",BritBox Mysteries
 https://jmp2.uk/60f5d389985a0c0007357304
 
 #EXTINF:-1 tvg-id="6a4fd96d7652851fb490204f" tvg-logo="https://images.pluto.tv/channels/6a4fd96d7652851fb490204f/colorLogoPNG_1785178336408.png" group-title="Drama" tvg-chno="1110",Pluto TV Royal Drama
@@ -707,8 +707,8 @@ https://jmp2.uk/5dc9b8223687ff000936ed79
 #EXTINF:-1 tvg-id="5dc9b875e280c80009a8a44a" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2560",CBS News Los Angeles
 https://jmp2.uk/5dc9b875e280c80009a8a44a
 
-#EXTINF:-1 tvg-id="62cdcd05b9e7a10007399603" tvg-logo="https://images.pluto.tv/channels/62cdcd05b9e7a10007399603/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2570",CBS News Sacramento
-https://jmp2.uk/62cdcd05b9e7a10007399603
+#EXTINF:-1 tvg-id="62cdcac1be7a970008781a64" tvg-logo="https://images.pluto.tv/channels/62cdcac1be7a970008781a64/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2570",CBS News Pittsburgh
+https://jmp2.uk/62cdcac1be7a970008781a64
 
 #EXTINF:-1 tvg-id="55b179af994403942f3061d6" tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2578",Newsmax2
 https://jmp2.uk/55b179af994403942f3061d6
@@ -956,6 +956,12 @@ https://jmp2.uk/5d14fb6c84dd37df3b4290c5
 #EXTINF:-1 tvg-id="51c75f7bb6f26ba1cd00002f" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="Kids" tvg-chno="3730",Little Stars Universe
 https://jmp2.uk/51c75f7bb6f26ba1cd00002f
 
+#EXTINF:-1 tvg-id="5eb301b7395671000780d100" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" group-title="Kids" tvg-chno="3740",Little Angel's Playroom
+https://jmp2.uk/5eb301b7395671000780d100
+
+#EXTINF:-1 tvg-id="60493283ffc52f000710edae" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" group-title="Kids" tvg-chno="3750",Little Angel's Playroom en Español
+https://jmp2.uk/60493283ffc52f000710edae
+
 #EXTINF:-1 tvg-id="66fedd65d7de140008dccd66" tvg-logo="https://images.pluto.tv/channels/66fedd65d7de140008dccd66/colorLogoPNG.png" group-title="Kids" tvg-chno="3755",El Reino Infantil
 https://jmp2.uk/66fedd65d7de140008dccd66
 
@@ -1190,7 +1196,7 @@ https://jmp2.uk/5d14fdb8ca91eedee1633117
 #EXTINF:-1 tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG_1758324914960.png" group-title="Music Videos" tvg-chno="4780",MTV Biggest Pop
 https://jmp2.uk/5d14fd1a252d35decbc4080c
 
-#EXTINF:-1 tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png" group-title="En Español" tvg-chno="4790",MTV Flow Latino
+#EXTINF:-1 tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png" group-title="Music Videos" tvg-chno="4790",MTV Flow Latino
 https://jmp2.uk/5d3609cd6a6c78d7672f2a81
 
 #EXTINF:-1 tvg-id="69445a9a78c0c45b6c9aa8b9" tvg-logo="https://images.pluto.tv/channels/69445a9a78c0c45b6c9aa8b9/colorLogoPNG_1771261855448.png" group-title="Music Videos" tvg-chno="4795",TikTok Radio
@@ -8374,9 +8380,6 @@ https://jmp2.uk/63f7e3f9dff38e00082a57af
 
 #EXTINF:-1 tvg-id="5e98b0447665f200078caded" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="Deportes" tvg-chno="850",Pluto TV Peleas
 https://jmp2.uk/5e98b0447665f200078caded
-
-#EXTINF:-1 tvg-id="6a68cb5a116cd6d17dba0b95" tvg-logo="https://images.pluto.tv/channels/6a68cb5a116cd6d17dba0b95/colorLogoPNG_1785253726745.png" group-title="Deportes" tvg-chno="857",NFL Channel
-https://jmp2.uk/6a68cb5a116cd6d17dba0b95
 
 #EXTINF:-1 tvg-id="64f6163a30ab3300083d870e" tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" group-title="Deportes" tvg-chno="862",PFL MMA
 https://jmp2.uk/64f6163a30ab3300083d870e
