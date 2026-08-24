@@ -5267,20 +5267,17 @@ https://jmp2.uk/654100b4bdf3cf0008aa49c7
 #EXTINF:-1 tvg-id="64240d3d466225000827412b" tvg-logo="https://images.pluto.tv/channels/64240d3d466225000827412b/colorLogoPNG.png" group-title="Music" tvg-chno="1410",Qello Concerts
 https://jmp2.uk/64240d3d466225000827412b
 
-#EXTINF:-1 tvg-id="6a31608fac88749b9cb85dd8" tvg-logo="https://images.pluto.tv/channels/6a31608fac88749b9cb85dd8/colorLogoPNG_1785329824052.png" group-title="Nouveau sur Pluto TV" tvg-chno="8",Ciné Charme by Pluto TV
-https://jmp2.uk/6a31608fac88749b9cb85dd8
-
 #EXTINF:-1 tvg-id="6a1ea44109705ebdf73b7c49" tvg-logo="https://images.pluto.tv/channels/6a1ea44109705ebdf73b7c49/colorLogoPNG_1782459640532.png" group-title="Nouveau sur Pluto TV" tvg-chno="8",House of Creators
 https://jmp2.uk/6a1ea44109705ebdf73b7c49
 
-#EXTINF:-1 tvg-id="682318568e6c0f2f6c6e0038" tvg-logo="https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/colorLogoPNG_1784122185248.png" group-title="Nouveau sur Pluto TV" tvg-chno="9",Ink Master
-https://jmp2.uk/682318568e6c0f2f6c6e0038
+#EXTINF:-1 tvg-id="6a6a02bd93ac783fe20d1bf7" tvg-logo="https://images.pluto.tv/channels/6a6a02bd93ac783fe20d1bf7/colorLogoPNG_1785333415249.png" group-title="Nouveau sur Pluto TV" tvg-chno="9",NFL Channel
+https://jmp2.uk/6a6a02bd93ac783fe20d1bf7
 
 #EXTINF:-1 tvg-id="691b351d427d68a118fdda13" tvg-logo="https://images.pluto.tv/channels/691b351d427d68a118fdda13/colorLogoPNG_1771923741719.png" group-title="Nouveau sur Pluto TV" tvg-chno="10",Cut
 https://jmp2.uk/691b351d427d68a118fdda13
 
-#EXTINF:-1 tvg-id="69c2ad7500a8d7d87767d25f" tvg-logo="https://images.pluto.tv/channels/69c2ad7500a8d7d87767d25f/colorLogoPNG_1780925384785.png" group-title="Nouveau sur Pluto TV" tvg-chno="12",Pluto TV Girls Club
-https://jmp2.uk/69c2ad7500a8d7d87767d25f
+#EXTINF:-1 tvg-id="6a31608fac88749b9cb85dd8" tvg-logo="https://images.pluto.tv/channels/6a31608fac88749b9cb85dd8/colorLogoPNG_1785329824052.png" group-title="Nouveau sur Pluto TV" tvg-chno="11",Ciné Charme by Pluto TV
+https://jmp2.uk/6a31608fac88749b9cb85dd8
 
 #EXTINF:-1 tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" group-title="Séries Policières" tvg-chno="20",Pluto TV Polar
 https://jmp2.uk/5f8ed4dbf6bb0800071ffbcb
@@ -5341,6 +5338,9 @@ https://jmp2.uk/67b4b4a21a5ca760802d25fd
 
 #EXTINF:-1 tvg-id="66b4990746762a00084c2f78" tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png" group-title="À Binge-Watch" tvg-chno="140",Pluto TV 90's Classics
 https://jmp2.uk/66b4990746762a00084c2f78
+
+#EXTINF:-1 tvg-id="69c2ad7500a8d7d87767d25f" tvg-logo="https://images.pluto.tv/channels/69c2ad7500a8d7d87767d25f/colorLogoPNG_1780925384785.png" group-title="À Binge-Watch" tvg-chno="145",Pluto TV Girls Club
+https://jmp2.uk/69c2ad7500a8d7d87767d25f
 
 #EXTINF:-1 tvg-id="611e71322f5f180007001dde" tvg-logo="https://images.pluto.tv/channels/611e71322f5f180007001dde/colorLogoPNG.png" group-title="À Binge-Watch" tvg-chno="150",Degrassi
 https://jmp2.uk/611e71322f5f180007001dde
@@ -5533,6 +5533,9 @@ https://jmp2.uk/66b228d4cd0d3100085d27b7
 
 #EXTINF:-1 tvg-id="699865ccac36b147e74619fe" tvg-logo="https://images.pluto.tv/channels/699865ccac36b147e74619fe/colorLogoPNG_1779788356699.png" group-title="TV Réalité" tvg-chno="706",Pluto TV Téléréalité France
 https://jmp2.uk/699865ccac36b147e74619fe
+
+#EXTINF:-1 tvg-id="682318568e6c0f2f6c6e0038" tvg-logo="https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/colorLogoPNG_1784122185248.png" group-title="TV Réalité" tvg-chno="707",Ink Master
+https://jmp2.uk/682318568e6c0f2f6c6e0038
 
 #EXTINF:-1 tvg-id="6092544e7639460007d4835e" tvg-logo="https://images.pluto.tv/channels/6092544e7639460007d4835e/colorLogoPNG_1783323667324.png" group-title="TV Réalité" tvg-chno="710",Pluto TV Reality
 https://jmp2.uk/6092544e7639460007d4835e
