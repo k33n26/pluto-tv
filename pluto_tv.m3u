@@ -347,13 +347,13 @@ https://jmp2.uk/654933e253fc970008390114
 #EXTINF:-1 tvg-id="62fa8176b9884200074ef5ae" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-title="Drama" tvg-chno="1060",The Walking Dead Universe
 https://jmp2.uk/62fa8176b9884200074ef5ae
 
-#EXTINF:-1 tvg-id="62f2ce24f328e00007e7f55a" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG_1787093171101.png" group-title="Drama" tvg-chno="1070",Stories by AMC
+#EXTINF:-1 tvg-id="62f2ce24f328e00007e7f55a" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png" group-title="Drama" tvg-chno="1070",Stories by AMC
 https://jmp2.uk/62f2ce24f328e00007e7f55a
 
 #EXTINF:-1 tvg-id="5cbf6a868a1bce4a3d52a5e9" tvg-logo="https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/colorLogoPNG.png" group-title="Drama" tvg-chno="1080",Midsomer Murders
 https://jmp2.uk/5cbf6a868a1bce4a3d52a5e9
 
-#EXTINF:-1 tvg-id="60f5d389985a0c0007357304" tvg-logo="https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG_1786980983531.png" group-title="Drama" tvg-chno="1090",BritBox Mysteries
+#EXTINF:-1 tvg-id="60f5d389985a0c0007357304" tvg-logo="https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG.png" group-title="Drama" tvg-chno="1090",BritBox Mysteries
 https://jmp2.uk/60f5d389985a0c0007357304
 
 #EXTINF:-1 tvg-id="6a4fd96d7652851fb490204f" tvg-logo="https://images.pluto.tv/channels/6a4fd96d7652851fb490204f/colorLogoPNG_1785178336408.png" group-title="Drama" tvg-chno="1110",Pluto TV Royal Drama
@@ -707,8 +707,8 @@ https://jmp2.uk/5dc9b8223687ff000936ed79
 #EXTINF:-1 tvg-id="5dc9b875e280c80009a8a44a" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2560",CBS News Los Angeles
 https://jmp2.uk/5dc9b875e280c80009a8a44a
 
-#EXTINF:-1 tvg-id="62cdca1cda044a00077b903d" tvg-logo="https://images.pluto.tv/channels/62cdca1cda044a00077b903d/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2570",CBS News Philadelphia
-https://jmp2.uk/62cdca1cda044a00077b903d
+#EXTINF:-1 tvg-id="62cdcac1be7a970008781a64" tvg-logo="https://images.pluto.tv/channels/62cdcac1be7a970008781a64/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2570",CBS News Pittsburgh
+https://jmp2.uk/62cdcac1be7a970008781a64
 
 #EXTINF:-1 tvg-id="55b179af994403942f3061d6" tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2578",Newsmax2
 https://jmp2.uk/55b179af994403942f3061d6
@@ -956,6 +956,12 @@ https://jmp2.uk/5d14fb6c84dd37df3b4290c5
 #EXTINF:-1 tvg-id="51c75f7bb6f26ba1cd00002f" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="Kids" tvg-chno="3730",Little Stars Universe
 https://jmp2.uk/51c75f7bb6f26ba1cd00002f
 
+#EXTINF:-1 tvg-id="5eb301b7395671000780d100" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" group-title="Kids" tvg-chno="3740",Little Angel's Playroom
+https://jmp2.uk/5eb301b7395671000780d100
+
+#EXTINF:-1 tvg-id="60493283ffc52f000710edae" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" group-title="Kids" tvg-chno="3750",Little Angel's Playroom en Español
+https://jmp2.uk/60493283ffc52f000710edae
+
 #EXTINF:-1 tvg-id="66fedd65d7de140008dccd66" tvg-logo="https://images.pluto.tv/channels/66fedd65d7de140008dccd66/colorLogoPNG.png" group-title="Kids" tvg-chno="3755",El Reino Infantil
 https://jmp2.uk/66fedd65d7de140008dccd66
 
@@ -1190,7 +1196,7 @@ https://jmp2.uk/5d14fdb8ca91eedee1633117
 #EXTINF:-1 tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG_1758324914960.png" group-title="Music Videos" tvg-chno="4780",MTV Biggest Pop
 https://jmp2.uk/5d14fd1a252d35decbc4080c
 
-#EXTINF:-1 tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png" group-title="En Español" tvg-chno="4790",MTV Flow Latino
+#EXTINF:-1 tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png" group-title="Music Videos" tvg-chno="4790",MTV Flow Latino
 https://jmp2.uk/5d3609cd6a6c78d7672f2a81
 
 #EXTINF:-1 tvg-id="69445a9a78c0c45b6c9aa8b9" tvg-logo="https://images.pluto.tv/channels/69445a9a78c0c45b6c9aa8b9/colorLogoPNG_1771261855448.png" group-title="Music Videos" tvg-chno="4795",TikTok Radio
@@ -1838,6 +1844,12 @@ https://jmp2.uk/5e6f38792075160007d85823
 #EXTINF:-1 tvg-id="69fc906b90dc413f536059a1" tvg-logo="https://images.pluto.tv/channels/69fc906b90dc413f536059a1/colorLogoPNG_1780583615660.png" group-title="Nuevo en Pluto TV" tvg-chno="10",H2O & Friends
 https://jmp2.uk/69fc906b90dc413f536059a1
 
+#EXTINF:-1 tvg-id="6a0c25fe09705ebdf7e4599a" tvg-logo="https://images.pluto.tv/channels/6a0c25fe09705ebdf7e4599a/colorLogoPNG_1780925919473.png" group-title="Nuevo en Pluto TV" tvg-chno="11",Pippi Calzaslargas
+https://jmp2.uk/6a0c25fe09705ebdf7e4599a
+
+#EXTINF:-1 tvg-id="600169ec77e6f70008fa9cf0" tvg-logo="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG_1783599834588.png" group-title="Nuevo en Pluto TV" tvg-chno="12",MTV Ink Master
+https://jmp2.uk/600169ec77e6f70008fa9cf0
+
 #EXTINF:-1 tvg-id="5f984f4a09e92d0007d74647" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG_1763542909820.png" group-title="Crimen y Misterio" tvg-chno="20",Archivos Forenses
 https://jmp2.uk/5f984f4a09e92d0007d74647
 
@@ -1898,158 +1910,158 @@ https://jmp2.uk/6745f0643a61d40008a61510
 #EXTINF:-1 tvg-id="619b9f16b8fee4000832d447" tvg-logo="https://images.pluto.tv/channels/619b9f16b8fee4000832d447/colorLogoPNG.png" group-title="Policiacas" tvg-chno="52",El Detective Endeavour
 https://jmp2.uk/619b9f16b8fee4000832d447
 
-#EXTINF:-1 tvg-id="657868a7a620e30008fdbfeb" tvg-logo="https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG_1770028317031.png" group-title="Series" tvg-chno="62",Embrujadas
-https://jmp2.uk/657868a7a620e30008fdbfeb
-
-#EXTINF:-1 tvg-id="6578808014fbe400086e21bc" tvg-logo="https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png" group-title="Series" tvg-chno="63",Medium
-https://jmp2.uk/6578808014fbe400086e21bc
-
-#EXTINF:-1 tvg-id="6812206e1b3e3be031a5c363" tvg-logo="https://images.pluto.tv/channels/6812206e1b3e3be031a5c363/colorLogoPNG_1754647874286.png" group-title="Series" tvg-chno="64",Águila Roja
-https://jmp2.uk/6812206e1b3e3be031a5c363
-
-#EXTINF:-1 tvg-id="65787f2eb228b7000843fa5c" tvg-logo="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" group-title="Series" tvg-chno="65",Star Trek: Voyager
-https://jmp2.uk/65787f2eb228b7000843fa5c
-
-#EXTINF:-1 tvg-id="5f1acce7f17797000718f9be" tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="Series" tvg-chno="66",Ana y los 7
-https://jmp2.uk/5f1acce7f17797000718f9be
-
-#EXTINF:-1 tvg-id="5f1acd36779de70007a680d1" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="Series" tvg-chno="67",Curro Jiménez
-https://jmp2.uk/5f1acd36779de70007a680d1
-
-#EXTINF:-1 tvg-id="6245c03922d9d4000760d205" tvg-logo="https://images.pluto.tv/channels/6245c03922d9d4000760d205/colorLogoPNG.png" group-title="Series" tvg-chno="68",Melrose Place
-https://jmp2.uk/6245c03922d9d4000760d205
-
-#EXTINF:-1 tvg-id="683457aebbc703dfd45a89eb" tvg-logo="https://images.pluto.tv/channels/683457aebbc703dfd45a89eb/colorLogoPNG_1749718381815.png" group-title="Series" tvg-chno="69",Merlí
-https://jmp2.uk/683457aebbc703dfd45a89eb
-
-#EXTINF:-1 tvg-id="69c5100c3d2597380f0f6422" tvg-logo="https://images.pluto.tv/channels/69c5100c3d2597380f0f6422/colorLogoPNG_1784105533317.png" group-title="Series" tvg-chno="70",Gata salvaje
-https://jmp2.uk/69c5100c3d2597380f0f6422
-
-#EXTINF:-1 tvg-id="662a69daa0a74e00087a1c72" tvg-logo="https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png" group-title="Series" tvg-chno="71",Pluto TV Telenovelas Clásicas
-https://jmp2.uk/662a69daa0a74e00087a1c72
-
-#EXTINF:-1 tvg-id="65dded6966eec80008947157" tvg-logo="https://images.pluto.tv/channels/65dded6966eec80008947157/colorLogoPNG_1775051870040.png" group-title="Series" tvg-chno="72",¡Llama a la Comadrona!
-https://jmp2.uk/65dded6966eec80008947157
-
-#EXTINF:-1 tvg-id="6475bfec536e0c0008858e9f" tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" group-title="Series" tvg-chno="73",Pluto TV K-Drama
-https://jmp2.uk/6475bfec536e0c0008858e9f
-
-#EXTINF:-1 tvg-id="5f1ac8f49205650007bc15f1" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="Series" tvg-chno="74",Pluto TV Series
-https://jmp2.uk/5f1ac8f49205650007bc15f1
-
-#EXTINF:-1 tvg-id="60dafb9a0df1ba000758d37b" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG_1770367705306.png" group-title="Series" tvg-chno="75",BBC Series
-https://jmp2.uk/60dafb9a0df1ba000758d37b
-
-#EXTINF:-1 tvg-id="65b91e530d9ab40008340d8d" tvg-logo="https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/colorLogoPNG.png" group-title="Series" tvg-chno="76",Al salir de clase
-https://jmp2.uk/65b91e530d9ab40008340d8d
-
-#EXTINF:-1 tvg-id="65dded9a0d456100081417ae" tvg-logo="https://images.pluto.tv/channels/65dded9a0d456100081417ae/colorLogoPNG.png" group-title="Series" tvg-chno="77",Primeval
-https://jmp2.uk/65dded9a0d456100081417ae
-
-#EXTINF:-1 tvg-id="65ddec1ef7f0af0008be4b65" tvg-logo="https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png" group-title="Series" tvg-chno="78",Pluto TV Series Sci-Fi
-https://jmp2.uk/65ddec1ef7f0af0008be4b65
-
-#EXTINF:-1 tvg-id="60218baa464ef900073168c1" tvg-logo="https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="90",Empeños a lo bestia
+#EXTINF:-1 tvg-id="60218baa464ef900073168c1" tvg-logo="https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="66",Empeños a lo bestia
 https://jmp2.uk/60218baa464ef900073168c1
 
-#EXTINF:-1 tvg-id="60d356a534f63f000850cdd7" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG_1756396834691.png" group-title="Entretenimiento" tvg-chno="91",Top Gear
+#EXTINF:-1 tvg-id="60d356a534f63f000850cdd7" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG_1756396834691.png" group-title="Entretenimiento" tvg-chno="67",Top Gear
 https://jmp2.uk/60d356a534f63f000850cdd7
 
-#EXTINF:-1 tvg-id="6335a6b6e6f7a600076e589e" tvg-logo="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="92",Cazasubastas
+#EXTINF:-1 tvg-id="6335a6b6e6f7a600076e589e" tvg-logo="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="68",Cazasubastas
 https://jmp2.uk/6335a6b6e6f7a600076e589e
 
-#EXTINF:-1 tvg-id="6554bd45aa9ffb00088e5589" tvg-logo="https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="93",COPS
+#EXTINF:-1 tvg-id="6554bd45aa9ffb00088e5589" tvg-logo="https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="69",COPS
 https://jmp2.uk/6554bd45aa9ffb00088e5589
 
-#EXTINF:-1 tvg-id="6080345ebb49b90007ce0baf" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="94",Pluto TV Motor
+#EXTINF:-1 tvg-id="6080345ebb49b90007ce0baf" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="70",Pluto TV Motor
 https://jmp2.uk/6080345ebb49b90007ce0baf
 
-#EXTINF:-1 tvg-id="60e45687313c5f0007bc8e94" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="95",El encantador de perros
+#EXTINF:-1 tvg-id="60e45687313c5f0007bc8e94" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="71",El encantador de perros
 https://jmp2.uk/60e45687313c5f0007bc8e94
 
-#EXTINF:-1 tvg-id="65254e8d81f9420008342cee" tvg-logo="https://images.pluto.tv/channels/65254e8d81f9420008342cee/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="96",La fiebre del Jade
+#EXTINF:-1 tvg-id="65254e8d81f9420008342cee" tvg-logo="https://images.pluto.tv/channels/65254e8d81f9420008342cee/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="72",La fiebre del Jade
 https://jmp2.uk/65254e8d81f9420008342cee
 
-#EXTINF:-1 tvg-id="68adc697116b783a33f99e6c" tvg-logo="https://images.pluto.tv/channels/68adc697116b783a33f99e6c/colorLogoPNG_1760448745473.png" group-title="Entretenimiento" tvg-chno="97",Pluto TV Impacto
+#EXTINF:-1 tvg-id="68adc697116b783a33f99e6c" tvg-logo="https://images.pluto.tv/channels/68adc697116b783a33f99e6c/colorLogoPNG_1760448745473.png" group-title="Entretenimiento" tvg-chno="73",Pluto TV Impacto
 https://jmp2.uk/68adc697116b783a33f99e6c
 
-#EXTINF:-1 tvg-id="61b9edc4a4ca6100070bb407" tvg-logo="https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="98",Ice Pilots
+#EXTINF:-1 tvg-id="61b9edc4a4ca6100070bb407" tvg-logo="https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="74",Ice Pilots
 https://jmp2.uk/61b9edc4a4ca6100070bb407
 
-#EXTINF:-1 tvg-id="60e4573c9f963e00077ecf25" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="99",Mi Extraña Obsesión
+#EXTINF:-1 tvg-id="60e4573c9f963e00077ecf25" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="75",Mi Extraña Obsesión
 https://jmp2.uk/60e4573c9f963e00077ecf25
 
-#EXTINF:-1 tvg-id="65bd0f53dc10a40008e68b96" tvg-logo="https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/colorLogoPNG_1747382175081.png" group-title="Entretenimiento" tvg-chno="100",Pluto TV Gasolina
+#EXTINF:-1 tvg-id="65bd0f53dc10a40008e68b96" tvg-logo="https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/colorLogoPNG_1747382175081.png" group-title="Entretenimiento" tvg-chno="76",Pluto TV Gasolina
 https://jmp2.uk/65bd0f53dc10a40008e68b96
 
-#EXTINF:-1 tvg-id="68adc3fdd8f7693ae347a63a" tvg-logo="https://images.pluto.tv/channels/68adc3fdd8f7693ae347a63a/colorLogoPNG_1759420523581.png" group-title="Reality" tvg-chno="111",Los Gipsy Kings
+#EXTINF:-1 tvg-id="68adc3fdd8f7693ae347a63a" tvg-logo="https://images.pluto.tv/channels/68adc3fdd8f7693ae347a63a/colorLogoPNG_1759420523581.png" group-title="Reality" tvg-chno="87",Los Gipsy Kings
 https://jmp2.uk/68adc3fdd8f7693ae347a63a
 
-#EXTINF:-1 tvg-id="69c51060ed1b1f1acb5092dc" tvg-logo="https://images.pluto.tv/channels/69c51060ed1b1f1acb5092dc/colorLogoPNG_1778483817519.png" group-title="Reality" tvg-chno="112",Alaska y Mario
+#EXTINF:-1 tvg-id="69c51060ed1b1f1acb5092dc" tvg-logo="https://images.pluto.tv/channels/69c51060ed1b1f1acb5092dc/colorLogoPNG_1778483817519.png" group-title="Reality" tvg-chno="88",Alaska y Mario
 https://jmp2.uk/69c51060ed1b1f1acb5092dc
 
-#EXTINF:-1 tvg-id="6578836cdfed030008ce5bdb" tvg-logo="https://images.pluto.tv/channels/6578836cdfed030008ce5bdb/colorLogoPNG.png" group-title="Reality" tvg-chno="113",Sí quiero ese vestido
+#EXTINF:-1 tvg-id="6578836cdfed030008ce5bdb" tvg-logo="https://images.pluto.tv/channels/6578836cdfed030008ce5bdb/colorLogoPNG.png" group-title="Reality" tvg-chno="89",Sí quiero ese vestido
 https://jmp2.uk/6578836cdfed030008ce5bdb
 
-#EXTINF:-1 tvg-id="686cd84603ad75cfd132d672" tvg-logo="https://images.pluto.tv/channels/686cd84603ad75cfd132d672/colorLogoPNG_1751963785234.png" group-title="Reality" tvg-chno="114",America's Next Top Model
+#EXTINF:-1 tvg-id="686cd84603ad75cfd132d672" tvg-logo="https://images.pluto.tv/channels/686cd84603ad75cfd132d672/colorLogoPNG_1751963785234.png" group-title="Reality" tvg-chno="90",America's Next Top Model
 https://jmp2.uk/686cd84603ad75cfd132d672
 
-#EXTINF:-1 tvg-id="68d566603d3a9580eb461251" tvg-logo="https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png" group-title="Cine" tvg-chno="126",Paramount Network de Pluto TV
+#EXTINF:-1 tvg-id="68d566603d3a9580eb461251" tvg-logo="https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png" group-title="Cine" tvg-chno="101",Paramount Network de Pluto TV
 https://jmp2.uk/68d566603d3a9580eb461251
 
-#EXTINF:-1 tvg-id="5f1ac2591dd8880007bb7d6d" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png" group-title="Cine" tvg-chno="127",Pluto TV Cine Acción
+#EXTINF:-1 tvg-id="5f1ac2591dd8880007bb7d6d" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png" group-title="Cine" tvg-chno="102",Pluto TV Cine Acción
 https://jmp2.uk/5f1ac2591dd8880007bb7d6d
 
-#EXTINF:-1 tvg-id="6267d4d1fb694f0007a6af0e" tvg-logo="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" group-title="Verano de Terror" tvg-chno="128",Pluto TV Horror
+#EXTINF:-1 tvg-id="6267d4d1fb694f0007a6af0e" tvg-logo="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" group-title="Verano de Terror" tvg-chno="103",Pluto TV Horror
 https://jmp2.uk/6267d4d1fb694f0007a6af0e
 
-#EXTINF:-1 tvg-id="6385e82900ab2e000768a058" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" group-title="Cine" tvg-chno="129",Pluto TV Western
+#EXTINF:-1 tvg-id="6385e82900ab2e000768a058" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" group-title="Cine" tvg-chno="104",Pluto TV Western
 https://jmp2.uk/6385e82900ab2e000768a058
 
-#EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Cine" tvg-chno="130",Pluto TV Cine Estelar
+#EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Cine" tvg-chno="105",Pluto TV Cine Estelar
 https://jmp2.uk/5f1ac1f1b66c76000790ef27
 
-#EXTINF:-1 tvg-id="5f1ac8099c49f600076579b2" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png" group-title="Cine" tvg-chno="131",Pluto TV Cine Comedia
+#EXTINF:-1 tvg-id="5f1ac8099c49f600076579b2" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png" group-title="Cine" tvg-chno="106",Pluto TV Cine Comedia
 https://jmp2.uk/5f1ac8099c49f600076579b2
 
-#EXTINF:-1 tvg-id="5f1ac8a87cd38d000745d7cf" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="Cine" tvg-chno="132",Pluto TV Thrillers
+#EXTINF:-1 tvg-id="5f1ac8a87cd38d000745d7cf" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="Cine" tvg-chno="107",Pluto TV Thrillers
 https://jmp2.uk/5f1ac8a87cd38d000745d7cf
 
-#EXTINF:-1 tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="Cine" tvg-chno="133",Pluto TV Sci-Fi
+#EXTINF:-1 tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="Cine" tvg-chno="108",Pluto TV Sci-Fi
 https://jmp2.uk/5f6a38eaa5b68b0007a00e7a
 
-#EXTINF:-1 tvg-id="645a309c5a0cd5000873f609" tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png" group-title="Cine" tvg-chno="134",Pluto TV Catástrofes
+#EXTINF:-1 tvg-id="645a309c5a0cd5000873f609" tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png" group-title="Cine" tvg-chno="109",Pluto TV Catástrofes
 https://jmp2.uk/645a309c5a0cd5000873f609
 
-#EXTINF:-1 tvg-id="65786888b228b7000843ad9a" tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" group-title="Verano de Terror" tvg-chno="135",Pluto TV Zombies
+#EXTINF:-1 tvg-id="65786888b228b7000843ad9a" tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" group-title="Verano de Terror" tvg-chno="110",Pluto TV Zombies
 https://jmp2.uk/65786888b228b7000843ad9a
 
-#EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-logo="https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/colorLogoPNG.png" group-title="Verano de Terror" tvg-chno="136",Pluto TV Gore & Slasher
+#EXTINF:-1 tvg-id="66b0dfa1d512590008bfa7fd" tvg-logo="https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/colorLogoPNG.png" group-title="Verano de Terror" tvg-chno="111",Pluto TV Gore & Slasher
 https://jmp2.uk/66b0dfa1d512590008bfa7fd
 
-#EXTINF:-1 tvg-id="65ce480a78df2200131c597b" tvg-logo="https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png" group-title="Cine" tvg-chno="137",Pluto TV Psycho
+#EXTINF:-1 tvg-id="65ce480a78df2200131c597b" tvg-logo="https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png" group-title="Cine" tvg-chno="112",Pluto TV Psycho
 https://jmp2.uk/65ce480a78df2200131c597b
 
-#EXTINF:-1 tvg-id="61373bb45168fe000773eecd" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="Cine" tvg-chno="138",Pluto TV Cine Clásico
+#EXTINF:-1 tvg-id="61373bb45168fe000773eecd" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="Cine" tvg-chno="113",Pluto TV Cine Clásico
 https://jmp2.uk/61373bb45168fe000773eecd
 
-#EXTINF:-1 tvg-id="6086d3f420fc8500075f8dbf" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="Cine" tvg-chno="139",Runtime
+#EXTINF:-1 tvg-id="6086d3f420fc8500075f8dbf" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="Cine" tvg-chno="114",Runtime
 https://jmp2.uk/6086d3f420fc8500075f8dbf
 
-#EXTINF:-1 tvg-id="5f1ac9a2d3611d0007a844bb" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG_1747044085204.png" group-title="Cine" tvg-chno="140",Pluto TV Cine Romántico
+#EXTINF:-1 tvg-id="5f1ac9a2d3611d0007a844bb" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG_1747044085204.png" group-title="Cine" tvg-chno="115",Pluto TV Cine Romántico
 https://jmp2.uk/5f1ac9a2d3611d0007a844bb
 
-#EXTINF:-1 tvg-id="655b5d865812e80008843bd1" tvg-logo="https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png" group-title="Cine" tvg-chno="141",Pluto TV Comedias Románticas
+#EXTINF:-1 tvg-id="655b5d865812e80008843bd1" tvg-logo="https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png" group-title="Cine" tvg-chno="116",Pluto TV Comedias Románticas
 https://jmp2.uk/655b5d865812e80008843bd1
 
-#EXTINF:-1 tvg-id="5f1ac947dcd00d0007937c08" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="Cine" tvg-chno="142",Pluto TV Cine Drama
+#EXTINF:-1 tvg-id="5f1ac947dcd00d0007937c08" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="Cine" tvg-chno="117",Pluto TV Cine Drama
 https://jmp2.uk/5f1ac947dcd00d0007937c08
 
-#EXTINF:-1 tvg-id="676e7b4a4bd636000819c6a7" tvg-logo="https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png" group-title="Cine" tvg-chno="143",SensaCine TV x Pluto
+#EXTINF:-1 tvg-id="676e7b4a4bd636000819c6a7" tvg-logo="https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png" group-title="Cine" tvg-chno="118",SensaCine TV x Pluto
 https://jmp2.uk/676e7b4a4bd636000819c6a7
 
-#EXTINF:-1 tvg-id="60cc807324d60a0007708dc8" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="Cine" tvg-chno="144",Pluto TV Cine de autor
+#EXTINF:-1 tvg-id="60cc807324d60a0007708dc8" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="Cine" tvg-chno="119",Pluto TV Cine de autor
 https://jmp2.uk/60cc807324d60a0007708dc8
+
+#EXTINF:-1 tvg-id="657868a7a620e30008fdbfeb" tvg-logo="https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG_1770028317031.png" group-title="Series" tvg-chno="131",Embrujadas
+https://jmp2.uk/657868a7a620e30008fdbfeb
+
+#EXTINF:-1 tvg-id="6578808014fbe400086e21bc" tvg-logo="https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png" group-title="Series" tvg-chno="132",Medium
+https://jmp2.uk/6578808014fbe400086e21bc
+
+#EXTINF:-1 tvg-id="6812206e1b3e3be031a5c363" tvg-logo="https://images.pluto.tv/channels/6812206e1b3e3be031a5c363/colorLogoPNG_1754647874286.png" group-title="Series" tvg-chno="133",Águila Roja
+https://jmp2.uk/6812206e1b3e3be031a5c363
+
+#EXTINF:-1 tvg-id="65787f2eb228b7000843fa5c" tvg-logo="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" group-title="Series" tvg-chno="134",Star Trek: Voyager
+https://jmp2.uk/65787f2eb228b7000843fa5c
+
+#EXTINF:-1 tvg-id="5f1acce7f17797000718f9be" tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="Series" tvg-chno="135",Ana y los 7
+https://jmp2.uk/5f1acce7f17797000718f9be
+
+#EXTINF:-1 tvg-id="5f1acd36779de70007a680d1" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="Series" tvg-chno="136",Curro Jiménez
+https://jmp2.uk/5f1acd36779de70007a680d1
+
+#EXTINF:-1 tvg-id="6245c03922d9d4000760d205" tvg-logo="https://images.pluto.tv/channels/6245c03922d9d4000760d205/colorLogoPNG.png" group-title="Series" tvg-chno="137",Melrose Place
+https://jmp2.uk/6245c03922d9d4000760d205
+
+#EXTINF:-1 tvg-id="683457aebbc703dfd45a89eb" tvg-logo="https://images.pluto.tv/channels/683457aebbc703dfd45a89eb/colorLogoPNG_1749718381815.png" group-title="Series" tvg-chno="138",Merlí
+https://jmp2.uk/683457aebbc703dfd45a89eb
+
+#EXTINF:-1 tvg-id="69c5100c3d2597380f0f6422" tvg-logo="https://images.pluto.tv/channels/69c5100c3d2597380f0f6422/colorLogoPNG_1784105533317.png" group-title="Series" tvg-chno="139",Gata salvaje
+https://jmp2.uk/69c5100c3d2597380f0f6422
+
+#EXTINF:-1 tvg-id="662a69daa0a74e00087a1c72" tvg-logo="https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png" group-title="Series" tvg-chno="140",Pluto TV Telenovelas Clásicas
+https://jmp2.uk/662a69daa0a74e00087a1c72
+
+#EXTINF:-1 tvg-id="65dded6966eec80008947157" tvg-logo="https://images.pluto.tv/channels/65dded6966eec80008947157/colorLogoPNG_1775051870040.png" group-title="Series" tvg-chno="141",¡Llama a la Comadrona!
+https://jmp2.uk/65dded6966eec80008947157
+
+#EXTINF:-1 tvg-id="6475bfec536e0c0008858e9f" tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" group-title="Series" tvg-chno="142",Pluto TV K-Drama
+https://jmp2.uk/6475bfec536e0c0008858e9f
+
+#EXTINF:-1 tvg-id="5f1ac8f49205650007bc15f1" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="Series" tvg-chno="143",Pluto TV Series
+https://jmp2.uk/5f1ac8f49205650007bc15f1
+
+#EXTINF:-1 tvg-id="60dafb9a0df1ba000758d37b" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG_1770367705306.png" group-title="Series" tvg-chno="144",BBC Series
+https://jmp2.uk/60dafb9a0df1ba000758d37b
+
+#EXTINF:-1 tvg-id="65b91e530d9ab40008340d8d" tvg-logo="https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/colorLogoPNG.png" group-title="Series" tvg-chno="145",Al salir de clase
+https://jmp2.uk/65b91e530d9ab40008340d8d
+
+#EXTINF:-1 tvg-id="65dded9a0d456100081417ae" tvg-logo="https://images.pluto.tv/channels/65dded9a0d456100081417ae/colorLogoPNG.png" group-title="Series" tvg-chno="146",Primeval
+https://jmp2.uk/65dded9a0d456100081417ae
+
+#EXTINF:-1 tvg-id="65ddec1ef7f0af0008be4b65" tvg-logo="https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png" group-title="Series" tvg-chno="147",Pluto TV Series Sci-Fi
+https://jmp2.uk/65ddec1ef7f0af0008be4b65
 
 #EXTINF:-1 tvg-id="68e8fd7c3ede4398bc69af93" tvg-logo="https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/colorLogoPNG_1775550158845.png" group-title="Anime" tvg-chno="161",Dragon Ball Z
 https://jmp2.uk/68e8fd7c3ede4398bc69af93
@@ -2123,13 +2135,10 @@ https://jmp2.uk/5f98537a5a4341000733aefe
 #EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="MTV en Pluto TV" tvg-chno="206",MTV Originals
 https://jmp2.uk/5f1aadf373bed3000794d1d7
 
-#EXTINF:-1 tvg-id="600169ec77e6f70008fa9cf0" tvg-logo="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG_1783599834588.png" group-title="Reality" tvg-chno="207",MTV Ink Master
-https://jmp2.uk/600169ec77e6f70008fa9cf0
-
-#EXTINF:-1 tvg-id="627d3176d7dfa500077042f1" tvg-logo="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png" group-title="MTV en Pluto TV" tvg-chno="208",MTV Geordies
+#EXTINF:-1 tvg-id="627d3176d7dfa500077042f1" tvg-logo="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png" group-title="MTV en Pluto TV" tvg-chno="207",MTV Geordies
 https://jmp2.uk/627d3176d7dfa500077042f1
 
-#EXTINF:-1 tvg-id="6130d8dc943001000708548d" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1783323270470.png" group-title="MTV en Pluto TV" tvg-chno="209",MTV Reality
+#EXTINF:-1 tvg-id="6130d8dc943001000708548d" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1783323270470.png" group-title="MTV en Pluto TV" tvg-chno="208",MTV Reality
 https://jmp2.uk/6130d8dc943001000708548d
 
 #EXTINF:-1 tvg-id="5f1aca0b4e448e00075e7c5e" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Infantil" tvg-chno="221",Bob Esponja
@@ -2144,43 +2153,40 @@ https://jmp2.uk/63eb944dc111bc0008fe7021
 #EXTINF:-1 tvg-id="6523f672a6c38300088cb807" tvg-logo="https://images.pluto.tv/channels/6523f672a6c38300088cb807/colorLogoPNG.png" group-title="Infantil" tvg-chno="224",El Reino Infantil
 https://jmp2.uk/6523f672a6c38300088cb807
 
-#EXTINF:-1 tvg-id="6a0c25fe09705ebdf7e4599a" tvg-logo="https://images.pluto.tv/channels/6a0c25fe09705ebdf7e4599a/colorLogoPNG_1780925919473.png" group-title="Infantil" tvg-chno="225",Pippi Calzaslargas
-https://jmp2.uk/6a0c25fe09705ebdf7e4599a
-
-#EXTINF:-1 tvg-id="63c69c87808b740007599fe1" tvg-logo="https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png" group-title="Infantil" tvg-chno="226",Érase una vez...
+#EXTINF:-1 tvg-id="63c69c87808b740007599fe1" tvg-logo="https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png" group-title="Infantil" tvg-chno="225",Érase una vez...
 https://jmp2.uk/63c69c87808b740007599fe1
 
-#EXTINF:-1 tvg-id="68779a09c691b3f0964127c6" tvg-logo="https://images.pluto.tv/channels/68779a09c691b3f0964127c6/colorLogoPNG_1760381113655.png" group-title="Infantil" tvg-chno="227",Heidi
+#EXTINF:-1 tvg-id="68779a09c691b3f0964127c6" tvg-logo="https://images.pluto.tv/channels/68779a09c691b3f0964127c6/colorLogoPNG_1760381113655.png" group-title="Infantil" tvg-chno="226",Heidi
 https://jmp2.uk/68779a09c691b3f0964127c6
 
-#EXTINF:-1 tvg-id="610c09219fc0430007a3fce6" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="Infantil" tvg-chno="228",Rugrats
+#EXTINF:-1 tvg-id="610c09219fc0430007a3fce6" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="Infantil" tvg-chno="227",Rugrats
 https://jmp2.uk/610c09219fc0430007a3fce6
 
-#EXTINF:-1 tvg-id="61373f1a12dd9f00077dcd6f" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Infantil" tvg-chno="229",Las Tortugas Ninja
+#EXTINF:-1 tvg-id="61373f1a12dd9f00077dcd6f" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Infantil" tvg-chno="228",Las Tortugas Ninja
 https://jmp2.uk/61373f1a12dd9f00077dcd6f
 
-#EXTINF:-1 tvg-id="62568a94ed1f380007b0211f" tvg-logo="https://images.pluto.tv/channels/62568a94ed1f380007b0211f/colorLogoPNG.png" group-title="Infantil" tvg-chno="230",Winx Club
+#EXTINF:-1 tvg-id="62568a94ed1f380007b0211f" tvg-logo="https://images.pluto.tv/channels/62568a94ed1f380007b0211f/colorLogoPNG.png" group-title="Infantil" tvg-chno="229",Winx Club
 https://jmp2.uk/62568a94ed1f380007b0211f
 
-#EXTINF:-1 tvg-id="68e8fe3bcba140ddfe903677" tvg-logo="https://images.pluto.tv/channels/68e8fe3bcba140ddfe903677/colorLogoPNG_1761210192673.png" group-title="Infantil" tvg-chno="231",Monster High
+#EXTINF:-1 tvg-id="68e8fe3bcba140ddfe903677" tvg-logo="https://images.pluto.tv/channels/68e8fe3bcba140ddfe903677/colorLogoPNG_1761210192673.png" group-title="Infantil" tvg-chno="230",Monster High
 https://jmp2.uk/68e8fe3bcba140ddfe903677
 
-#EXTINF:-1 tvg-id="68d27949793c71d988ca624c" tvg-logo="https://images.pluto.tv/channels/68d27949793c71d988ca624c/colorLogoPNG_1760370849099.png" group-title="Infantil" tvg-chno="232",Los Pitufos
+#EXTINF:-1 tvg-id="68d27949793c71d988ca624c" tvg-logo="https://images.pluto.tv/channels/68d27949793c71d988ca624c/colorLogoPNG_1760370849099.png" group-title="Infantil" tvg-chno="231",Los Pitufos
 https://jmp2.uk/68d27949793c71d988ca624c
 
-#EXTINF:-1 tvg-id="609e7e423e9173000706a681" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png" group-title="Infantil" tvg-chno="233",Pluto TV Kids Classics
+#EXTINF:-1 tvg-id="609e7e423e9173000706a681" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png" group-title="Infantil" tvg-chno="232",Pluto TV Kids Classics
 https://jmp2.uk/609e7e423e9173000706a681
 
-#EXTINF:-1 tvg-id="5f1aab1d29b39600073e243f" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png" group-title="Infantil" tvg-chno="234",Pluto TV Kids
+#EXTINF:-1 tvg-id="5f1aab1d29b39600073e243f" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png" group-title="Infantil" tvg-chno="233",Pluto TV Kids
 https://jmp2.uk/5f1aab1d29b39600073e243f
 
-#EXTINF:-1 tvg-id="5f1aa9bcd8160700076d45d1" tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png" group-title="Infantil" tvg-chno="235",Pluto TV Junior
+#EXTINF:-1 tvg-id="5f1aa9bcd8160700076d45d1" tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png" group-title="Infantil" tvg-chno="234",Pluto TV Junior
 https://jmp2.uk/5f1aa9bcd8160700076d45d1
 
-#EXTINF:-1 tvg-id="6888928eb52fb742416673d2" tvg-logo="https://images.pluto.tv/channels/6888928eb52fb742416673d2/colorLogoPNG_1765806188472.png" group-title="Infantil" tvg-chno="236",Mattel Junior
+#EXTINF:-1 tvg-id="6888928eb52fb742416673d2" tvg-logo="https://images.pluto.tv/channels/6888928eb52fb742416673d2/colorLogoPNG_1765806188472.png" group-title="Infantil" tvg-chno="235",Mattel Junior
 https://jmp2.uk/6888928eb52fb742416673d2
 
-#EXTINF:-1 tvg-id="688892172928933015abe479" tvg-logo="https://images.pluto.tv/channels/688892172928933015abe479/colorLogoPNG_1765806030713.png" group-title="Infantil" tvg-chno="237",Barbie & Friends
+#EXTINF:-1 tvg-id="688892172928933015abe479" tvg-logo="https://images.pluto.tv/channels/688892172928933015abe479/colorLogoPNG_1765806030713.png" group-title="Infantil" tvg-chno="236",Barbie & Friends
 https://jmp2.uk/688892172928933015abe479
 
 #EXTINF:-1 tvg-id="61922be835f3910007fc58f6" tvg-logo="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png" group-title="Cultura" tvg-chno="251",En el punto de mira
@@ -2237,16 +2243,13 @@ https://jmp2.uk/67921b873de7c8cf94233f52
 #EXTINF:-1 tvg-id="696e02423b9ce349c90edef9" tvg-logo="https://images.pluto.tv/channels/696e02423b9ce349c90edef9/colorLogoPNG_1770892063713.png" group-title="Deportes" tvg-chno="286",Rally TV
 https://jmp2.uk/696e02423b9ce349c90edef9
 
-#EXTINF:-1 tvg-id="6a6a02ae3ee9d966427e62c4" tvg-logo="https://images.pluto.tv/channels/6a6a02ae3ee9d966427e62c4/colorLogoPNG_1785333367393.png" group-title="Deportes" tvg-chno="287",NFL Channel
-https://jmp2.uk/6a6a02ae3ee9d966427e62c4
-
-#EXTINF:-1 tvg-id="69148c470155f9b136b5d856" tvg-logo="https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png" group-title="Deportes" tvg-chno="288",Pluto TV Snooker 900
+#EXTINF:-1 tvg-id="69148c470155f9b136b5d856" tvg-logo="https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png" group-title="Deportes" tvg-chno="287",Pluto TV Snooker 900
 https://jmp2.uk/69148c470155f9b136b5d856
 
-#EXTINF:-1 tvg-id="67164414e40c4a00087f450d" tvg-logo="https://images.pluto.tv/channels/67164414e40c4a00087f450d/colorLogoPNG_1732095042151.png" group-title="Deportes" tvg-chno="289",MODUS Super Series Darts
+#EXTINF:-1 tvg-id="67164414e40c4a00087f450d" tvg-logo="https://images.pluto.tv/channels/67164414e40c4a00087f450d/colorLogoPNG_1732095042151.png" group-title="Deportes" tvg-chno="288",MODUS Super Series Darts
 https://jmp2.uk/67164414e40c4a00087f450d
 
-#EXTINF:-1 tvg-id="69f9c50202b6c1c00a213519" tvg-logo="https://images.pluto.tv/channels/69f9c50202b6c1c00a213519/colorLogoPNG_1777976664055.png" group-title="Deportes" tvg-chno="290",Dominance FC TV
+#EXTINF:-1 tvg-id="69f9c50202b6c1c00a213519" tvg-logo="https://images.pluto.tv/channels/69f9c50202b6c1c00a213519/colorLogoPNG_1777976664055.png" group-title="Deportes" tvg-chno="289",Dominance FC TV
 https://jmp2.uk/69f9c50202b6c1c00a213519
 
 #EXTINF:-1 tvg-id="67517fae5534bb0008187997" tvg-logo="https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png" group-title="Noticias" tvg-chno="301",Actualidad 360
@@ -3659,6 +3662,9 @@ https://jmp2.uk/677d93f37bffa600080795e7
 #EXTINF:-1 tvg-id="5f512365abe1f50007d3ff56" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG_1785430486083.png" group-title="Novelas" tvg-chno="278",Pluto TV Novelas
 https://jmp2.uk/5f512365abe1f50007d3ff56
 
+#EXTINF:-1 tvg-id="6a281d2bd1e6d3ba6b553c7c" tvg-logo="https://images.pluto.tv/channels/6a281d2bd1e6d3ba6b553c7c/colorLogoPNG_1782245265151.png" group-title="Novelas" tvg-chno="279",Novelíssima
+https://jmp2.uk/6a281d2bd1e6d3ba6b553c7c
+
 #EXTINF:-1 tvg-id="69c716efeac9a2720ebcaaff" tvg-logo="https://images.pluto.tv/channels/69c716efeac9a2720ebcaaff/colorLogoPNG_1781797595430.png" group-title="Novelas" tvg-chno="301",Grachi
 https://jmp2.uk/69c716efeac9a2720ebcaaff
 
@@ -3847,6 +3853,9 @@ https://jmp2.uk/6660b636cb3ea10008429c6a
 
 #EXTINF:-1 tvg-id="64f6180130ab3300083d896b" tvg-logo="https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png" group-title="Esportes" tvg-chno="862",PFL MMA
 https://jmp2.uk/64f6180130ab3300083d896b
+
+#EXTINF:-1 tvg-id="6a68dc0a75fd5e3828f10b10" tvg-logo="https://images.pluto.tv/channels/6a68dc0a75fd5e3828f10b10/colorLogoPNG_1785257068328.png" group-title="Esportes" tvg-chno="880",NFL Channel
+https://jmp2.uk/6a68dc0a75fd5e3828f10b10
 
 #EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="Esportes" tvg-chno="910",World Poker Tour
 https://jmp2.uk/63eba66da8b2270008436b10
@@ -7244,23 +7253,23 @@ https://jmp2.uk/686d01ad94a028da3aaca6b3
 #EXTINF:-1 tvg-id="6391df52d146a40007c265f3" tvg-logo="https://images.pluto.tv/channels/6391df52d146a40007c265f3/colorLogoPNG.png" group-title="Sitcoms" tvg-chno="1020",The Nanny
 https://jmp2.uk/6391df52d146a40007c265f3
 
-#EXTINF:-1 tvg-id="6a4b5f7c4ac01af3ed4e6fa1" tvg-logo="https://images.pluto.tv/channels/6a4b5f7c4ac01af3ed4e6fa1/colorLogoPNG_1787131841044.png" group-title="Nyt på Pluto TV" tvg-chno="1",Kebab Date
-https://jmp2.uk/6a4b5f7c4ac01af3ed4e6fa1
-
-#EXTINF:-1 tvg-id="6a329ace8b8fb5b94c6910eb" tvg-logo="https://images.pluto.tv/channels/6a329ace8b8fb5b94c6910eb/colorLogoPNG_1785239750042.png" group-title="Nyt på Pluto TV" tvg-chno="2",Danske Hollywoodfruer
+#EXTINF:-1 tvg-id="6a329ace8b8fb5b94c6910eb" tvg-logo="https://images.pluto.tv/channels/6a329ace8b8fb5b94c6910eb/colorLogoPNG_1785239750042.png" group-title="Nyt på Pluto TV" tvg-chno="1",Danske Hollywoodfruer
 https://jmp2.uk/6a329ace8b8fb5b94c6910eb
 
-#EXTINF:-1 tvg-id="6391ce99da3fda0008024a96" tvg-logo="https://images.pluto.tv/channels/6391ce99da3fda0008024a96/colorLogoPNG.png" group-title="Nyt på Pluto TV" tvg-chno="3",Vore værste år
+#EXTINF:-1 tvg-id="6391ce99da3fda0008024a96" tvg-logo="https://images.pluto.tv/channels/6391ce99da3fda0008024a96/colorLogoPNG.png" group-title="Nyt på Pluto TV" tvg-chno="4",Vore værste år
 https://jmp2.uk/6391ce99da3fda0008024a96
 
-#EXTINF:-1 tvg-id="6a0f0f7abfa576e1718f1d81" tvg-logo="https://images.pluto.tv/channels/6a0f0f7abfa576e1718f1d81/colorLogoPNG_1782464511227.png" group-title="Nyt på Pluto TV" tvg-chno="4",American Gladiators
-https://jmp2.uk/6a0f0f7abfa576e1718f1d81
+#EXTINF:-1 tvg-id="6a0f0dd902b6c1c00aa51cb9" tvg-logo="https://images.pluto.tv/channels/6a0f0dd902b6c1c00aa51cb9/colorLogoPNG_1780465647232.png" group-title="Nyt på Pluto TV" tvg-chno="8",Pluto TV Body Bags
+https://jmp2.uk/6a0f0dd902b6c1c00aa51cb9
 
-#EXTINF:-1 tvg-id="6a68c47558918556e6078b1d" tvg-logo="https://images.pluto.tv/channels/6a68c47558918556e6078b1d/colorLogoPNG_1785250985851.png" group-title="Nyt på Pluto TV" tvg-chno="5",NFL Channel
-https://jmp2.uk/6a68c47558918556e6078b1d
+#EXTINF:-1 tvg-id="69e100365db0e5b74f6c0e0c" tvg-logo="https://images.pluto.tv/channels/69e100365db0e5b74f6c0e0c/colorLogoPNG_1777465598147.png" group-title="Nyt på Pluto TV" tvg-chno="10",Pluto TV Urbex
+https://jmp2.uk/69e100365db0e5b74f6c0e0c
 
-#EXTINF:-1 tvg-id="6a329b4aff3691f8e69cc74f" tvg-logo="https://images.pluto.tv/channels/6a329b4aff3691f8e69cc74f/colorLogoPNG_1782465052673.png" group-title="Nyt på Pluto TV" tvg-chno="6",The Bob Ross Channel
-https://jmp2.uk/6a329b4aff3691f8e69cc74f
+#EXTINF:-1 tvg-id="6851407c21f49d1b9d177493" tvg-logo="https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1783679658419.png" group-title="Nyt på Pluto TV" tvg-chno="12",MTV Ink Master
+https://jmp2.uk/6851407c21f49d1b9d177493
+
+#EXTINF:-1 tvg-id="6964b8f64b352fda70edd4c2" tvg-logo="https://images.pluto.tv/channels/6964b8f64b352fda70edd4c2/colorLogoPNG_1771833348752.png" group-title="Nyt på Pluto TV" tvg-chno="14",Klassiske dramaserier fra Viafree
+https://jmp2.uk/6964b8f64b352fda70edd4c2
 
 #EXTINF:-1 tvg-id="61c19af83fae0a00078c8918" tvg-logo="https://images.pluto.tv/channels/61c19af83fae0a00078c8918/colorLogoPNG.png" group-title="Dansk reality & underholdning" tvg-chno="102",Paradise Hotel
 https://jmp2.uk/61c19af83fae0a00078c8918
@@ -7337,11 +7346,11 @@ https://jmp2.uk/67f79fdb3481170e68c0bc38
 #EXTINF:-1 tvg-id="62790dc1c733e8000733ba4d" tvg-logo="https://images.pluto.tv/channels/62790dc1c733e8000733ba4d/colorLogoPNG.png" group-title="Dansk reality & underholdning" tvg-chno="136",Pixel.tv
 https://jmp2.uk/62790dc1c733e8000733ba4d
 
-#EXTINF:-1 tvg-id="698ddf8fe93b210d1aaaa2fc" tvg-logo="https://images.pluto.tv/channels/698ddf8fe93b210d1aaaa2fc/colorLogoPNG_1782383445575.png" group-title="Dansk reality & underholdning" tvg-chno="137",Asfalten kalder
-https://jmp2.uk/698ddf8fe93b210d1aaaa2fc
-
 #EXTINF:-1 tvg-id="66fd1338ec9d6d00081e0443" tvg-logo="https://images.pluto.tv/channels/66fd1338ec9d6d00081e0443/colorLogoPNG_1730999680019.png" group-title="Dansk reality & underholdning" tvg-chno="137",Retake E-sport Live
 https://jmp2.uk/66fd1338ec9d6d00081e0443
+
+#EXTINF:-1 tvg-id="698ddf8fe93b210d1aaaa2fc" tvg-logo="https://images.pluto.tv/channels/698ddf8fe93b210d1aaaa2fc/colorLogoPNG_1782383445575.png" group-title="Dansk reality & underholdning" tvg-chno="137",Asfalten kalder
+https://jmp2.uk/698ddf8fe93b210d1aaaa2fc
 
 #EXTINF:-1 tvg-id="6272511cb389bb0007b30b09" tvg-logo="https://images.pluto.tv/channels/6272511cb389bb0007b30b09/colorLogoPNG.png" group-title="Dansk reality & underholdning" tvg-chno="139",For lækker til love
 https://jmp2.uk/6272511cb389bb0007b30b09
@@ -7442,6 +7451,9 @@ https://jmp2.uk/66461eb33d173b000805ecd3
 #EXTINF:-1 tvg-id="6792044b680721c77c5b9ba2" tvg-logo="https://images.pluto.tv/channels/6792044b680721c77c5b9ba2/colorLogoPNG.png" group-title="Sport" tvg-chno="229",UFC
 https://jmp2.uk/6792044b680721c77c5b9ba2
 
+#EXTINF:-1 tvg-id="64805922536e0c0008a1a1e6" tvg-logo="https://images.pluto.tv/channels/64805922536e0c0008a1a1e6/colorLogoPNG_1772448639982.png" group-title="Sport" tvg-chno="231",DAZN Ringside
+https://jmp2.uk/64805922536e0c0008a1a1e6
+
 #EXTINF:-1 tvg-id="65c33fd4dc10a40008f26af8" tvg-logo="https://images.pluto.tv/channels/65c33fd4dc10a40008f26af8/colorLogoPNG.png" group-title="Sport" tvg-chno="239",Monster Jam
 https://jmp2.uk/65c33fd4dc10a40008f26af8
 
@@ -7504,9 +7516,6 @@ https://jmp2.uk/62bebb3a67307900077a7f9d
 
 #EXTINF:-1 tvg-id="63a1caefc8d285000799e8af" tvg-logo="https://images.pluto.tv/channels/63a1caefc8d285000799e8af/colorLogoPNG.png" group-title="Drama" tvg-chno="318",Scorpion
 https://jmp2.uk/63a1caefc8d285000799e8af
-
-#EXTINF:-1 tvg-id="6964b8f64b352fda70edd4c2" tvg-logo="https://images.pluto.tv/channels/6964b8f64b352fda70edd4c2/colorLogoPNG_1771833348752.png" group-title="Drama" tvg-chno="319",Klassiske dramaserier fra Viafree
-https://jmp2.uk/6964b8f64b352fda70edd4c2
 
 #EXTINF:-1 tvg-id="68bff9a63efb41cd97562e46" tvg-logo="https://images.pluto.tv/channels/68bff9a63efb41cd97562e46/colorLogoPNG_1757661720518.png" group-title="Drama" tvg-chno="320",Highway to Heaven
 https://jmp2.uk/68bff9a63efb41cd97562e46
@@ -7664,9 +7673,6 @@ https://jmp2.uk/685137f4a1e091e16f2dd471
 #EXTINF:-1 tvg-id="61c091343bf4940007803e03" tvg-logo="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png" group-title="Det bedste fra MTV" tvg-chno="516",Pimp My Ride
 https://jmp2.uk/61c091343bf4940007803e03
 
-#EXTINF:-1 tvg-id="6851407c21f49d1b9d177493" tvg-logo="https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1783679658419.png" group-title="Det bedste fra MTV" tvg-chno="517",MTV Ink Master
-https://jmp2.uk/6851407c21f49d1b9d177493
-
 #EXTINF:-1 tvg-id="61c0909b872c650008ed42e4" tvg-logo="https://images.pluto.tv/channels/61c0909b872c650008ed42e4/colorLogoPNG.png" group-title="Det bedste fra MTV" tvg-chno="519",Ex On The Beach
 https://jmp2.uk/61c0909b872c650008ed42e4
 
@@ -7714,9 +7720,6 @@ https://jmp2.uk/63c96203636b7e0007d35090
 
 #EXTINF:-1 tvg-id="66d712fdabec540008ba66cd" tvg-logo="https://images.pluto.tv/channels/66d712fdabec540008ba66cd/colorLogoPNG.png" group-title="Mad & livsstil" tvg-chno="575",Escape to the Country
 https://jmp2.uk/66d712fdabec540008ba66cd
-
-#EXTINF:-1 tvg-id="69e100365db0e5b74f6c0e0c" tvg-logo="https://images.pluto.tv/channels/69e100365db0e5b74f6c0e0c/colorLogoPNG_1777465598147.png" group-title="Mad & livsstil" tvg-chno="577",Pluto TV Urbex
-https://jmp2.uk/69e100365db0e5b74f6c0e0c
 
 #EXTINF:-1 tvg-id="62a0aefc7c5f9f00075b4e24" tvg-logo="https://images.pluto.tv/channels/62a0aefc7c5f9f00075b4e24/colorLogoPNG.png" group-title="Klassiske tv-serier" tvg-chno="601",Walker Texas Ranger
 https://jmp2.uk/62a0aefc7c5f9f00075b4e24
@@ -7819,9 +7822,6 @@ https://jmp2.uk/62beb692cda2b10007d5fd76
 
 #EXTINF:-1 tvg-id="61c097ec8bb1830008e3f962" tvg-logo="https://images.pluto.tv/channels/61c097ec8bb1830008e3f962/colorLogoPNG.png" group-title="True Crime" tvg-chno="851",Pluto TV True Crime
 https://jmp2.uk/61c097ec8bb1830008e3f962
-
-#EXTINF:-1 tvg-id="6a0f0dd902b6c1c00aa51cb9" tvg-logo="https://images.pluto.tv/channels/6a0f0dd902b6c1c00aa51cb9/colorLogoPNG_1780465647232.png" group-title="True Crime" tvg-chno="852",Pluto TV Body Bags
-https://jmp2.uk/6a0f0dd902b6c1c00aa51cb9
 
 #EXTINF:-1 tvg-id="6400bc50953da40008b94668" tvg-logo="https://images.pluto.tv/channels/6400bc50953da40008b94668/colorLogoPNG.png" group-title="True Crime" tvg-chno="853",COPS
 https://jmp2.uk/6400bc50953da40008b94668
@@ -7958,11 +7958,11 @@ https://jmp2.uk/6177fd9812fe0c000726f9eb
 #EXTINF:-1 tvg-id="6486e8984cfc2c0008b6844e" tvg-logo="https://images.pluto.tv/channels/6486e8984cfc2c0008b6844e/colorLogoPNG.png" group-title="Humor" tvg-chno="1062",Beavis and Butt-Head
 https://jmp2.uk/6486e8984cfc2c0008b6844e
 
-#EXTINF:-1 tvg-id="6400c095498393000878a634" tvg-logo="https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png" group-title="Sitcoms" tvg-chno="1091",Frasier
-https://jmp2.uk/6400c095498393000878a634
-
 #EXTINF:-1 tvg-id="678f88bb272ded16b1558c5e" tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoPNG.png" group-title="Sitcoms" tvg-chno="1091",Man with a Plan
 https://jmp2.uk/678f88bb272ded16b1558c5e
+
+#EXTINF:-1 tvg-id="6400c095498393000878a634" tvg-logo="https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png" group-title="Sitcoms" tvg-chno="1091",Frasier
+https://jmp2.uk/6400c095498393000878a634
 
 #EXTINF:-1 tvg-id="63a1cab19ab2df0007bf1c8b" tvg-logo="https://images.pluto.tv/channels/63a1cab19ab2df0007bf1c8b/colorLogoPNG.png" group-title="Sitcoms" tvg-chno="1102",Everybody Hates Chris
 https://jmp2.uk/63a1cab19ab2df0007bf1c8b
