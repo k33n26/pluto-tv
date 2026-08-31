@@ -707,8 +707,8 @@ https://jmp2.uk/5dc9b8223687ff000936ed79
 #EXTINF:-1 tvg-id="5dc9b875e280c80009a8a44a" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2560",CBS News Los Angeles
 https://jmp2.uk/5dc9b875e280c80009a8a44a
 
-#EXTINF:-1 tvg-id="62cdca1cda044a00077b903d" tvg-logo="https://images.pluto.tv/channels/62cdca1cda044a00077b903d/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2570",CBS News Philadelphia
-https://jmp2.uk/62cdca1cda044a00077b903d
+#EXTINF:-1 tvg-id="62cdc75b1a1cbd0007ed45dc" tvg-logo="https://images.pluto.tv/channels/62cdc75b1a1cbd0007ed45dc/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2570",CBS News Chicago
+https://jmp2.uk/62cdc75b1a1cbd0007ed45dc
 
 #EXTINF:-1 tvg-id="55b179af994403942f3061d6" tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2578",Newsmax2
 https://jmp2.uk/55b179af994403942f3061d6
@@ -985,9 +985,6 @@ https://jmp2.uk/6675c7868768aa0008d7f1c7
 
 #EXTINF:-1 tvg-id="69e6be40fde57cd5ba562b29" tvg-logo="https://images.pluto.tv/channels/69e6be40fde57cd5ba562b29/colorLogoPNG_1777592109830.png" group-title="Kids" tvg-chno="3806",Pokémon en español
 https://jmp2.uk/69e6be40fde57cd5ba562b29
-
-#EXTINF:-1 tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png" group-title="Kids" tvg-chno="3810",Transformers TV
-https://jmp2.uk/60fb053712f22a0007ff14d2
 
 #EXTINF:-1 tvg-id="667f3852efa2a10008e1e514" tvg-logo="https://images.pluto.tv/channels/667f3852efa2a10008e1e514/colorLogoPNG.png" group-title="Kids" tvg-chno="3815",Go Go Gadget!
 https://jmp2.uk/667f3852efa2a10008e1e514
@@ -4028,9 +4025,6 @@ https://jmp2.uk/609059dc63be6e0007b4eca6
 #EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG_1785959252371.png" group-title="Películas" tvg-chno="90",Pluto TV Cine Familia
 https://jmp2.uk/5dd6ddb30a1d8a000908ed4c
 
-#EXTINF:-1 tvg-id="5dd6ed41526c77000941411c" tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG_1781123305546.png" group-title="Películas" tvg-chno="91",Pluto TV Pre-Navidad
-https://jmp2.uk/5dd6ed41526c77000941411c
-
 #EXTINF:-1 tvg-id="655f62ff954b020008c91ec6" tvg-logo="https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png" group-title="Series" tvg-chno="102",Pluto TV Series de Crimen
 https://jmp2.uk/655f62ff954b020008c91ec6
 
@@ -4340,9 +4334,6 @@ https://jmp2.uk/5dcde07af1c85b0009b18651
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="Deportes" tvg-chno="828",Azteca Deportes Premium
 https://jmp2.uk/65cf60d166eec80008724e6f
 
-#EXTINF:-1 tvg-id="6320d2755e54db000783fd87" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG_1770389965710.png" group-title="Deportes" tvg-chno="830",Claro Sports Mexico
-https://jmp2.uk/6320d2755e54db000783fd87
-
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG_1787686705454.png" group-title="Deportes" tvg-chno="839",AYM Sports 3
 https://jmp2.uk/63f7e3f9dff38e00082a57af
 
@@ -4504,6 +4495,9 @@ https://jmp2.uk/620ff0a01f9e8700076c6f9d
 
 #EXTINF:-1 tvg-id="5fcea93ffcf94500071c4b2f" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="Teen" tvg-chno="1365",Kenan y Kel
 https://jmp2.uk/5fcea93ffcf94500071c4b2f
+
+#EXTINF:-1 tvg-id="6495c6ad115d060008bf6b52" tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG_1788198063916.png" group-title="Kids" tvg-chno="1400",PAW Patrol Patrulla de Cachorros
+https://jmp2.uk/6495c6ad115d060008bf6b52
 
 #EXTINF:-1 tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG_1748446493242.png" group-title="Kids" tvg-chno="1402",Nick Jr. Club
 https://jmp2.uk/5ddd7cb2cbb9010009b4fe32
@@ -5143,9 +5137,6 @@ https://jmp2.uk/654ca7f92c1d3300086b608c
 
 #EXTINF:-1 tvg-id="62e95265c9fd030007268fb9" tvg-logo="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" group-title="Kids" tvg-chno="1235",Totally Turtles
 https://jmp2.uk/62e95265c9fd030007268fb9
-
-#EXTINF:-1 tvg-id="63da36dea995710008727d4d" tvg-logo="https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png" group-title="Kids" tvg-chno="1240",Transformers
-https://jmp2.uk/63da36dea995710008727d4d
 
 #EXTINF:-1 tvg-id="66ebf4a88131f10008b74739" tvg-logo="https://images.pluto.tv/channels/66ebf4a88131f10008b74739/colorLogoPNG.png" group-title="Kids" tvg-chno="1245",Pokémon
 https://jmp2.uk/66ebf4a88131f10008b74739
@@ -8464,6 +8455,9 @@ https://jmp2.uk/620ff0a01f9e8700076c6f9d
 
 #EXTINF:-1 tvg-id="5fcea93ffcf94500071c4b2f" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="Teen" tvg-chno="1365",Kenan y Kel
 https://jmp2.uk/5fcea93ffcf94500071c4b2f
+
+#EXTINF:-1 tvg-id="6495c6ad115d060008bf6b52" tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG_1788198063916.png" group-title="Kids" tvg-chno="1400",PAW Patrol Patrulla de Cachorros
+https://jmp2.uk/6495c6ad115d060008bf6b52
 
 #EXTINF:-1 tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG_1748446493242.png" group-title="Kids" tvg-chno="1402",Nick Jr. Club
 https://jmp2.uk/5ddd7cb2cbb9010009b4fe32
