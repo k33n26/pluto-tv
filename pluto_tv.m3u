@@ -3692,9 +3692,6 @@ https://jmp2.uk/604a8dedbca75b0007b1c753
 #EXTINF:-1 tvg-id="6474aa984cfc2c0008883a92" tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="Natureza" tvg-chno="483",Pluto TV Animais
 https://jmp2.uk/6474aa984cfc2c0008883a92
 
-#EXTINF:-1 tvg-id="61099df8cee03b00074b2ecf" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="Natureza" tvg-chno="486",O Encantador de Cães
-https://jmp2.uk/61099df8cee03b00074b2ecf
-
 #EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png" group-title="Curiosidades" tvg-chno="515",Pluto TV Vida Real
 https://jmp2.uk/5f32d4d9ec194100070c7449
 
@@ -3868,6 +3865,9 @@ https://jmp2.uk/68b88821e542386ab0bf5bef
 
 #EXTINF:-1 tvg-id="68b8875777201ec428d9eaa5" tvg-logo="https://images.pluto.tv/channels/68b8875777201ec428d9eaa5/colorLogoPNG_1759784936254.png" group-title="Estilo de Vida" tvg-chno="1211",Tastemade Viagem
 https://jmp2.uk/68b8875777201ec428d9eaa5
+
+#EXTINF:-1 tvg-id="61099df8cee03b00074b2ecf" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="Estilo de Vida" tvg-chno="1225",O Encantador de Cães
+https://jmp2.uk/61099df8cee03b00074b2ecf
 
 #EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1785430875394.png" group-title="Anime" tvg-chno="1251",Pluto TV Anime
 https://jmp2.uk/5f12136385bccc00070142ed
@@ -5137,6 +5137,9 @@ https://jmp2.uk/654ca7f92c1d3300086b608c
 
 #EXTINF:-1 tvg-id="62e95265c9fd030007268fb9" tvg-logo="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" group-title="Kids" tvg-chno="1235",Totally Turtles
 https://jmp2.uk/62e95265c9fd030007268fb9
+
+#EXTINF:-1 tvg-id="63da36dea995710008727d4d" tvg-logo="https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png" group-title="Kids" tvg-chno="1240",Transformers
+https://jmp2.uk/63da36dea995710008727d4d
 
 #EXTINF:-1 tvg-id="66ebf4a88131f10008b74739" tvg-logo="https://images.pluto.tv/channels/66ebf4a88131f10008b74739/colorLogoPNG.png" group-title="Kids" tvg-chno="1245",Pokémon
 https://jmp2.uk/66ebf4a88131f10008b74739
