@@ -179,9 +179,6 @@ https://jmp2.uk/60f75178e7f8aa0007e9c259
 #EXTINF:-1 tvg-id="5d81607ab737153ea3c1c80e" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="Classic TV" tvg-chno="560",The Addams Family
 https://jmp2.uk/5d81607ab737153ea3c1c80e
 
-#EXTINF:-1 tvg-id="5f7274806621ff00072651ff" tvg-logo="https://images.pluto.tv/channels/5f7274806621ff00072651ff/colorLogoPNG.png" group-title="Drama" tvg-chno="560",Narcos
-https://jmp2.uk/5f7274806621ff00072651ff
-
 #EXTINF:-1 tvg-id="5f7796e470510900070d4e3d" tvg-logo="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG_1731835751688.png" group-title="Classic TV" tvg-chno="570",Beverly Hillbillies
 https://jmp2.uk/5f7796e470510900070d4e3d
 
@@ -304,6 +301,9 @@ https://jmp2.uk/5b4fc274694c027be6ed3eea
 
 #EXTINF:-1 tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-logo="https://images.pluto.tv/channels/65a9b20f0c7ff50008d3a3b6/colorLogoPNG.png" group-title="Sci-Fi" tvg-chno="905",Universal Monsters
 https://jmp2.uk/65a9b20f0c7ff50008d3a3b6
+
+#EXTINF:-1 tvg-id="5f7274806621ff00072651ff" tvg-logo="https://images.pluto.tv/channels/5f7274806621ff00072651ff/colorLogoPNG.png" group-title="Drama" tvg-chno="959",Narcos
+https://jmp2.uk/5f7274806621ff00072651ff
 
 #EXTINF:-1 tvg-id="5efbd29e4aa26700076c0d06" tvg-logo="https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png" group-title="Drama" tvg-chno="960",CSI
 https://jmp2.uk/5efbd29e4aa26700076c0d06
