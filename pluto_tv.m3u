@@ -2258,14 +2258,11 @@ https://jmp2.uk/6231ede1be5b460007f91bc1
 #EXTINF:-1 tvg-id="6a56ae6e0cbe9fec861af567" tvg-logo="https://images.pluto.tv/channels/6a56ae6e0cbe9fec861af567/colorLogoPNG_1784070124490.png" group-title="Drama" tvg-chno="2",Touched By An Angel
 https://jmp2.uk/6a56ae6e0cbe9fec861af567
 
-#EXTINF:-1 tvg-id="6a56ae45c868f8fd9818d59a" tvg-logo="https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png" group-title="Drama" tvg-chno="3",7th Heaven
-https://jmp2.uk/6a56ae45c868f8fd9818d59a
-
 #EXTINF:-1 tvg-id="6a68dd013ee9d9664278cfb6" tvg-logo="https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png" group-title="Sports" tvg-chno="3",NFL Channel
 https://jmp2.uk/6a68dd013ee9d9664278cfb6
 
-#EXTINF:-1 tvg-id="62e920403bd6940007fb68b8" tvg-logo="https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png" group-title="Comedy" tvg-chno="4",Family Ties
-https://jmp2.uk/62e920403bd6940007fb68b8
+#EXTINF:-1 tvg-id="6a56ae45c868f8fd9818d59a" tvg-logo="https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png" group-title="Drama" tvg-chno="3",7th Heaven
+https://jmp2.uk/6a56ae45c868f8fd9818d59a
 
 #EXTINF:-1 tvg-id="6a56adb02f9e0117d78f5b44" tvg-logo="https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png" group-title="Classic TV Comedy" tvg-chno="5",Hogan's Heroes
 https://jmp2.uk/6a56adb02f9e0117d78f5b44
@@ -2341,6 +2338,9 @@ https://jmp2.uk/66bb3212fe11e5000883ea6b
 
 #EXTINF:-1 tvg-id="62e91c3add66e00007eeb24c" tvg-logo="https://images.pluto.tv/channels/62e91c3add66e00007eeb24c/colorLogoPNG_1759310317971.png" group-title="Comedy" tvg-chno="126",More Pluto TV Comedy
 https://jmp2.uk/62e91c3add66e00007eeb24c
+
+#EXTINF:-1 tvg-id="62e920403bd6940007fb68b8" tvg-logo="https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png" group-title="Comedy" tvg-chno="128",Family Ties
+https://jmp2.uk/62e920403bd6940007fb68b8
 
 #EXTINF:-1 tvg-id="65cf8bdaa25d5e00081e1e5d" tvg-logo="https://images.pluto.tv/channels/65cf8bdaa25d5e00081e1e5d/colorLogoPNG.png" group-title="Comedy" tvg-chno="130",Anger Management
 https://jmp2.uk/65cf8bdaa25d5e00081e1e5d
@@ -4616,14 +4616,11 @@ https://jmp2.uk/5f85cf621d6d2200079f1de0
 #EXTINF:-1 tvg-id="6a56ae6e0cbe9fec861af567" tvg-logo="https://images.pluto.tv/channels/6a56ae6e0cbe9fec861af567/colorLogoPNG_1784070124490.png" group-title="Drama" tvg-chno="2",Touched By An Angel
 https://jmp2.uk/6a56ae6e0cbe9fec861af567
 
-#EXTINF:-1 tvg-id="6a56ae45c868f8fd9818d59a" tvg-logo="https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png" group-title="Drama" tvg-chno="3",7th Heaven
-https://jmp2.uk/6a56ae45c868f8fd9818d59a
-
 #EXTINF:-1 tvg-id="6a68dd013ee9d9664278cfb6" tvg-logo="https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png" group-title="Sports" tvg-chno="3",NFL Channel
 https://jmp2.uk/6a68dd013ee9d9664278cfb6
 
-#EXTINF:-1 tvg-id="62e920403bd6940007fb68b8" tvg-logo="https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png" group-title="Comedy" tvg-chno="4",Family Ties
-https://jmp2.uk/62e920403bd6940007fb68b8
+#EXTINF:-1 tvg-id="6a56ae45c868f8fd9818d59a" tvg-logo="https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png" group-title="Drama" tvg-chno="3",7th Heaven
+https://jmp2.uk/6a56ae45c868f8fd9818d59a
 
 #EXTINF:-1 tvg-id="6a56adb02f9e0117d78f5b44" tvg-logo="https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png" group-title="Classic TV Comedy" tvg-chno="5",Hogan's Heroes
 https://jmp2.uk/6a56adb02f9e0117d78f5b44
@@ -4699,6 +4696,9 @@ https://jmp2.uk/66bb3212fe11e5000883ea6b
 
 #EXTINF:-1 tvg-id="62e91c3add66e00007eeb24c" tvg-logo="https://images.pluto.tv/channels/62e91c3add66e00007eeb24c/colorLogoPNG_1759310317971.png" group-title="Comedy" tvg-chno="126",More Pluto TV Comedy
 https://jmp2.uk/62e91c3add66e00007eeb24c
+
+#EXTINF:-1 tvg-id="62e920403bd6940007fb68b8" tvg-logo="https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png" group-title="Comedy" tvg-chno="128",Family Ties
+https://jmp2.uk/62e920403bd6940007fb68b8
 
 #EXTINF:-1 tvg-id="65cf8bdaa25d5e00081e1e5d" tvg-logo="https://images.pluto.tv/channels/65cf8bdaa25d5e00081e1e5d/colorLogoPNG.png" group-title="Comedy" tvg-chno="130",Anger Management
 https://jmp2.uk/65cf8bdaa25d5e00081e1e5d
