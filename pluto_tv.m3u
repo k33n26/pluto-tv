@@ -2258,12 +2258,6 @@ https://jmp2.uk/66c45c0de7f5e80008b82005
 #EXTINF:-1 tvg-id="6231ede1be5b460007f91bc1" tvg-logo="https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png" group-title="Noticias" tvg-chno="304",CBS News 24/7
 https://jmp2.uk/6231ede1be5b460007f91bc1
 
-#EXTINF:-1 tvg-id="6a56ae6e0cbe9fec861af567" tvg-logo="https://images.pluto.tv/channels/6a56ae6e0cbe9fec861af567/colorLogoPNG_1784070124490.png" group-title="Drama" tvg-chno="2",Touched By An Angel
-https://jmp2.uk/6a56ae6e0cbe9fec861af567
-
-#EXTINF:-1 tvg-id="6a56ae45c868f8fd9818d59a" tvg-logo="https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png" group-title="Drama" tvg-chno="3",7th Heaven
-https://jmp2.uk/6a56ae45c868f8fd9818d59a
-
 #EXTINF:-1 tvg-id="6a68dd013ee9d9664278cfb6" tvg-logo="https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png" group-title="Sports" tvg-chno="3",NFL Channel
 https://jmp2.uk/6a68dd013ee9d9664278cfb6
 
@@ -2557,6 +2551,12 @@ https://jmp2.uk/65cf8d7428730900087c5907
 
 #EXTINF:-1 tvg-id="69b03041cafd86d9dc5763c3" tvg-logo="https://images.pluto.tv/channels/69b03041cafd86d9dc5763c3/colorLogoPNG_1776352106678.png" group-title="Drama" tvg-chno="637",All My Children
 https://jmp2.uk/69b03041cafd86d9dc5763c3
+
+#EXTINF:-1 tvg-id="6a56ae6e0cbe9fec861af567" tvg-logo="https://images.pluto.tv/channels/6a56ae6e0cbe9fec861af567/colorLogoPNG_1784070124490.png" group-title="Drama" tvg-chno="638",Touched By An Angel
+https://jmp2.uk/6a56ae6e0cbe9fec861af567
+
+#EXTINF:-1 tvg-id="6a56ae45c868f8fd9818d59a" tvg-logo="https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png" group-title="Drama" tvg-chno="639",7th Heaven
+https://jmp2.uk/6a56ae45c868f8fd9818d59a
 
 #EXTINF:-1 tvg-id="62bdaf3470f09a000714a2f6" tvg-logo="https://images.pluto.tv/channels/62bdaf3470f09a000714a2f6/colorLogoPNG.png" group-title="Drama" tvg-chno="640",Degrassi
 https://jmp2.uk/62bdaf3470f09a000714a2f6
@@ -4622,12 +4622,6 @@ https://jmp2.uk/5f85ca40eda1b10007b967cd
 #EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música" tvg-chno="1525",Karaoke por Stingray
 https://jmp2.uk/5f85cf621d6d2200079f1de0
 
-#EXTINF:-1 tvg-id="6a56ae6e0cbe9fec861af567" tvg-logo="https://images.pluto.tv/channels/6a56ae6e0cbe9fec861af567/colorLogoPNG_1784070124490.png" group-title="Drama" tvg-chno="2",Touched By An Angel
-https://jmp2.uk/6a56ae6e0cbe9fec861af567
-
-#EXTINF:-1 tvg-id="6a56ae45c868f8fd9818d59a" tvg-logo="https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png" group-title="Drama" tvg-chno="3",7th Heaven
-https://jmp2.uk/6a56ae45c868f8fd9818d59a
-
 #EXTINF:-1 tvg-id="6a68dd013ee9d9664278cfb6" tvg-logo="https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png" group-title="Sports" tvg-chno="3",NFL Channel
 https://jmp2.uk/6a68dd013ee9d9664278cfb6
 
@@ -4921,6 +4915,12 @@ https://jmp2.uk/65cf8d7428730900087c5907
 
 #EXTINF:-1 tvg-id="69b03041cafd86d9dc5763c3" tvg-logo="https://images.pluto.tv/channels/69b03041cafd86d9dc5763c3/colorLogoPNG_1776352106678.png" group-title="Drama" tvg-chno="637",All My Children
 https://jmp2.uk/69b03041cafd86d9dc5763c3
+
+#EXTINF:-1 tvg-id="6a56ae6e0cbe9fec861af567" tvg-logo="https://images.pluto.tv/channels/6a56ae6e0cbe9fec861af567/colorLogoPNG_1784070124490.png" group-title="Drama" tvg-chno="638",Touched By An Angel
+https://jmp2.uk/6a56ae6e0cbe9fec861af567
+
+#EXTINF:-1 tvg-id="6a56ae45c868f8fd9818d59a" tvg-logo="https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png" group-title="Drama" tvg-chno="639",7th Heaven
+https://jmp2.uk/6a56ae45c868f8fd9818d59a
 
 #EXTINF:-1 tvg-id="62bdaf3470f09a000714a2f6" tvg-logo="https://images.pluto.tv/channels/62bdaf3470f09a000714a2f6/colorLogoPNG.png" group-title="Drama" tvg-chno="640",Degrassi
 https://jmp2.uk/62bdaf3470f09a000714a2f6
