@@ -6668,20 +6668,23 @@ https://jmp2.uk/63e389dcc111bc0008ee5b8c
 #EXTINF:-1 tvg-id="6a6318a71a30976934632c3d" tvg-logo="https://images.pluto.tv/channels/6a6318a71a30976934632c3d/colorLogoPNG_1787063239097.png" group-title="Nytt på Pluto TV" tvg-chno="1",Paradise Hotel: Ny säsong
 https://jmp2.uk/6a6318a71a30976934632c3d
 
-#EXTINF:-1 tvg-id="6a6772af1b1c90d8bf8609a7" tvg-logo="https://images.pluto.tv/channels/6a6772af1b1c90d8bf8609a7/colorLogoPNG_1785825136136.png" group-title="Nytt på Pluto TV" tvg-chno="2",FloHockey 24/7
+#EXTINF:-1 tvg-id="646ce0e2e1979c0008983939" tvg-logo="https://images.pluto.tv/channels/646ce0e2e1979c0008983939/colorLogoPNG.png" group-title="Nytt på Pluto TV" tvg-chno="2",Efterlyst
+https://jmp2.uk/646ce0e2e1979c0008983939
+
+#EXTINF:-1 tvg-id="6a6772af1b1c90d8bf8609a7" tvg-logo="https://images.pluto.tv/channels/6a6772af1b1c90d8bf8609a7/colorLogoPNG_1785825136136.png" group-title="Nytt på Pluto TV" tvg-chno="3",FloHockey 24/7
 https://jmp2.uk/6a6772af1b1c90d8bf8609a7
 
-#EXTINF:-1 tvg-id="6a427149d8d4ec52059410dc" tvg-logo="https://images.pluto.tv/channels/6a427149d8d4ec52059410dc/colorLogoPNG_1782739360307.png" group-title="Nytt på Pluto TV" tvg-chno="3",Star Trek: The Next Generation
+#EXTINF:-1 tvg-id="6a427149d8d4ec52059410dc" tvg-logo="https://images.pluto.tv/channels/6a427149d8d4ec52059410dc/colorLogoPNG_1782739360307.png" group-title="Nytt på Pluto TV" tvg-chno="4",Star Trek: The Next Generation
 https://jmp2.uk/6a427149d8d4ec52059410dc
 
-#EXTINF:-1 tvg-id="6a427b8e2286bf07b64724f0" tvg-logo="https://images.pluto.tv/channels/6a427b8e2286bf07b64724f0/colorLogoPNG_1788158301067.png" group-title="Nytt på Pluto TV" tvg-chno="4",Pluto TV Sci-fi filmer
+#EXTINF:-1 tvg-id="6a427b8e2286bf07b64724f0" tvg-logo="https://images.pluto.tv/channels/6a427b8e2286bf07b64724f0/colorLogoPNG_1788158301067.png" group-title="Nytt på Pluto TV" tvg-chno="5",Pluto TV Sci-fi filmer
 https://jmp2.uk/6a427b8e2286bf07b64724f0
-
-#EXTINF:-1 tvg-id="6941232c8f110ea18cd8a656" tvg-logo="https://images.pluto.tv/channels/6941232c8f110ea18cd8a656/colorLogoPNG_1767958736233.png" group-title="Nytt på Pluto TV" tvg-chno="5",Casual Golf
-https://jmp2.uk/6941232c8f110ea18cd8a656
 
 #EXTINF:-1 tvg-id="6a0f0f905304e32444800392" tvg-logo="https://images.pluto.tv/channels/6a0f0f905304e32444800392/colorLogoPNG_1782464641376.png" group-title="Nytt på Pluto TV" tvg-chno="6",American Gladiators
 https://jmp2.uk/6a0f0f905304e32444800392
+
+#EXTINF:-1 tvg-id="6941232c8f110ea18cd8a656" tvg-logo="https://images.pluto.tv/channels/6941232c8f110ea18cd8a656/colorLogoPNG_1767958736233.png" group-title="Nytt på Pluto TV" tvg-chno="6",Casual Golf
+https://jmp2.uk/6941232c8f110ea18cd8a656
 
 #EXTINF:-1 tvg-id="6a7d80838ce7aa0932427863" tvg-logo="https://images.pluto.tv/channels/6a7d80838ce7aa0932427863/colorLogoPNG_1786627172202.png" group-title="Nytt på Pluto TV" tvg-chno="7",That's Rock
 https://jmp2.uk/6a7d80838ce7aa0932427863
@@ -6818,11 +6821,11 @@ https://jmp2.uk/671b4e8bc7626f00089b7194
 #EXTINF:-1 tvg-id="620239894757070008d4812d" tvg-logo="https://images.pluto.tv/channels/620239894757070008d4812d/colorLogoPNG.png" group-title="Sport" tvg-chno="111",Top Gear
 https://jmp2.uk/620239894757070008d4812d
 
-#EXTINF:-1 tvg-id="69d7a0dc805a68fcc92037b7" tvg-logo="https://images.pluto.tv/channels/69d7a0dc805a68fcc92037b7/colorLogoPNG_1776698337555.png" group-title="Sport" tvg-chno="113",Best of Magnus Midtbø
-https://jmp2.uk/69d7a0dc805a68fcc92037b7
-
 #EXTINF:-1 tvg-id="68ac52fac9b5923e0585578b" tvg-logo="https://images.pluto.tv/channels/68ac52fac9b5923e0585578b/colorLogoPNG_1761126274333.png" group-title="Sport" tvg-chno="113",Pluto TV Motor
 https://jmp2.uk/68ac52fac9b5923e0585578b
+
+#EXTINF:-1 tvg-id="69d7a0dc805a68fcc92037b7" tvg-logo="https://images.pluto.tv/channels/69d7a0dc805a68fcc92037b7/colorLogoPNG_1776698337555.png" group-title="Sport" tvg-chno="113",Best of Magnus Midtbø
+https://jmp2.uk/69d7a0dc805a68fcc92037b7
 
 #EXTINF:-1 tvg-id="66461f433d173b000805eeeb" tvg-logo="https://images.pluto.tv/channels/66461f433d173b000805eeeb/colorLogoPNG_1769414859996.png" group-title="Sport" tvg-chno="120",DFB Play TV
 https://jmp2.uk/66461f433d173b000805eeeb
