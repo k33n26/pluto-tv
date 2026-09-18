@@ -1850,8 +1850,11 @@ https://jmp2.uk/672cb91149c40600081cbee5
 #EXTINF:-1 tvg-id="5e6f38792075160007d85823" tvg-logo="https://images.pluto.tv/channels/5e6f38792075160007d85823/colorLogoPNG.png" group-title="Entertainment" tvg-chno="933",Hell's Kitchen
 https://jmp2.uk/5e6f38792075160007d85823
 
-#EXTINF:-1 tvg-id="6a43d3bae0c1a33841302952" tvg-logo="https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png" group-title="Nuevo en Pluto TV" tvg-chno="2",Noche y día
+#EXTINF:-1 tvg-id="6a43d3bae0c1a33841302952" tvg-logo="https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png" group-title="Nuevo en Pluto TV" tvg-chno="1",Noche y día
 https://jmp2.uk/6a43d3bae0c1a33841302952
+
+#EXTINF:-1 tvg-id="6a43d63071cbfff7dca61d23" tvg-logo="https://images.pluto.tv/channels/6a43d63071cbfff7dca61d23/colorLogoPNG_1789631429620.png" group-title="Nuevo en Pluto TV" tvg-chno="2",Los Misteriosos asesinatos de Miss Fisher
+https://jmp2.uk/6a43d63071cbfff7dca61d23
 
 #EXTINF:-1 tvg-id="6a31544f2c1c785c1138dbb1" tvg-logo="https://images.pluto.tv/channels/6a31544f2c1c785c1138dbb1/colorLogoPNG_1781617788564.png" group-title="Nuevo en Pluto TV" tvg-chno="3",Mr. Bean
 https://jmp2.uk/6a31544f2c1c785c1138dbb1
