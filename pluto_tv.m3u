@@ -6842,9 +6842,6 @@ https://jmp2.uk/664f0eea0120f40008bf97d6
 #EXTINF:-1 tvg-id="664f13aff9992200084a3532" tvg-logo="https://images.pluto.tv/channels/664f13aff9992200084a3532/colorLogoPNG.png" group-title="South Park" tvg-chno="96",South Park Rockin' Out
 https://jmp2.uk/664f13aff9992200084a3532
 
-#EXTINF:-1 tvg-id="62cd74e38f6f0d000798cd93" tvg-logo="https://images.pluto.tv/channels/62cd74e38f6f0d000798cd93/colorLogoPNG_1746816954969.png" group-title="Sport" tvg-chno="101",Pluto TV Sport
-https://jmp2.uk/62cd74e38f6f0d000798cd93
-
 #EXTINF:-1 tvg-id="686faf533ffa5e0c912688e7" tvg-logo="https://images.pluto.tv/channels/686faf533ffa5e0c912688e7/colorLogoPNG_1762169254016.png" group-title="Sport" tvg-chno="103",Pluto TV Handboll Live
 https://jmp2.uk/686faf533ffa5e0c912688e7
 
@@ -6872,11 +6869,11 @@ https://jmp2.uk/671b4e8bc7626f00089b7194
 #EXTINF:-1 tvg-id="620239894757070008d4812d" tvg-logo="https://images.pluto.tv/channels/620239894757070008d4812d/colorLogoPNG.png" group-title="Sport" tvg-chno="111",Top Gear
 https://jmp2.uk/620239894757070008d4812d
 
-#EXTINF:-1 tvg-id="69d7a0dc805a68fcc92037b7" tvg-logo="https://images.pluto.tv/channels/69d7a0dc805a68fcc92037b7/colorLogoPNG_1776698337555.png" group-title="Sport" tvg-chno="113",Best of Magnus Midtbø
-https://jmp2.uk/69d7a0dc805a68fcc92037b7
-
 #EXTINF:-1 tvg-id="68ac52fac9b5923e0585578b" tvg-logo="https://images.pluto.tv/channels/68ac52fac9b5923e0585578b/colorLogoPNG_1761126274333.png" group-title="Sport" tvg-chno="113",Pluto TV Motor
 https://jmp2.uk/68ac52fac9b5923e0585578b
+
+#EXTINF:-1 tvg-id="69d7a0dc805a68fcc92037b7" tvg-logo="https://images.pluto.tv/channels/69d7a0dc805a68fcc92037b7/colorLogoPNG_1776698337555.png" group-title="Sport" tvg-chno="113",Best of Magnus Midtbø
+https://jmp2.uk/69d7a0dc805a68fcc92037b7
 
 #EXTINF:-1 tvg-id="66461f433d173b000805eeeb" tvg-logo="https://images.pluto.tv/channels/66461f433d173b000805eeeb/colorLogoPNG_1769414859996.png" group-title="Sport" tvg-chno="120",DFB Play TV
 https://jmp2.uk/66461f433d173b000805eeeb
@@ -6995,11 +6992,11 @@ https://jmp2.uk/63a19e1b9ab2df0007bef7a7
 #EXTINF:-1 tvg-id="63dbe8c8a9957100087798a3" tvg-logo="https://images.pluto.tv/channels/63dbe8c8a9957100087798a3/colorLogoPNG.png" group-title="Filmer" tvg-chno="316",Pluto TV Kultfilmer
 https://jmp2.uk/63dbe8c8a9957100087798a3
 
-#EXTINF:-1 tvg-id="68c01bed508ba507f0d0dd60" tvg-logo="https://images.pluto.tv/channels/68c01bed508ba507f0d0dd60/colorLogoPNG_1770018447511.png" group-title="Filmer" tvg-chno="318",Pluto TV Harlequin
-https://jmp2.uk/68c01bed508ba507f0d0dd60
-
 #EXTINF:-1 tvg-id="63a19da6847a090007f230da" tvg-logo="https://images.pluto.tv/channels/63a19da6847a090007f230da/colorLogoPNG_1767773691782.png" group-title="Filmer" tvg-chno="318",Pluto TV Romantik
 https://jmp2.uk/63a19da6847a090007f230da
+
+#EXTINF:-1 tvg-id="68c01bed508ba507f0d0dd60" tvg-logo="https://images.pluto.tv/channels/68c01bed508ba507f0d0dd60/colorLogoPNG_1770018447511.png" group-title="Filmer" tvg-chno="318",Pluto TV Harlequin
+https://jmp2.uk/68c01bed508ba507f0d0dd60
 
 #EXTINF:-1 tvg-id="62f64ec9eb1045000728cad6" tvg-logo="https://images.pluto.tv/channels/62f64ec9eb1045000728cad6/colorLogoPNG.png" group-title="Filmer" tvg-chno="330",Viafree Movies
 https://jmp2.uk/62f64ec9eb1045000728cad6
