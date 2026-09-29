@@ -7397,6 +7397,9 @@ https://jmp2.uk/686d01ad94a028da3aaca6b3
 #EXTINF:-1 tvg-id="6391df52d146a40007c265f3" tvg-logo="https://images.pluto.tv/channels/6391df52d146a40007c265f3/colorLogoPNG.png" group-title="Sitcoms" tvg-chno="1020",The Nanny
 https://jmp2.uk/6391df52d146a40007c265f3
 
+#EXTINF:-1 tvg-id="68ad8bececd330dcb0f050b5" tvg-logo="https://images.pluto.tv/channels/68ad8bececd330dcb0f050b5/colorLogoPNG_1756794871691.png" group-title="Nyt på Pluto TV" tvg-chno="1",Love Island: All Stars
+https://jmp2.uk/68ad8bececd330dcb0f050b5
+
 #EXTINF:-1 tvg-id="66b22714d512590008c3d573" tvg-logo="https://images.pluto.tv/channels/66b22714d512590008c3d573/colorLogoPNG.png" group-title="Nyt på Pluto TV" tvg-chno="2",Den gule sofa med Allan Sindberg
 https://jmp2.uk/66b22714d512590008c3d573
 
@@ -7535,11 +7538,11 @@ https://jmp2.uk/689a0ab0f4af1aaca24530ae
 #EXTINF:-1 tvg-id="67f79fdb3481170e68c0bc38" tvg-logo="https://images.pluto.tv/channels/67f79fdb3481170e68c0bc38/colorLogoPNG_1748943874109.png" group-title="Dansk reality & underholdning" tvg-chno="135",PodRadio på Pluto TV
 https://jmp2.uk/67f79fdb3481170e68c0bc38
 
-#EXTINF:-1 tvg-id="66fd1338ec9d6d00081e0443" tvg-logo="https://images.pluto.tv/channels/66fd1338ec9d6d00081e0443/colorLogoPNG_1730999680019.png" group-title="Dansk reality & underholdning" tvg-chno="137",Retake E-sport Live
-https://jmp2.uk/66fd1338ec9d6d00081e0443
-
 #EXTINF:-1 tvg-id="698ddf8fe93b210d1aaaa2fc" tvg-logo="https://images.pluto.tv/channels/698ddf8fe93b210d1aaaa2fc/colorLogoPNG_1782383445575.png" group-title="Dansk reality & underholdning" tvg-chno="137",Asfalten kalder
 https://jmp2.uk/698ddf8fe93b210d1aaaa2fc
+
+#EXTINF:-1 tvg-id="66fd1338ec9d6d00081e0443" tvg-logo="https://images.pluto.tv/channels/66fd1338ec9d6d00081e0443/colorLogoPNG_1730999680019.png" group-title="Dansk reality & underholdning" tvg-chno="137",Retake E-sport Live
+https://jmp2.uk/66fd1338ec9d6d00081e0443
 
 #EXTINF:-1 tvg-id="6272511cb389bb0007b30b09" tvg-logo="https://images.pluto.tv/channels/6272511cb389bb0007b30b09/colorLogoPNG.png" group-title="Dansk reality & underholdning" tvg-chno="139",For lækker til love
 https://jmp2.uk/6272511cb389bb0007b30b09
@@ -7775,17 +7778,14 @@ https://jmp2.uk/62bed7cb3279cb0007735327
 #EXTINF:-1 tvg-id="695e2857026be6e9d3ad59d3" tvg-logo="https://images.pluto.tv/channels/695e2857026be6e9d3ad59d3/colorLogoPNG_1768808291831.png" group-title="Realityserier" tvg-chno="446",Love Island USA
 https://jmp2.uk/695e2857026be6e9d3ad59d3
 
-#EXTINF:-1 tvg-id="68ad8bececd330dcb0f050b5" tvg-logo="https://images.pluto.tv/channels/68ad8bececd330dcb0f050b5/colorLogoPNG_1756794871691.png" group-title="Realityserier" tvg-chno="447",Love Island: All Stars
-https://jmp2.uk/68ad8bececd330dcb0f050b5
-
 #EXTINF:-1 tvg-id="6464cc595a0cd500088c7749" tvg-logo="https://images.pluto.tv/channels/6464cc595a0cd500088c7749/colorLogoPNG.png" group-title="Realityserier" tvg-chno="448",America's Next Top Model
 https://jmp2.uk/6464cc595a0cd500088c7749
 
-#EXTINF:-1 tvg-id="692edc78d52ea9e4858cf78f" tvg-logo="https://images.pluto.tv/channels/692edc78d52ea9e4858cf78f/colorLogoPNG_1768226003744.png" group-title="Realityserier" tvg-chno="449",Dating Naked UK
-https://jmp2.uk/692edc78d52ea9e4858cf78f
-
 #EXTINF:-1 tvg-id="6790d6c7bc03978b9bfbfd44" tvg-logo="https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png" group-title="Realityserier" tvg-chno="449",FBoy Island
 https://jmp2.uk/6790d6c7bc03978b9bfbfd44
+
+#EXTINF:-1 tvg-id="692edc78d52ea9e4858cf78f" tvg-logo="https://images.pluto.tv/channels/692edc78d52ea9e4858cf78f/colorLogoPNG_1768226003744.png" group-title="Realityserier" tvg-chno="449",Dating Naked UK
+https://jmp2.uk/692edc78d52ea9e4858cf78f
 
 #EXTINF:-1 tvg-id="67a09ddc21af380008088dc3" tvg-logo="https://images.pluto.tv/channels/67a09ddc21af380008088dc3/colorLogoPNG.png" group-title="Realityserier" tvg-chno="454",Britain's Next Top Model
 https://jmp2.uk/67a09ddc21af380008088dc3
@@ -8159,11 +8159,11 @@ https://jmp2.uk/6177fd9812fe0c000726f9eb
 #EXTINF:-1 tvg-id="6486e8984cfc2c0008b6844e" tvg-logo="https://images.pluto.tv/channels/6486e8984cfc2c0008b6844e/colorLogoPNG.png" group-title="Humor" tvg-chno="1062",Beavis and Butt-Head
 https://jmp2.uk/6486e8984cfc2c0008b6844e
 
-#EXTINF:-1 tvg-id="6400c095498393000878a634" tvg-logo="https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png" group-title="Sitcoms" tvg-chno="1091",Frasier
-https://jmp2.uk/6400c095498393000878a634
-
 #EXTINF:-1 tvg-id="678f88bb272ded16b1558c5e" tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoPNG.png" group-title="Sitcoms" tvg-chno="1091",Man with a Plan
 https://jmp2.uk/678f88bb272ded16b1558c5e
+
+#EXTINF:-1 tvg-id="6400c095498393000878a634" tvg-logo="https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png" group-title="Sitcoms" tvg-chno="1091",Frasier
+https://jmp2.uk/6400c095498393000878a634
 
 #EXTINF:-1 tvg-id="6391ce99da3fda0008024a96" tvg-logo="https://images.pluto.tv/channels/6391ce99da3fda0008024a96/colorLogoPNG.png" group-title="Sitcoms" tvg-chno="1100",Vore værste år
 https://jmp2.uk/6391ce99da3fda0008024a96
