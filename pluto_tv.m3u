@@ -1844,17 +1844,17 @@ https://jmp2.uk/672cb91149c40600081cbee5
 #EXTINF:-1 tvg-id="5e6f38792075160007d85823" tvg-logo="https://images.pluto.tv/channels/5e6f38792075160007d85823/colorLogoPNG.png" group-title="Entertainment" tvg-chno="933",Hell's Kitchen
 https://jmp2.uk/5e6f38792075160007d85823
 
-#EXTINF:-1 tvg-id="6a954e12f2eaa89247e06dd6" tvg-logo="https://images.pluto.tv/channels/6a954e12f2eaa89247e06dd6/colorLogoPNG_1790256418017.png" group-title="Nuevo en Pluto TV" tvg-chno="1",MTV VMAs 2026
-https://jmp2.uk/6a954e12f2eaa89247e06dd6
-
-#EXTINF:-1 tvg-id="6a43d63071cbfff7dca61d23" tvg-logo="https://images.pluto.tv/channels/6a43d63071cbfff7dca61d23/colorLogoPNG_1789631429620.png" group-title="Nuevo en Pluto TV" tvg-chno="2",Los Misteriosos asesinatos de Miss Fisher
+#EXTINF:-1 tvg-id="6a43d63071cbfff7dca61d23" tvg-logo="https://images.pluto.tv/channels/6a43d63071cbfff7dca61d23/colorLogoPNG_1789631429620.png" group-title="Nuevo en Pluto TV" tvg-chno="1",Los Misteriosos asesinatos de Miss Fisher
 https://jmp2.uk/6a43d63071cbfff7dca61d23
 
-#EXTINF:-1 tvg-id="6a43d3bae0c1a33841302952" tvg-logo="https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png" group-title="Nuevo en Pluto TV" tvg-chno="3",Noche y día
+#EXTINF:-1 tvg-id="6a43d3bae0c1a33841302952" tvg-logo="https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png" group-title="Nuevo en Pluto TV" tvg-chno="2",Noche y día
 https://jmp2.uk/6a43d3bae0c1a33841302952
 
-#EXTINF:-1 tvg-id="6a31544f2c1c785c1138dbb1" tvg-logo="https://images.pluto.tv/channels/6a31544f2c1c785c1138dbb1/colorLogoPNG_1781617788564.png" group-title="Nuevo en Pluto TV" tvg-chno="4",Mr. Bean
+#EXTINF:-1 tvg-id="6a31544f2c1c785c1138dbb1" tvg-logo="https://images.pluto.tv/channels/6a31544f2c1c785c1138dbb1/colorLogoPNG_1781617788564.png" group-title="Nuevo en Pluto TV" tvg-chno="3",Mr. Bean
 https://jmp2.uk/6a31544f2c1c785c1138dbb1
+
+#EXTINF:-1 tvg-id="6a954e12f2eaa89247e06dd6" tvg-logo="https://images.pluto.tv/channels/6a954e12f2eaa89247e06dd6/colorLogoPNG_1790256418017.png" group-title="Nuevo en Pluto TV" tvg-chno="4",MTV VMAs 2026
+https://jmp2.uk/6a954e12f2eaa89247e06dd6
 
 #EXTINF:-1 tvg-id="6a43d26599d7b121476c351c" tvg-logo="https://images.pluto.tv/channels/6a43d26599d7b121476c351c/colorLogoPNG_1787302997380.png" group-title="Nuevo en Pluto TV" tvg-chno="5",Acapulco Shore
 https://jmp2.uk/6a43d26599d7b121476c351c
@@ -2285,10 +2285,19 @@ https://jmp2.uk/6abab32a198ce62db3f7e54d
 #EXTINF:-1 tvg-id="6a71f490f5f14c2045cd6118" tvg-logo="https://images.pluto.tv/channels/6a71f490f5f14c2045cd6118/colorLogoPNG_1787779574370.png" group-title="Comedy" tvg-chno="3",Pluto TV TGIF Comedy
 https://jmp2.uk/6a71f490f5f14c2045cd6118
 
-#EXTINF:-1 tvg-id="6a8d96aa2cfd341eb5809214" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png" group-title="Sports" tvg-chno="5",SI TV
+#EXTINF:-1 tvg-id="6aa1c48cf5f14c2045c43776" tvg-logo="https://images.pluto.tv/channels/6aa1c48cf5f14c2045c43776/colorLogoPNG_1790078703073.png" group-title="Crime Drama" tvg-chno="5",Private Eyes
+https://jmp2.uk/6aa1c48cf5f14c2045c43776
+
+#EXTINF:-1 tvg-id="6aa2c3d1cb18e0ed0255f8d0" tvg-logo="https://images.pluto.tv/channels/6aa2c3d1cb18e0ed0255f8d0/colorLogoPNG_1790717127559.png" group-title="True Crime" tvg-chno="6",COPS
+https://jmp2.uk/6aa2c3d1cb18e0ed0255f8d0
+
+#EXTINF:-1 tvg-id="6aa2c09cf5f14c2045c7c87a" tvg-logo="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png" group-title="House of Horror" tvg-chno="7",Paranormal Chronicles
+https://jmp2.uk/6aa2c09cf5f14c2045c7c87a
+
+#EXTINF:-1 tvg-id="6a8d96aa2cfd341eb5809214" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png" group-title="Sports" tvg-chno="8",SI TV
 https://jmp2.uk/6a8d96aa2cfd341eb5809214
 
-#EXTINF:-1 tvg-id="6a8d96996d62a56d3bdd959c" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png" group-title="Sports" tvg-chno="7",Wired2Fish TV
+#EXTINF:-1 tvg-id="6a8d96996d62a56d3bdd959c" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png" group-title="Sports" tvg-chno="9",Wired2Fish TV
 https://jmp2.uk/6a8d96996d62a56d3bdd959c
 
 #EXTINF:-1 tvg-id="6a56adb02f9e0117d78f5b44" tvg-logo="https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png" group-title="Classic TV Comedy" tvg-chno="34",Hogan's Heroes
@@ -2566,9 +2575,6 @@ https://jmp2.uk/62e94ec74823db0007277a8f
 
 #EXTINF:-1 tvg-id="68d25b620a0f3829b116bb6f" tvg-logo="https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/colorLogoPNG_1758618285949.png" group-title="Sci-Fi + Fantasy" tvg-chno="575",Pluto TV Anime
 https://jmp2.uk/68d25b620a0f3829b116bb6f
-
-#EXTINF:-1 tvg-id="6aa2c09cf5f14c2045c7c87a" tvg-logo="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png" group-title="House of Horror" tvg-chno="597",Paranormal Chronicles
-https://jmp2.uk/6aa2c09cf5f14c2045c7c87a
 
 #EXTINF:-1 tvg-id="688a44cf5d73ec0a3f49718b" tvg-logo="https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png" group-title="Drama" tvg-chno="620",Weeds / Nurse Jackie
 https://jmp2.uk/688a44cf5d73ec0a3f49718b
@@ -4655,10 +4661,19 @@ https://jmp2.uk/6abab32a198ce62db3f7e54d
 #EXTINF:-1 tvg-id="6a71f490f5f14c2045cd6118" tvg-logo="https://images.pluto.tv/channels/6a71f490f5f14c2045cd6118/colorLogoPNG_1787779574370.png" group-title="Comedy" tvg-chno="3",Pluto TV TGIF Comedy
 https://jmp2.uk/6a71f490f5f14c2045cd6118
 
-#EXTINF:-1 tvg-id="6a8d96aa2cfd341eb5809214" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png" group-title="Sports" tvg-chno="5",SI TV
+#EXTINF:-1 tvg-id="6aa1c48cf5f14c2045c43776" tvg-logo="https://images.pluto.tv/channels/6aa1c48cf5f14c2045c43776/colorLogoPNG_1790078703073.png" group-title="Crime Drama" tvg-chno="5",Private Eyes
+https://jmp2.uk/6aa1c48cf5f14c2045c43776
+
+#EXTINF:-1 tvg-id="6aa2c3d1cb18e0ed0255f8d0" tvg-logo="https://images.pluto.tv/channels/6aa2c3d1cb18e0ed0255f8d0/colorLogoPNG_1790717127559.png" group-title="True Crime" tvg-chno="6",COPS
+https://jmp2.uk/6aa2c3d1cb18e0ed0255f8d0
+
+#EXTINF:-1 tvg-id="6aa2c09cf5f14c2045c7c87a" tvg-logo="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png" group-title="House of Horror" tvg-chno="7",Paranormal Chronicles
+https://jmp2.uk/6aa2c09cf5f14c2045c7c87a
+
+#EXTINF:-1 tvg-id="6a8d96aa2cfd341eb5809214" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png" group-title="Sports" tvg-chno="8",SI TV
 https://jmp2.uk/6a8d96aa2cfd341eb5809214
 
-#EXTINF:-1 tvg-id="6a8d96996d62a56d3bdd959c" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png" group-title="Sports" tvg-chno="7",Wired2Fish TV
+#EXTINF:-1 tvg-id="6a8d96996d62a56d3bdd959c" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png" group-title="Sports" tvg-chno="9",Wired2Fish TV
 https://jmp2.uk/6a8d96996d62a56d3bdd959c
 
 #EXTINF:-1 tvg-id="6a56adb02f9e0117d78f5b44" tvg-logo="https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png" group-title="Classic TV Comedy" tvg-chno="34",Hogan's Heroes
@@ -4936,9 +4951,6 @@ https://jmp2.uk/62e94ec74823db0007277a8f
 
 #EXTINF:-1 tvg-id="68d25b620a0f3829b116bb6f" tvg-logo="https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/colorLogoPNG_1758618285949.png" group-title="Sci-Fi + Fantasy" tvg-chno="575",Pluto TV Anime
 https://jmp2.uk/68d25b620a0f3829b116bb6f
-
-#EXTINF:-1 tvg-id="6aa2c09cf5f14c2045c7c87a" tvg-logo="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png" group-title="House of Horror" tvg-chno="597",Paranormal Chronicles
-https://jmp2.uk/6aa2c09cf5f14c2045c7c87a
 
 #EXTINF:-1 tvg-id="688a44cf5d73ec0a3f49718b" tvg-logo="https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png" group-title="Drama" tvg-chno="620",Weeds / Nurse Jackie
 https://jmp2.uk/688a44cf5d73ec0a3f49718b
