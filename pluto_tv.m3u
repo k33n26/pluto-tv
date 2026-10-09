@@ -2282,23 +2282,17 @@ https://jmp2.uk/6abab32a198ce62db3f7e54d
 #EXTINF:-1 tvg-id="6a71f490f5f14c2045cd6118" tvg-logo="https://images.pluto.tv/channels/6a71f490f5f14c2045cd6118/colorLogoPNG_1787779574370.png" group-title="Comedy" tvg-chno="3",Pluto TV TGIF Comedy
 https://jmp2.uk/6a71f490f5f14c2045cd6118
 
-#EXTINF:-1 tvg-id="6aaaec2ec349e6a78bb333eb" tvg-logo="https://images.pluto.tv/channels/6aaaec2ec349e6a78bb333eb/colorLogoPNG_1790975116070.png" group-title="Local News" tvg-chno="4",CBC News Quebec
-https://jmp2.uk/6aaaec2ec349e6a78bb333eb
-
 #EXTINF:-1 tvg-id="6aa1c48cf5f14c2045c43776" tvg-logo="https://images.pluto.tv/channels/6aa1c48cf5f14c2045c43776/colorLogoPNG_1790078703073.png" group-title="Crime Drama" tvg-chno="5",Private Eyes
 https://jmp2.uk/6aa1c48cf5f14c2045c43776
 
 #EXTINF:-1 tvg-id="6aa2c3d1cb18e0ed0255f8d0" tvg-logo="https://images.pluto.tv/channels/6aa2c3d1cb18e0ed0255f8d0/colorLogoPNG_1790717127559.png" group-title="True Crime" tvg-chno="6",COPS
 https://jmp2.uk/6aa2c3d1cb18e0ed0255f8d0
 
-#EXTINF:-1 tvg-id="6aa2c09cf5f14c2045c7c87a" tvg-logo="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png" group-title="House of Horror" tvg-chno="7",Paranormal Chronicles
+#EXTINF:-1 tvg-id="6abab34190639e3b198384da" tvg-logo="https://images.pluto.tv/channels/6abab34190639e3b198384da/colorLogoPNG_1790624448704.png" group-title="Crime Drama" tvg-chno="7",Narcos
+https://jmp2.uk/6abab34190639e3b198384da
+
+#EXTINF:-1 tvg-id="6aa2c09cf5f14c2045c7c87a" tvg-logo="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png" group-title="House of Horror" tvg-chno="8",Paranormal Chronicles
 https://jmp2.uk/6aa2c09cf5f14c2045c7c87a
-
-#EXTINF:-1 tvg-id="6a8d96aa2cfd341eb5809214" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png" group-title="Sports" tvg-chno="8",SI TV
-https://jmp2.uk/6a8d96aa2cfd341eb5809214
-
-#EXTINF:-1 tvg-id="6a8d96996d62a56d3bdd959c" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png" group-title="Sports" tvg-chno="9",Wired2Fish TV
-https://jmp2.uk/6a8d96996d62a56d3bdd959c
 
 #EXTINF:-1 tvg-id="691b023a7613e09a8b209539" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png" group-title="House of Horror" tvg-chno="40",The X-Files
 https://jmp2.uk/691b023a7613e09a8b209539
@@ -2786,17 +2780,20 @@ https://jmp2.uk/66a8f01914a2bb00084dd86c
 #EXTINF:-1 tvg-id="62cbf063257170000724590c" tvg-logo="https://images.pluto.tv/channels/62cbf063257170000724590c/colorLogoPNG.png" group-title="Local News" tvg-chno="1056",Global News BC
 https://jmp2.uk/62cbf063257170000724590c
 
+#EXTINF:-1 tvg-id="6aaaec2ec349e6a78bb333eb" tvg-logo="https://images.pluto.tv/channels/6aaaec2ec349e6a78bb333eb/colorLogoPNG_1790975116070.png" group-title="Local News" tvg-chno="1067",CBC News Quebec
+https://jmp2.uk/6aaaec2ec349e6a78bb333eb
+
 #EXTINF:-1 tvg-id="62cbfbd6ad95670007f567af" tvg-logo="https://images.pluto.tv/channels/62cbfbd6ad95670007f567af/colorLogoPNG.png" group-title="Local News" tvg-chno="1070",Global News Montreal
 https://jmp2.uk/62cbfbd6ad95670007f567af
 
 #EXTINF:-1 tvg-id="6aaaec502714ce519248c55e" tvg-logo="https://images.pluto.tv/channels/6aaaec502714ce519248c55e/colorLogoPNG_1791207790533.png" group-title="Local News" tvg-chno="1071",CBC News Calgary
 https://jmp2.uk/6aaaec502714ce519248c55e
 
-#EXTINF:-1 tvg-id="62cbf2de1fba5f0007e47d9c" tvg-logo="https://images.pluto.tv/channels/62cbf2de1fba5f0007e47d9c/colorLogoPNG.png" group-title="Local News" tvg-chno="1072",Global News Edmonton
-https://jmp2.uk/62cbf2de1fba5f0007e47d9c
-
 #EXTINF:-1 tvg-id="62cbf23dcfb48300077f8348" tvg-logo="https://images.pluto.tv/channels/62cbf23dcfb48300077f8348/colorLogoPNG.png" group-title="Local News" tvg-chno="1072",Global News Calgary
 https://jmp2.uk/62cbf23dcfb48300077f8348
+
+#EXTINF:-1 tvg-id="62cbf2de1fba5f0007e47d9c" tvg-logo="https://images.pluto.tv/channels/62cbf2de1fba5f0007e47d9c/colorLogoPNG.png" group-title="Local News" tvg-chno="1072",Global News Edmonton
+https://jmp2.uk/62cbf2de1fba5f0007e47d9c
 
 #EXTINF:-1 tvg-id="6aaaec5abd51830177e9a185" tvg-logo="https://images.pluto.tv/channels/6aaaec5abd51830177e9a185/colorLogoPNG_1791207891782.png" group-title="Local News" tvg-chno="1073",CBC News Edmonton
 https://jmp2.uk/6aaaec5abd51830177e9a185
@@ -2897,6 +2894,9 @@ https://jmp2.uk/6a68dd013ee9d9664278cfb6
 #EXTINF:-1 tvg-id="66ed3eb27358ce000830df49" tvg-logo="https://images.pluto.tv/channels/66ed3eb27358ce000830df49/colorLogoPNG.png" group-title="Sports" tvg-chno="1303",UFC
 https://jmp2.uk/66ed3eb27358ce000830df49
 
+#EXTINF:-1 tvg-id="6a8d96aa2cfd341eb5809214" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png" group-title="Sports" tvg-chno="1304",SI TV
+https://jmp2.uk/6a8d96aa2cfd341eb5809214
+
 #EXTINF:-1 tvg-id="6a67825875fd5e3828e83703" tvg-logo="https://images.pluto.tv/channels/6a67825875fd5e3828e83703/colorLogoPNG_1785780851784.png" group-title="Sports" tvg-chno="1305",FloHockey 24/7
 https://jmp2.uk/6a67825875fd5e3828e83703
 
@@ -2905,6 +2905,9 @@ https://jmp2.uk/638e10220aa6a6000726979f
 
 #EXTINF:-1 tvg-id="69c592dff0f1a7d732dc6e36" tvg-logo="https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png" group-title="Sports" tvg-chno="1308",Pluto TV Cars
 https://jmp2.uk/69c592dff0f1a7d732dc6e36
+
+#EXTINF:-1 tvg-id="6a8d96996d62a56d3bdd959c" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png" group-title="Sports" tvg-chno="1309",Wired2Fish TV
+https://jmp2.uk/6a8d96996d62a56d3bdd959c
 
 #EXTINF:-1 tvg-id="639b4f75d3d35c0007d37b30" tvg-logo="https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png" group-title="Sports" tvg-chno="1310",Pluto TV Snooker 900
 https://jmp2.uk/639b4f75d3d35c0007d37b30
@@ -4673,23 +4676,17 @@ https://jmp2.uk/6abab32a198ce62db3f7e54d
 #EXTINF:-1 tvg-id="6a71f490f5f14c2045cd6118" tvg-logo="https://images.pluto.tv/channels/6a71f490f5f14c2045cd6118/colorLogoPNG_1787779574370.png" group-title="Comedy" tvg-chno="3",Pluto TV TGIF Comedy
 https://jmp2.uk/6a71f490f5f14c2045cd6118
 
-#EXTINF:-1 tvg-id="6aaaec2ec349e6a78bb333eb" tvg-logo="https://images.pluto.tv/channels/6aaaec2ec349e6a78bb333eb/colorLogoPNG_1790975116070.png" group-title="Local News" tvg-chno="4",CBC News Quebec
-https://jmp2.uk/6aaaec2ec349e6a78bb333eb
-
 #EXTINF:-1 tvg-id="6aa1c48cf5f14c2045c43776" tvg-logo="https://images.pluto.tv/channels/6aa1c48cf5f14c2045c43776/colorLogoPNG_1790078703073.png" group-title="Crime Drama" tvg-chno="5",Private Eyes
 https://jmp2.uk/6aa1c48cf5f14c2045c43776
 
 #EXTINF:-1 tvg-id="6aa2c3d1cb18e0ed0255f8d0" tvg-logo="https://images.pluto.tv/channels/6aa2c3d1cb18e0ed0255f8d0/colorLogoPNG_1790717127559.png" group-title="True Crime" tvg-chno="6",COPS
 https://jmp2.uk/6aa2c3d1cb18e0ed0255f8d0
 
-#EXTINF:-1 tvg-id="6aa2c09cf5f14c2045c7c87a" tvg-logo="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png" group-title="House of Horror" tvg-chno="7",Paranormal Chronicles
+#EXTINF:-1 tvg-id="6abab34190639e3b198384da" tvg-logo="https://images.pluto.tv/channels/6abab34190639e3b198384da/colorLogoPNG_1790624448704.png" group-title="Crime Drama" tvg-chno="7",Narcos
+https://jmp2.uk/6abab34190639e3b198384da
+
+#EXTINF:-1 tvg-id="6aa2c09cf5f14c2045c7c87a" tvg-logo="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png" group-title="House of Horror" tvg-chno="8",Paranormal Chronicles
 https://jmp2.uk/6aa2c09cf5f14c2045c7c87a
-
-#EXTINF:-1 tvg-id="6a8d96aa2cfd341eb5809214" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png" group-title="Sports" tvg-chno="8",SI TV
-https://jmp2.uk/6a8d96aa2cfd341eb5809214
-
-#EXTINF:-1 tvg-id="6a8d96996d62a56d3bdd959c" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png" group-title="Sports" tvg-chno="9",Wired2Fish TV
-https://jmp2.uk/6a8d96996d62a56d3bdd959c
 
 #EXTINF:-1 tvg-id="691b023a7613e09a8b209539" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png" group-title="House of Horror" tvg-chno="40",The X-Files
 https://jmp2.uk/691b023a7613e09a8b209539
@@ -5177,17 +5174,20 @@ https://jmp2.uk/66a8f01914a2bb00084dd86c
 #EXTINF:-1 tvg-id="62cbf063257170000724590c" tvg-logo="https://images.pluto.tv/channels/62cbf063257170000724590c/colorLogoPNG.png" group-title="Local News" tvg-chno="1056",Global News BC
 https://jmp2.uk/62cbf063257170000724590c
 
+#EXTINF:-1 tvg-id="6aaaec2ec349e6a78bb333eb" tvg-logo="https://images.pluto.tv/channels/6aaaec2ec349e6a78bb333eb/colorLogoPNG_1790975116070.png" group-title="Local News" tvg-chno="1067",CBC News Quebec
+https://jmp2.uk/6aaaec2ec349e6a78bb333eb
+
 #EXTINF:-1 tvg-id="62cbfbd6ad95670007f567af" tvg-logo="https://images.pluto.tv/channels/62cbfbd6ad95670007f567af/colorLogoPNG.png" group-title="Local News" tvg-chno="1070",Global News Montreal
 https://jmp2.uk/62cbfbd6ad95670007f567af
 
 #EXTINF:-1 tvg-id="6aaaec502714ce519248c55e" tvg-logo="https://images.pluto.tv/channels/6aaaec502714ce519248c55e/colorLogoPNG_1791207790533.png" group-title="Local News" tvg-chno="1071",CBC News Calgary
 https://jmp2.uk/6aaaec502714ce519248c55e
 
-#EXTINF:-1 tvg-id="62cbf2de1fba5f0007e47d9c" tvg-logo="https://images.pluto.tv/channels/62cbf2de1fba5f0007e47d9c/colorLogoPNG.png" group-title="Local News" tvg-chno="1072",Global News Edmonton
-https://jmp2.uk/62cbf2de1fba5f0007e47d9c
-
 #EXTINF:-1 tvg-id="62cbf23dcfb48300077f8348" tvg-logo="https://images.pluto.tv/channels/62cbf23dcfb48300077f8348/colorLogoPNG.png" group-title="Local News" tvg-chno="1072",Global News Calgary
 https://jmp2.uk/62cbf23dcfb48300077f8348
+
+#EXTINF:-1 tvg-id="62cbf2de1fba5f0007e47d9c" tvg-logo="https://images.pluto.tv/channels/62cbf2de1fba5f0007e47d9c/colorLogoPNG.png" group-title="Local News" tvg-chno="1072",Global News Edmonton
+https://jmp2.uk/62cbf2de1fba5f0007e47d9c
 
 #EXTINF:-1 tvg-id="6aaaec5abd51830177e9a185" tvg-logo="https://images.pluto.tv/channels/6aaaec5abd51830177e9a185/colorLogoPNG_1791207891782.png" group-title="Local News" tvg-chno="1073",CBC News Edmonton
 https://jmp2.uk/6aaaec5abd51830177e9a185
@@ -5288,6 +5288,9 @@ https://jmp2.uk/6a68dd013ee9d9664278cfb6
 #EXTINF:-1 tvg-id="66ed3eb27358ce000830df49" tvg-logo="https://images.pluto.tv/channels/66ed3eb27358ce000830df49/colorLogoPNG.png" group-title="Sports" tvg-chno="1303",UFC
 https://jmp2.uk/66ed3eb27358ce000830df49
 
+#EXTINF:-1 tvg-id="6a8d96aa2cfd341eb5809214" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png" group-title="Sports" tvg-chno="1304",SI TV
+https://jmp2.uk/6a8d96aa2cfd341eb5809214
+
 #EXTINF:-1 tvg-id="6a67825875fd5e3828e83703" tvg-logo="https://images.pluto.tv/channels/6a67825875fd5e3828e83703/colorLogoPNG_1785780851784.png" group-title="Sports" tvg-chno="1305",FloHockey 24/7
 https://jmp2.uk/6a67825875fd5e3828e83703
 
@@ -5296,6 +5299,9 @@ https://jmp2.uk/638e10220aa6a6000726979f
 
 #EXTINF:-1 tvg-id="69c592dff0f1a7d732dc6e36" tvg-logo="https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png" group-title="Sports" tvg-chno="1308",Pluto TV Cars
 https://jmp2.uk/69c592dff0f1a7d732dc6e36
+
+#EXTINF:-1 tvg-id="6a8d96996d62a56d3bdd959c" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png" group-title="Sports" tvg-chno="1309",Wired2Fish TV
+https://jmp2.uk/6a8d96996d62a56d3bdd959c
 
 #EXTINF:-1 tvg-id="639b4f75d3d35c0007d37b30" tvg-logo="https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png" group-title="Sports" tvg-chno="1310",Pluto TV Snooker 900
 https://jmp2.uk/639b4f75d3d35c0007d37b30
