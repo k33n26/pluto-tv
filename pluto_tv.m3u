@@ -7520,9 +7520,6 @@ https://jmp2.uk/686d01ad94a028da3aaca6b3
 #EXTINF:-1 tvg-id="6391df52d146a40007c265f3" tvg-logo="https://images.pluto.tv/channels/6391df52d146a40007c265f3/colorLogoPNG.png" group-title="Sitcoms" tvg-chno="1020",The Nanny
 https://jmp2.uk/6391df52d146a40007c265f3
 
-#EXTINF:-1 tvg-id="6618f54baec96800081525ec" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png" group-title="Sport" tvg-chno="1",Pluto TV Håndbold Live
-https://jmp2.uk/6618f54baec96800081525ec
-
 #EXTINF:-1 tvg-id="66fbf4d3d7de140008d41f5b" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" group-title="Drama" tvg-chno="2",NCIS: Los Angeles
 https://jmp2.uk/66fbf4d3d7de140008d41f5b
 
@@ -7705,6 +7702,9 @@ https://jmp2.uk/6405d444d200410008009419
 
 #EXTINF:-1 tvg-id="675c0762f433320008707f68" tvg-logo="https://images.pluto.tv/channels/675c0762f433320008707f68/colorLogoPNG.png" group-title="Sport" tvg-chno="203",BET25 Live+
 https://jmp2.uk/675c0762f433320008707f68
+
+#EXTINF:-1 tvg-id="6618f54baec96800081525ec" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png" group-title="Sport" tvg-chno="204",Pluto TV Håndbold Live
+https://jmp2.uk/6618f54baec96800081525ec
 
 #EXTINF:-1 tvg-id="68dfa431cc3c6cd904053100" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" group-title="Sport" tvg-chno="205",Pluto TV Håndbold Highlights
 https://jmp2.uk/68dfa431cc3c6cd904053100
