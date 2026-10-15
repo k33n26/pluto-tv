@@ -359,9 +359,6 @@ https://jmp2.uk/654933e253fc970008390114
 #EXTINF:-1 tvg-id="62fa8176b9884200074ef5ae" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-title="Drama" tvg-chno="1060",The Walking Dead Universe
 https://jmp2.uk/62fa8176b9884200074ef5ae
 
-#EXTINF:-1 tvg-id="62f2ce24f328e00007e7f55a" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG_1787093171101.png" group-title="Drama" tvg-chno="1070",Stories by AMC
-https://jmp2.uk/62f2ce24f328e00007e7f55a
-
 #EXTINF:-1 tvg-id="5cbf6a868a1bce4a3d52a5e9" tvg-logo="https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/colorLogoPNG.png" group-title="Drama" tvg-chno="1080",Midsomer Murders
 https://jmp2.uk/5cbf6a868a1bce4a3d52a5e9
 
@@ -1853,9 +1850,6 @@ https://jmp2.uk/6a43d63071cbfff7dca61d23
 #EXTINF:-1 tvg-id="6a43d3bae0c1a33841302952" tvg-logo="https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png" group-title="Nuevo en Pluto TV" tvg-chno="4",Noche y día
 https://jmp2.uk/6a43d3bae0c1a33841302952
 
-#EXTINF:-1 tvg-id="6a43d26599d7b121476c351c" tvg-logo="https://images.pluto.tv/channels/6a43d26599d7b121476c351c/colorLogoPNG_1787302997380.png" group-title="Nuevo en Pluto TV" tvg-chno="5",Acapulco Shore
-https://jmp2.uk/6a43d26599d7b121476c351c
-
 #EXTINF:-1 tvg-id="6a846cb6840f7d654710df00" tvg-logo="https://images.pluto.tv/channels/6a846cb6840f7d654710df00/colorLogoPNG_1790842102809.png" group-title="Música" tvg-chno="15",That's 90s00s
 https://jmp2.uk/6a846cb6840f7d654710df00
 
@@ -2246,11 +2240,11 @@ https://jmp2.uk/6793ac47f5c74bff95d18a99
 #EXTINF:-1 tvg-id="660c29f80cd4630008f1547c" tvg-logo="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG_1750064805891.png" group-title="Deportes" tvg-chno="284",FIFA+
 https://jmp2.uk/660c29f80cd4630008f1547c
 
-#EXTINF:-1 tvg-id="6a43c8e19d516ba88f728627" tvg-logo="https://images.pluto.tv/channels/6a43c8e19d516ba88f728627/colorLogoPNG_1782827298629.png" group-title="Deportes" tvg-chno="285",Tennis Channel
-https://jmp2.uk/6a43c8e19d516ba88f728627
-
 #EXTINF:-1 tvg-id="67921b873de7c8cf94233f52" tvg-logo="https://images.pluto.tv/channels/67921b873de7c8cf94233f52/colorLogoPNG.png" group-title="Deportes" tvg-chno="285",UFC
 https://jmp2.uk/67921b873de7c8cf94233f52
+
+#EXTINF:-1 tvg-id="6a43c8e19d516ba88f728627" tvg-logo="https://images.pluto.tv/channels/6a43c8e19d516ba88f728627/colorLogoPNG_1782827298629.png" group-title="Deportes" tvg-chno="285",Tennis Channel
+https://jmp2.uk/6a43c8e19d516ba88f728627
 
 #EXTINF:-1 tvg-id="696e02423b9ce349c90edef9" tvg-logo="https://images.pluto.tv/channels/696e02423b9ce349c90edef9/colorLogoPNG_1770892063713.png" group-title="Deportes" tvg-chno="286",Rally TV
 https://jmp2.uk/696e02423b9ce349c90edef9
