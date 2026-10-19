@@ -92,17 +92,17 @@ https://jmp2.uk/5c665db3e6c01b72c4977bc2
 #EXTINF:-1 tvg-id="6ab165fdeae99d62d7e541ff" tvg-logo="https://images.pluto.tv/channels/6ab165fdeae99d62d7e541ff/colorLogoPNG_1790715914846.png" group-title="Halloween Hits" tvg-chno="274",Pluto TV Halloween
 https://jmp2.uk/6ab165fdeae99d62d7e541ff
 
-#EXTINF:-1 tvg-id="633354b63df9700007f6a1b7" tvg-logo="https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png" group-title="Comedy" tvg-chno="290",Sitcom Legends
+#EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="Comedy" tvg-chno="291",TV Land Sitcoms
+https://jmp2.uk/5c2d64ffbdf11b71587184b8
+
+#EXTINF:-1 tvg-id="633354b63df9700007f6a1b7" tvg-logo="https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png" group-title="Comedy" tvg-chno="292",Sitcom Legends
 https://jmp2.uk/633354b63df9700007f6a1b7
 
-#EXTINF:-1 tvg-id="6a28827ef4a627f3b07df1ea" tvg-logo="https://images.pluto.tv/channels/6a28827ef4a627f3b07df1ea/colorLogoPNG_1781731467139.png" group-title="Comedy" tvg-chno="293",Cheers
+#EXTINF:-1 tvg-id="6a28827ef4a627f3b07df1ea" tvg-logo="https://images.pluto.tv/channels/6a28827ef4a627f3b07df1ea/colorLogoPNG_1781731467139.png" group-title="Comedy" tvg-chno="294",Cheers
 https://jmp2.uk/6a28827ef4a627f3b07df1ea
 
 #EXTINF:-1 tvg-id="66ba495ffe11e5000881f049" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG_1782142982491.png" group-title="Comedy" tvg-chno="295",Frasier
 https://jmp2.uk/66ba495ffe11e5000881f049
-
-#EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="Comedy" tvg-chno="300",TV Land Sitcoms
-https://jmp2.uk/5c2d64ffbdf11b71587184b8
 
 #EXTINF:-1 tvg-id="6a5ff6d9c868f8fd984e005c" tvg-logo="https://images.pluto.tv/channels/6a5ff6d9c868f8fd984e005c/colorLogoPNG_1785791941652.png" group-title="Comedy" tvg-chno="302",Ghosts
 https://jmp2.uk/6a5ff6d9c868f8fd984e005c
@@ -2786,17 +2786,23 @@ https://jmp2.uk/62cbfbd6ad95670007f567af
 #EXTINF:-1 tvg-id="6aaaec502714ce519248c55e" tvg-logo="https://images.pluto.tv/channels/6aaaec502714ce519248c55e/colorLogoPNG_1791207790533.png" group-title="Local News" tvg-chno="1071",CBC News Calgary
 https://jmp2.uk/6aaaec502714ce519248c55e
 
-#EXTINF:-1 tvg-id="62cbf23dcfb48300077f8348" tvg-logo="https://images.pluto.tv/channels/62cbf23dcfb48300077f8348/colorLogoPNG.png" group-title="Local News" tvg-chno="1072",Global News Calgary
-https://jmp2.uk/62cbf23dcfb48300077f8348
-
 #EXTINF:-1 tvg-id="62cbf2de1fba5f0007e47d9c" tvg-logo="https://images.pluto.tv/channels/62cbf2de1fba5f0007e47d9c/colorLogoPNG.png" group-title="Local News" tvg-chno="1072",Global News Edmonton
 https://jmp2.uk/62cbf2de1fba5f0007e47d9c
+
+#EXTINF:-1 tvg-id="62cbf23dcfb48300077f8348" tvg-logo="https://images.pluto.tv/channels/62cbf23dcfb48300077f8348/colorLogoPNG.png" group-title="Local News" tvg-chno="1072",Global News Calgary
+https://jmp2.uk/62cbf23dcfb48300077f8348
 
 #EXTINF:-1 tvg-id="6aaaec5abd51830177e9a185" tvg-logo="https://images.pluto.tv/channels/6aaaec5abd51830177e9a185/colorLogoPNG_1791207891782.png" group-title="Local News" tvg-chno="1073",CBC News Edmonton
 https://jmp2.uk/6aaaec5abd51830177e9a185
 
+#EXTINF:-1 tvg-id="6aaaec477a9bc501c300ca35" tvg-logo="https://images.pluto.tv/channels/6aaaec477a9bc501c300ca35/colorLogoPNG_1792161692436.png" group-title="Local News" tvg-chno="1075",CBC News Ottawa
+https://jmp2.uk/6aaaec477a9bc501c300ca35
+
 #EXTINF:-1 tvg-id="62cbf398b8e02600071deda5" tvg-logo="https://images.pluto.tv/channels/62cbf398b8e02600071deda5/colorLogoPNG.png" group-title="Local News" tvg-chno="1077",Global News Halifax
 https://jmp2.uk/62cbf398b8e02600071deda5
+
+#EXTINF:-1 tvg-id="6aaaec6dde3a888e5a491479" tvg-logo="https://images.pluto.tv/channels/6aaaec6dde3a888e5a491479/colorLogoPNG_1792162742552.png" group-title="Local News" tvg-chno="1078",CBC News New Brunswick
+https://jmp2.uk/6aaaec6dde3a888e5a491479
 
 #EXTINF:-1 tvg-id="62cbf4964446e2000742073e" tvg-logo="https://images.pluto.tv/channels/62cbf4964446e2000742073e/colorLogoPNG.png" group-title="Local News" tvg-chno="1079",Global News Kingston
 https://jmp2.uk/62cbf4964446e2000742073e
@@ -2810,11 +2816,17 @@ https://jmp2.uk/62cbfc572dc3750007a493ce
 #EXTINF:-1 tvg-id="62cbfcd8c2db990007861e43" tvg-logo="https://images.pluto.tv/channels/62cbfcd8c2db990007861e43/colorLogoPNG.png" group-title="Local News" tvg-chno="1085",Global News Peterborough
 https://jmp2.uk/62cbfcd8c2db990007861e43
 
+#EXTINF:-1 tvg-id="6aaaec640c9f5239c2f17359" tvg-logo="https://images.pluto.tv/channels/6aaaec640c9f5239c2f17359/colorLogoPNG_1792162938456.png" group-title="Local News" tvg-chno="1086",CBC News Saskatchewan
+https://jmp2.uk/6aaaec640c9f5239c2f17359
+
 #EXTINF:-1 tvg-id="62cbff53ca8f2200080253b5" tvg-logo="https://images.pluto.tv/channels/62cbff53ca8f2200080253b5/colorLogoPNG.png" group-title="Local News" tvg-chno="1087",Global News Regina
 https://jmp2.uk/62cbff53ca8f2200080253b5
 
 #EXTINF:-1 tvg-id="62cc00359cb58900088dc840" tvg-logo="https://images.pluto.tv/channels/62cc00359cb58900088dc840/colorLogoPNG.png" group-title="Local News" tvg-chno="1089",Global News Saskatoon
 https://jmp2.uk/62cc00359cb58900088dc840
+
+#EXTINF:-1 tvg-id="6aaaec396d05845d59cdabc0" tvg-logo="https://images.pluto.tv/channels/6aaaec396d05845d59cdabc0/colorLogoPNG_1792162386664.png" group-title="Local News" tvg-chno="1090",CBC News Manitoba
+https://jmp2.uk/6aaaec396d05845d59cdabc0
 
 #EXTINF:-1 tvg-id="62cc0120880c890007191016" tvg-logo="https://images.pluto.tv/channels/62cc0120880c890007191016/colorLogoPNG.png" group-title="Local News" tvg-chno="1091",Global News Winnipeg
 https://jmp2.uk/62cc0120880c890007191016
@@ -5183,17 +5195,23 @@ https://jmp2.uk/62cbfbd6ad95670007f567af
 #EXTINF:-1 tvg-id="6aaaec502714ce519248c55e" tvg-logo="https://images.pluto.tv/channels/6aaaec502714ce519248c55e/colorLogoPNG_1791207790533.png" group-title="Local News" tvg-chno="1071",CBC News Calgary
 https://jmp2.uk/6aaaec502714ce519248c55e
 
-#EXTINF:-1 tvg-id="62cbf23dcfb48300077f8348" tvg-logo="https://images.pluto.tv/channels/62cbf23dcfb48300077f8348/colorLogoPNG.png" group-title="Local News" tvg-chno="1072",Global News Calgary
-https://jmp2.uk/62cbf23dcfb48300077f8348
-
 #EXTINF:-1 tvg-id="62cbf2de1fba5f0007e47d9c" tvg-logo="https://images.pluto.tv/channels/62cbf2de1fba5f0007e47d9c/colorLogoPNG.png" group-title="Local News" tvg-chno="1072",Global News Edmonton
 https://jmp2.uk/62cbf2de1fba5f0007e47d9c
+
+#EXTINF:-1 tvg-id="62cbf23dcfb48300077f8348" tvg-logo="https://images.pluto.tv/channels/62cbf23dcfb48300077f8348/colorLogoPNG.png" group-title="Local News" tvg-chno="1072",Global News Calgary
+https://jmp2.uk/62cbf23dcfb48300077f8348
 
 #EXTINF:-1 tvg-id="6aaaec5abd51830177e9a185" tvg-logo="https://images.pluto.tv/channels/6aaaec5abd51830177e9a185/colorLogoPNG_1791207891782.png" group-title="Local News" tvg-chno="1073",CBC News Edmonton
 https://jmp2.uk/6aaaec5abd51830177e9a185
 
+#EXTINF:-1 tvg-id="6aaaec477a9bc501c300ca35" tvg-logo="https://images.pluto.tv/channels/6aaaec477a9bc501c300ca35/colorLogoPNG_1792161692436.png" group-title="Local News" tvg-chno="1075",CBC News Ottawa
+https://jmp2.uk/6aaaec477a9bc501c300ca35
+
 #EXTINF:-1 tvg-id="62cbf398b8e02600071deda5" tvg-logo="https://images.pluto.tv/channels/62cbf398b8e02600071deda5/colorLogoPNG.png" group-title="Local News" tvg-chno="1077",Global News Halifax
 https://jmp2.uk/62cbf398b8e02600071deda5
+
+#EXTINF:-1 tvg-id="6aaaec6dde3a888e5a491479" tvg-logo="https://images.pluto.tv/channels/6aaaec6dde3a888e5a491479/colorLogoPNG_1792162742552.png" group-title="Local News" tvg-chno="1078",CBC News New Brunswick
+https://jmp2.uk/6aaaec6dde3a888e5a491479
 
 #EXTINF:-1 tvg-id="62cbf4964446e2000742073e" tvg-logo="https://images.pluto.tv/channels/62cbf4964446e2000742073e/colorLogoPNG.png" group-title="Local News" tvg-chno="1079",Global News Kingston
 https://jmp2.uk/62cbf4964446e2000742073e
@@ -5207,11 +5225,17 @@ https://jmp2.uk/62cbfc572dc3750007a493ce
 #EXTINF:-1 tvg-id="62cbfcd8c2db990007861e43" tvg-logo="https://images.pluto.tv/channels/62cbfcd8c2db990007861e43/colorLogoPNG.png" group-title="Local News" tvg-chno="1085",Global News Peterborough
 https://jmp2.uk/62cbfcd8c2db990007861e43
 
+#EXTINF:-1 tvg-id="6aaaec640c9f5239c2f17359" tvg-logo="https://images.pluto.tv/channels/6aaaec640c9f5239c2f17359/colorLogoPNG_1792162938456.png" group-title="Local News" tvg-chno="1086",CBC News Saskatchewan
+https://jmp2.uk/6aaaec640c9f5239c2f17359
+
 #EXTINF:-1 tvg-id="62cbff53ca8f2200080253b5" tvg-logo="https://images.pluto.tv/channels/62cbff53ca8f2200080253b5/colorLogoPNG.png" group-title="Local News" tvg-chno="1087",Global News Regina
 https://jmp2.uk/62cbff53ca8f2200080253b5
 
 #EXTINF:-1 tvg-id="62cc00359cb58900088dc840" tvg-logo="https://images.pluto.tv/channels/62cc00359cb58900088dc840/colorLogoPNG.png" group-title="Local News" tvg-chno="1089",Global News Saskatoon
 https://jmp2.uk/62cc00359cb58900088dc840
+
+#EXTINF:-1 tvg-id="6aaaec396d05845d59cdabc0" tvg-logo="https://images.pluto.tv/channels/6aaaec396d05845d59cdabc0/colorLogoPNG_1792162386664.png" group-title="Local News" tvg-chno="1090",CBC News Manitoba
+https://jmp2.uk/6aaaec396d05845d59cdabc0
 
 #EXTINF:-1 tvg-id="62cc0120880c890007191016" tvg-logo="https://images.pluto.tv/channels/62cc0120880c890007191016/colorLogoPNG.png" group-title="Local News" tvg-chno="1091",Global News Winnipeg
 https://jmp2.uk/62cc0120880c890007191016
