@@ -7601,9 +7601,6 @@ https://jmp2.uk/686d01ad94a028da3aaca6b3
 #EXTINF:-1 tvg-id="6391df52d146a40007c265f3" tvg-logo="https://images.pluto.tv/channels/6391df52d146a40007c265f3/colorLogoPNG.png" group-title="Sitcoms" tvg-chno="1020",The Nanny
 https://jmp2.uk/6391df52d146a40007c265f3
 
-#EXTINF:-1 tvg-id="6a749d816d05845d59c65de6" tvg-logo="https://images.pluto.tv/channels/6a749d816d05845d59c65de6/colorLogoPNG_1788794533551.png" group-title="Sport" tvg-chno="1",Great by Choice
-https://jmp2.uk/6a749d816d05845d59c65de6
-
 #EXTINF:-1 tvg-id="66fbf4d3d7de140008d41f5b" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" group-title="Drama" tvg-chno="2",NCIS: Los Angeles
 https://jmp2.uk/66fbf4d3d7de140008d41f5b
 
@@ -7613,11 +7610,11 @@ https://jmp2.uk/6a4b6106064a1780422088b1
 #EXTINF:-1 tvg-id="66b22714d512590008c3d573" tvg-logo="https://images.pluto.tv/channels/66b22714d512590008c3d573/colorLogoPNG.png" group-title="Nyt på Pluto TV" tvg-chno="4",Den gule sofa med Allan Sindberg
 https://jmp2.uk/66b22714d512590008c3d573
 
-#EXTINF:-1 tvg-id="660d6360c8311c0008b8a7c6" tvg-logo="https://images.pluto.tv/channels/660d6360c8311c0008b8a7c6/colorLogoPNG.png" group-title="Nyt på Pluto TV" tvg-chno="5",Top Gear Classics
-https://jmp2.uk/660d6360c8311c0008b8a7c6
-
 #EXTINF:-1 tvg-id="6512edf7473a540008599a31" tvg-logo="https://images.pluto.tv/channels/6512edf7473a540008599a31/colorLogoPNG.png" group-title="Nyt på Pluto TV" tvg-chno="5",Nathan for You
 https://jmp2.uk/6512edf7473a540008599a31
+
+#EXTINF:-1 tvg-id="660d6360c8311c0008b8a7c6" tvg-logo="https://images.pluto.tv/channels/660d6360c8311c0008b8a7c6/colorLogoPNG.png" group-title="Nyt på Pluto TV" tvg-chno="5",Top Gear Classics
+https://jmp2.uk/660d6360c8311c0008b8a7c6
 
 #EXTINF:-1 tvg-id="6202358b9794740007133363" tvg-logo="https://images.pluto.tv/channels/6202358b9794740007133363/colorLogoPNG.png" group-title="Nyt på Pluto TV" tvg-chno="6",Doctor Who
 https://jmp2.uk/6202358b9794740007133363
@@ -7727,11 +7724,11 @@ https://jmp2.uk/67334bed030a2c000805e414
 #EXTINF:-1 tvg-id="692ec3a76f84242a60f75f59" tvg-logo="https://images.pluto.tv/channels/692ec3a76f84242a60f75f59/colorLogoPNG_1766133823688.png" group-title="Dansk reality & underholdning" tvg-chno="132",Reality Awards
 https://jmp2.uk/692ec3a76f84242a60f75f59
 
-#EXTINF:-1 tvg-id="688a20c69034bd35f34aaa9e" tvg-logo="https://images.pluto.tv/channels/688a20c69034bd35f34aaa9e/colorLogoPNG_1756968851681.png" group-title="Dansk reality & underholdning" tvg-chno="133",Simba Prisen
-https://jmp2.uk/688a20c69034bd35f34aaa9e
-
 #EXTINF:-1 tvg-id="692ec3f475169f09b5c0a8b3" tvg-logo="https://images.pluto.tv/channels/692ec3f475169f09b5c0a8b3/colorLogoPNG_1766052484579.png" group-title="Dansk reality & underholdning" tvg-chno="133",Robert Prisen
 https://jmp2.uk/692ec3f475169f09b5c0a8b3
+
+#EXTINF:-1 tvg-id="688a20c69034bd35f34aaa9e" tvg-logo="https://images.pluto.tv/channels/688a20c69034bd35f34aaa9e/colorLogoPNG_1756968851681.png" group-title="Dansk reality & underholdning" tvg-chno="133",Simba Prisen
+https://jmp2.uk/688a20c69034bd35f34aaa9e
 
 #EXTINF:-1 tvg-id="689a0ab0f4af1aaca24530ae" tvg-logo="https://images.pluto.tv/channels/689a0ab0f4af1aaca24530ae/colorLogoPNG-1757332399265.png" group-title="Dansk reality & underholdning" tvg-chno="135",Den gode gerning
 https://jmp2.uk/689a0ab0f4af1aaca24530ae
@@ -7840,6 +7837,9 @@ https://jmp2.uk/660bfc7b2433010008def3e3
 
 #EXTINF:-1 tvg-id="691ed751bef819002f2c7296" tvg-logo="https://images.pluto.tv/channels/691ed751bef819002f2c7296/colorLogoPNG_1775046963615.png" group-title="Sport" tvg-chno="222",Inter 24/7
 https://jmp2.uk/691ed751bef819002f2c7296
+
+#EXTINF:-1 tvg-id="6a749d816d05845d59c65de6" tvg-logo="https://images.pluto.tv/channels/6a749d816d05845d59c65de6/colorLogoPNG_1788794533551.png" group-title="Populært lige nu" tvg-chno="223",Great by Choice
+https://jmp2.uk/6a749d816d05845d59c65de6
 
 #EXTINF:-1 tvg-id="660e7404e8fba8000853abc0" tvg-logo="https://images.pluto.tv/channels/660e7404e8fba8000853abc0/colorLogoPNG_1748590816382.png" group-title="Sport" tvg-chno="223",AWSN
 https://jmp2.uk/660e7404e8fba8000853abc0
