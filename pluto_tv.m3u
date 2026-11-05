@@ -2660,6 +2660,9 @@ https://jmp2.uk/6850335b5965a2fd49f7e36d
 #EXTINF:-1 tvg-id="62bdad934d73d50007a82472" tvg-logo="https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png" group-title="Sci-Fi + Fantasy" tvg-chno="565",Doctor Who Classic
 https://jmp2.uk/62bdad934d73d50007a82472
 
+#EXTINF:-1 tvg-id="6874ad743ffa5e0c917f6e20" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png" group-title="Sci-Fi + Fantasy" tvg-chno="568",The Outer Limits
+https://jmp2.uk/6874ad743ffa5e0c917f6e20
+
 #EXTINF:-1 tvg-id="62e94ec74823db0007277a8f" tvg-logo="https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png" group-title="Sci-Fi + Fantasy" tvg-chno="570",One Piece
 https://jmp2.uk/62e94ec74823db0007277a8f
 
@@ -2707,9 +2710,6 @@ https://jmp2.uk/62fb9ade112ca70007d8441d
 
 #EXTINF:-1 tvg-id="62e922f6675f71000736db3b" tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png" group-title="Drama" tvg-chno="655",Doc Martin
 https://jmp2.uk/62e922f6675f71000736db3b
-
-#EXTINF:-1 tvg-id="6874ad743ffa5e0c917f6e20" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png" group-title="Sci-Fi + Fantasy" tvg-chno="668",The Outer Limits
-https://jmp2.uk/6874ad743ffa5e0c917f6e20
 
 #EXTINF:-1 tvg-id="691b012d1148fa1cd8a75d5c" tvg-logo="https://images.pluto.tv/channels/691b012d1148fa1cd8a75d5c/colorLogoPNG_1776452409517.png" group-title="Reality" tvg-chno="700",Hardcore Pawn
 https://jmp2.uk/691b012d1148fa1cd8a75d5c
@@ -3259,9 +3259,6 @@ https://jmp2.uk/697a05f9539a4a433a64cb53
 
 #EXTINF:-1 tvg-id="5d767a76367b89cf0032550d" tvg-logo="https://images.pluto.tv/channels/5d767a76367b89cf0032550d/colorLogoPNG_1761128648314.png" group-title="Frohe Weihnachten!" tvg-chno="96",Pluto TV Mistletoe
 https://jmp2.uk/5d767a76367b89cf0032550d
-
-#EXTINF:-1 tvg-id="684ac14b5965a2fd49583311" tvg-logo="https://images.pluto.tv/channels/684ac14b5965a2fd49583311/colorLogoPNG_1757587715183.png" group-title="Frohe Weihnachten!" tvg-chno="97",Weihnachtskino
-https://jmp2.uk/684ac14b5965a2fd49583311
 
 #EXTINF:-1 tvg-id="5dc29179c928a600093a7747" tvg-logo="https://images.pluto.tv/channels/5dc29179c928a600093a7747/colorLogoPNG.png" group-title="Frohe Weihnachten!" tvg-chno="98",Pluto TV Christmas
 https://jmp2.uk/5dc29179c928a600093a7747
@@ -5129,6 +5126,9 @@ https://jmp2.uk/6850335b5965a2fd49f7e36d
 #EXTINF:-1 tvg-id="62bdad934d73d50007a82472" tvg-logo="https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png" group-title="Sci-Fi + Fantasy" tvg-chno="565",Doctor Who Classic
 https://jmp2.uk/62bdad934d73d50007a82472
 
+#EXTINF:-1 tvg-id="6874ad743ffa5e0c917f6e20" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png" group-title="Sci-Fi + Fantasy" tvg-chno="568",The Outer Limits
+https://jmp2.uk/6874ad743ffa5e0c917f6e20
+
 #EXTINF:-1 tvg-id="62e94ec74823db0007277a8f" tvg-logo="https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png" group-title="Sci-Fi + Fantasy" tvg-chno="570",One Piece
 https://jmp2.uk/62e94ec74823db0007277a8f
 
@@ -5176,9 +5176,6 @@ https://jmp2.uk/62fb9ade112ca70007d8441d
 
 #EXTINF:-1 tvg-id="62e922f6675f71000736db3b" tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png" group-title="Drama" tvg-chno="655",Doc Martin
 https://jmp2.uk/62e922f6675f71000736db3b
-
-#EXTINF:-1 tvg-id="6874ad743ffa5e0c917f6e20" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png" group-title="Sci-Fi + Fantasy" tvg-chno="668",The Outer Limits
-https://jmp2.uk/6874ad743ffa5e0c917f6e20
 
 #EXTINF:-1 tvg-id="691b012d1148fa1cd8a75d5c" tvg-logo="https://images.pluto.tv/channels/691b012d1148fa1cd8a75d5c/colorLogoPNG_1776452409517.png" group-title="Reality" tvg-chno="700",Hardcore Pawn
 https://jmp2.uk/691b012d1148fa1cd8a75d5c
@@ -7718,14 +7715,14 @@ https://jmp2.uk/686d01ad94a028da3aaca6b3
 #EXTINF:-1 tvg-id="6391df52d146a40007c265f3" tvg-logo="https://images.pluto.tv/channels/6391df52d146a40007c265f3/colorLogoPNG.png" group-title="Sitcoms" tvg-chno="1020",The Nanny
 https://jmp2.uk/6391df52d146a40007c265f3
 
-#EXTINF:-1 tvg-id="66fbf4d3d7de140008d41f5b" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" group-title="Drama" tvg-chno="2",NCIS: Los Angeles
-https://jmp2.uk/66fbf4d3d7de140008d41f5b
-
 #EXTINF:-1 tvg-id="6790d6c7bc03978b9bfbfd44" tvg-logo="https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png" group-title="Realityserier" tvg-chno="2",FBoy Island
 https://jmp2.uk/6790d6c7bc03978b9bfbfd44
 
 #EXTINF:-1 tvg-id="688a20c69034bd35f34aaa9e" tvg-logo="https://images.pluto.tv/channels/688a20c69034bd35f34aaa9e/colorLogoPNG_1756968851681.png" group-title="Nyt på Pluto TV" tvg-chno="3",Simba Prisen
 https://jmp2.uk/688a20c69034bd35f34aaa9e
+
+#EXTINF:-1 tvg-id="66fbf4d3d7de140008d41f5b" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" group-title="Drama" tvg-chno="4",NCIS: Los Angeles
+https://jmp2.uk/66fbf4d3d7de140008d41f5b
 
 #EXTINF:-1 tvg-id="6525426e81f942000833d131" tvg-logo="https://images.pluto.tv/channels/6525426e81f942000833d131/colorLogoPNG.png" group-title="Nyt på Pluto TV" tvg-chno="5",Andersens Julehemmelighed
 https://jmp2.uk/6525426e81f942000833d131
