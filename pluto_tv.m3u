@@ -422,17 +422,17 @@ https://jmp2.uk/6887aaade3703b7d42b64be8
 #EXTINF:-1 tvg-id="637413d8531e0c0007442d6d" tvg-logo="https://images.pluto.tv/channels/637413d8531e0c0007442d6d/colorLogoPNG.png" group-title="True Crime" tvg-chno="1235",Dateline 24/7
 https://jmp2.uk/637413d8531e0c0007442d6d
 
-#EXTINF:-1 tvg-id="6aab1ec6f2eaa8924745678e" tvg-logo="https://images.pluto.tv/channels/6aab1ec6f2eaa8924745678e/colorLogoPNG_1790808102594.png" group-title="True Crime" tvg-chno="1239",A&E Live PD: Greatest Shifts
-https://jmp2.uk/6aab1ec6f2eaa8924745678e
-
 #EXTINF:-1 tvg-id="6ac5067030fb504db0658842" tvg-logo="https://images.pluto.tv/channels/6ac5067030fb504db0658842/colorLogoPNG_1793642003281.png" group-title="True Crime" tvg-chno="1245",See It Now Studios True Crime
 https://jmp2.uk/6ac5067030fb504db0658842
 
 #EXTINF:-1 tvg-id="6ad7a23d0f04c58afc0110ad" tvg-logo="https://images.pluto.tv/channels/6ad7a23d0f04c58afc0110ad/colorLogoPNG_1793382563465.png" group-title="True Crime" tvg-chno="1250",I (Almost) Got Away With It
 https://jmp2.uk/6ad7a23d0f04c58afc0110ad
 
-#EXTINF:-1 tvg-id="6887a4e01067b66fa16966ec" tvg-logo="https://images.pluto.tv/channels/6887a4e01067b66fa16966ec/colorLogoPNG_1757525803914.png" group-title="True Crime" tvg-chno="1260",Live PD Presents
+#EXTINF:-1 tvg-id="6887a4e01067b66fa16966ec" tvg-logo="https://images.pluto.tv/channels/6887a4e01067b66fa16966ec/colorLogoPNG_1757525803914.png" group-title="True Crime" tvg-chno="1255",Live PD Presents
 https://jmp2.uk/6887a4e01067b66fa16966ec
+
+#EXTINF:-1 tvg-id="6aab1ec6f2eaa8924745678e" tvg-logo="https://images.pluto.tv/channels/6aab1ec6f2eaa8924745678e/colorLogoPNG_1790808102594.png" group-title="True Crime" tvg-chno="1260",A&E Live PD: Greatest Shifts
+https://jmp2.uk/6aab1ec6f2eaa8924745678e
 
 #EXTINF:-1 tvg-id="6176f39e709f160007ec61c3" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="True Crime" tvg-chno="1265",48 Hours
 https://jmp2.uk/6176f39e709f160007ec61c3
@@ -802,6 +802,9 @@ https://jmp2.uk/66a7f0a78561260008c177f2
 
 #EXTINF:-1 tvg-id="5d486acc34ceb37d3c458a64" tvg-logo="https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2705",The First
 https://jmp2.uk/5d486acc34ceb37d3c458a64
+
+#EXTINF:-1 tvg-id="6a03782f2c1c785c1161756c" tvg-logo="https://images.pluto.tv/channels/6a03782f2c1c785c1161756c/colorLogoPNG_1789054188922.png" group-title="Sports" tvg-chno="2778",Zuffa Boxing Prelims
+https://jmp2.uk/6a03782f2c1c785c1161756c
 
 #EXTINF:-1 tvg-id="677d9adfa9a51b0008497fa0" tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogoPNG.png" group-title="Competition Reality" tvg-chno="2779",UFC
 https://jmp2.uk/677d9adfa9a51b0008497fa0
