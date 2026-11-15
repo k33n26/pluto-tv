@@ -6062,9 +6062,6 @@ https://jmp2.uk/62442f28afe626000747f195
 #EXTINF:-1 tvg-id="691c5ba253a7a030e7c509d8" tvg-logo="https://images.pluto.tv/channels/691c5ba253a7a030e7c509d8/colorLogoPNG_1793714314043.png" group-title="Serie" tvg-chno="105",Distretto di Polizia
 https://jmp2.uk/691c5ba253a7a030e7c509d8
 
-#EXTINF:-1 tvg-id="66a0eea88561260008b1c5d0" tvg-logo="https://images.pluto.tv/channels/66a0eea88561260008b1c5d0/colorLogoPNG.png" group-title="Serie" tvg-chno="110",Carabinieri
-https://jmp2.uk/66a0eea88561260008b1c5d0
-
 #EXTINF:-1 tvg-id="6245d3792792150007e20634" tvg-logo="https://images.pluto.tv/channels/6245d3792792150007e20634/colorLogoPNG.png" group-title="Serie" tvg-chno="115",Settimo Cielo
 https://jmp2.uk/6245d3792792150007e20634
 
@@ -6320,11 +6317,11 @@ https://jmp2.uk/65b90daed77d450008a43345
 #EXTINF:-1 tvg-id="6a4399d27d65ad4fa68a8806" tvg-logo="https://images.pluto.tv/channels/6a4399d27d65ad4fa68a8806/colorLogoPNG_1784646205585.png" group-title="Animazione" tvg-chno="725",Mr. Bean
 https://jmp2.uk/6a4399d27d65ad4fa68a8806
 
-#EXTINF:-1 tvg-id="68adb5853efb41cd97ce413d" tvg-logo="https://images.pluto.tv/channels/68adb5853efb41cd97ce413d/colorLogoPNG_1759447100016.png" group-title="Bambini" tvg-chno="730",I Puffi
-https://jmp2.uk/68adb5853efb41cd97ce413d
-
 #EXTINF:-1 tvg-id="624da1cd2af90c0007c13205" tvg-logo="https://images.pluto.tv/channels/624da1cd2af90c0007c13205/colorLogoPNG.png" group-title="Animazione" tvg-chno="730",Avatar
 https://jmp2.uk/624da1cd2af90c0007c13205
+
+#EXTINF:-1 tvg-id="68adb5853efb41cd97ce413d" tvg-logo="https://images.pluto.tv/channels/68adb5853efb41cd97ce413d/colorLogoPNG_1759447100016.png" group-title="Bambini" tvg-chno="730",I Puffi
+https://jmp2.uk/68adb5853efb41cd97ce413d
 
 #EXTINF:-1 tvg-id="6093f9281db477000759fce0" tvg-logo="https://images.pluto.tv/channels/6093f9281db477000759fce0/colorLogoPNG_1784271002457.png" group-title="Bambini" tvg-chno="735",SpongeBob
 https://jmp2.uk/6093f9281db477000759fce0
@@ -6422,11 +6419,11 @@ https://jmp2.uk/6971fc932c004063166ac8fd
 #EXTINF:-1 tvg-id="69ef572280ef8232ceef596b" tvg-logo="https://images.pluto.tv/channels/69ef572280ef8232ceef596b/colorLogoPNG_1779270729947.png" group-title="Musica" tvg-chno="920",That's 60s
 https://jmp2.uk/69ef572280ef8232ceef596b
 
-#EXTINF:-1 tvg-id="69ef53e12f4d2b4f9c582e76" tvg-logo="https://images.pluto.tv/channels/69ef53e12f4d2b4f9c582e76/colorLogoPNG_1793547925970.png" group-title="Musica" tvg-chno="925",That's Christmas
-https://jmp2.uk/69ef53e12f4d2b4f9c582e76
-
 #EXTINF:-1 tvg-id="612ce23f51cce000078eeed5" tvg-logo="https://images.pluto.tv/channels/612ce23f51cce000078eeed5/colorLogoPNG.png" group-title="Musica" tvg-chno="925",Pluto TV Fireplace
 https://jmp2.uk/612ce23f51cce000078eeed5
+
+#EXTINF:-1 tvg-id="69ef53e12f4d2b4f9c582e76" tvg-logo="https://images.pluto.tv/channels/69ef53e12f4d2b4f9c582e76/colorLogoPNG_1793547925970.png" group-title="Musica" tvg-chno="925",That's Christmas
+https://jmp2.uk/69ef53e12f4d2b4f9c582e76
 
 #EXTINF:-1 tvg-id="69ef54f3c700cf0140272def" tvg-logo="https://images.pluto.tv/channels/69ef54f3c700cf0140272def/colorLogoPNG_1779094967843.png" group-title="Musica" tvg-chno="930",That's 80s
 https://jmp2.uk/69ef54f3c700cf0140272def
