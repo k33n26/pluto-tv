@@ -917,9 +917,6 @@ https://jmp2.uk/6ad7a1a6887970b5070d3994
 #EXTINF:-1 tvg-id="66e0b4866ad04d0008fff4d8" tvg-logo="https://images.pluto.tv/channels/66e0b4866ad04d0008fff4d8/colorLogoPNG.png" group-title="History + Science" tvg-chno="3115",MythBusters
 https://jmp2.uk/66e0b4866ad04d0008fff4d8
 
-#EXTINF:-1 tvg-id="6ad7a7be43496b8a1caf7082" tvg-logo="https://images.pluto.tv/channels/6ad7a7be43496b8a1caf7082/colorLogoPNG_1793382170130.png" group-title="History + Science" tvg-chno="3117",The Repair Shop
-https://jmp2.uk/6ad7a7be43496b8a1caf7082
-
 #EXTINF:-1 tvg-id="5f21ea08007a49000762d349" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/colorLogoPNG.png" group-title="History + Science" tvg-chno="3130",Smithsonian Channel Selects
 https://jmp2.uk/5f21ea08007a49000762d349
 
@@ -955,6 +952,9 @@ https://jmp2.uk/601a0342dcf4370007566891
 
 #EXTINF:-1 tvg-id="5dc1cb279c91420009db261d" tvg-logo="https://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" group-title="Home + Food" tvg-chno="3390",Home.Made.Nation
 https://jmp2.uk/5dc1cb279c91420009db261d
+
+#EXTINF:-1 tvg-id="6ad7a7be43496b8a1caf7082" tvg-logo="https://images.pluto.tv/channels/6ad7a7be43496b8a1caf7082/colorLogoPNG_1793382170130.png" group-title="Home + Food" tvg-chno="3396",The Repair Shop
+https://jmp2.uk/6ad7a7be43496b8a1caf7082
 
 #EXTINF:-1 tvg-id="636c2b3c55d2e700074105c4" tvg-logo="https://images.pluto.tv/channels/636c2b3c55d2e700074105c4/colorLogoPNG.png" group-title="Home + Food" tvg-chno="3400",PBS Antiques Roadshow
 https://jmp2.uk/636c2b3c55d2e700074105c4
@@ -5624,13 +5624,16 @@ https://jmp2.uk/62f3e4bc08f5ec000744f552
 #EXTINF:-1 tvg-id="6a6a167805520fcba93e3ead" tvg-logo="https://images.pluto.tv/channels/6a6a167805520fcba93e3ead/colorLogoPNG_1785337868317.png" group-title="Nouveau sur Pluto TV" tvg-chno="20",River Monsters
 https://jmp2.uk/6a6a167805520fcba93e3ead
 
-#EXTINF:-1 tvg-id="62f3dd1c2f29ce0007e18596" tvg-logo="https://images.pluto.tv/channels/62f3dd1c2f29ce0007e18596/colorLogoPNG.png" group-title="100% Français" tvg-chno="21",Coeur Océan
+#EXTINF:-1 tvg-id="62f3dd1c2f29ce0007e18596" tvg-logo="https://images.pluto.tv/channels/62f3dd1c2f29ce0007e18596/colorLogoPNG.png" group-title="Nouveau sur Pluto TV" tvg-chno="21",Coeur Océan
 https://jmp2.uk/62f3dd1c2f29ce0007e18596
 
-#EXTINF:-1 tvg-id="6a43b36c71cbfff7dca50cf3" tvg-logo="https://images.pluto.tv/channels/6a43b36c71cbfff7dca50cf3/colorLogoPNG_1788185290630.png" group-title="Nouveau sur Pluto TV" tvg-chno="22",Mr. Bean
+#EXTINF:-1 tvg-id="65251c3a9c7aeb00083741c9" tvg-logo="https://images.pluto.tv/channels/65251c3a9c7aeb00083741c9/colorLogoPNG.png" group-title="Nouveau sur Pluto TV" tvg-chno="22",Téléfilms de Noël by Pluto TV
+https://jmp2.uk/65251c3a9c7aeb00083741c9
+
+#EXTINF:-1 tvg-id="6a43b36c71cbfff7dca50cf3" tvg-logo="https://images.pluto.tv/channels/6a43b36c71cbfff7dca50cf3/colorLogoPNG_1788185290630.png" group-title="Nouveau sur Pluto TV" tvg-chno="23",Mr. Bean
 https://jmp2.uk/6a43b36c71cbfff7dca50cf3
 
-#EXTINF:-1 tvg-id="6a43ab7bfd93e35b5dadb67e" tvg-logo="https://images.pluto.tv/channels/6a43ab7bfd93e35b5dadb67e/colorLogoPNG_1782819767954.png" group-title="Nouveau sur Pluto TV" tvg-chno="23",Tennis Channel
+#EXTINF:-1 tvg-id="6a43ab7bfd93e35b5dadb67e" tvg-logo="https://images.pluto.tv/channels/6a43ab7bfd93e35b5dadb67e/colorLogoPNG_1782819767954.png" group-title="Nouveau sur Pluto TV" tvg-chno="24",Tennis Channel
 https://jmp2.uk/6a43ab7bfd93e35b5dadb67e
 
 #EXTINF:-1 tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" group-title="Séries Policières" tvg-chno="30",Pluto TV Polar
