@@ -1922,9 +1922,6 @@ https://jmp2.uk/672cb91149c40600081cbee5
 #EXTINF:-1 tvg-id="5e6f38792075160007d85823" tvg-logo="https://images.pluto.tv/channels/5e6f38792075160007d85823/colorLogoPNG.png" group-title="Entertainment" tvg-chno="930",Hell's Kitchen
 https://jmp2.uk/5e6f38792075160007d85823
 
-#EXTINF:-1 tvg-id="6aacfeef90639e3b19441c57" tvg-logo="https://images.pluto.tv/channels/6aacfeef90639e3b19441c57/colorLogoPNG_1794574400602.png" group-title="",Chico de revista
-https://jmp2.uk/6aacfeef90639e3b19441c57
-
 #EXTINF:-1 tvg-id="67b4aff37d8025b161069365" tvg-logo="https://images.pluto.tv/channels/67b4aff37d8025b161069365/colorLogoPNG.png" group-title="Nuevo en Pluto TV" tvg-chno="1",NCIS
 https://jmp2.uk/67b4aff37d8025b161069365
 
@@ -1976,10 +1973,13 @@ https://jmp2.uk/6511a53f473a54000854e2ee
 #EXTINF:-1 tvg-id="5f1aa7aab66c76000790ee7e" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" group-title="Nuevo en Pluto TV" tvg-chno="26",Big Time Rush
 https://jmp2.uk/5f1aa7aab66c76000790ee7e
 
-#EXTINF:-1 tvg-id="6aacff312714ce519250beb1" tvg-logo="https://images.pluto.tv/channels/6aacff312714ce519250beb1/colorLogoPNG_1794574330902.png" group-title="" tvg-chno="61",Bienvenidos a la zona
+#EXTINF:-1 tvg-id="6aacfeef90639e3b19441c57" tvg-logo="https://images.pluto.tv/channels/6aacfeef90639e3b19441c57/colorLogoPNG_1794574400602.png" group-title="Pódcasts" tvg-chno="60",Chico de revista
+https://jmp2.uk/6aacfeef90639e3b19441c57
+
+#EXTINF:-1 tvg-id="6aacff312714ce519250beb1" tvg-logo="https://images.pluto.tv/channels/6aacff312714ce519250beb1/colorLogoPNG_1794574330902.png" group-title="Pódcasts" tvg-chno="61",Bienvenidos a la zona
 https://jmp2.uk/6aacff312714ce519250beb1
 
-#EXTINF:-1 tvg-id="6aacfebd67b298a0f0a96c14" tvg-logo="https://images.pluto.tv/channels/6aacfebd67b298a0f0a96c14/colorLogoPNG_1794574475146.png" group-title="" tvg-chno="62",Zona Rainpod
+#EXTINF:-1 tvg-id="6aacfebd67b298a0f0a96c14" tvg-logo="https://images.pluto.tv/channels/6aacfebd67b298a0f0a96c14/colorLogoPNG_1794574475146.png" group-title="Pódcasts" tvg-chno="62",Zona Rainpod
 https://jmp2.uk/6aacfebd67b298a0f0a96c14
 
 #EXTINF:-1 tvg-id="612ce5214bb5790007ad3016" tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" group-title="Crimen y Misterio" tvg-chno="75",Pluto TV Paranormal
