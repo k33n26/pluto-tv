@@ -6500,11 +6500,11 @@ https://jmp2.uk/69ef55c3b80e144b55d74e36
 #EXTINF:-1 tvg-id="69ef5682980899a9edf1a884" tvg-logo="https://images.pluto.tv/channels/69ef5682980899a9edf1a884/colorLogoPNG_1779094988172.png" group-title="Musica" tvg-chno="940",That's Rock
 https://jmp2.uk/69ef5682980899a9edf1a884
 
-#EXTINF:-1 tvg-id="68ac55fe3efb41cd979a6877" tvg-logo="https://images.pluto.tv/channels/68ac55fe3efb41cd979a6877/colorLogoPNG_1760516448132.png" group-title="Sport" tvg-chno="1",Pluto TV Snooker 900
-https://jmp2.uk/68ac55fe3efb41cd979a6877
-
 #EXTINF:-1 tvg-id="671656dfdaad7f00085d2133" tvg-logo="https://images.pluto.tv/channels/671656dfdaad7f00085d2133/colorLogoPNG_1732093602845.png" group-title="Sport" tvg-chno="2",MODUS Super Series Darts
 https://jmp2.uk/671656dfdaad7f00085d2133
+
+#EXTINF:-1 tvg-id="68ac55fe3efb41cd979a6877" tvg-logo="https://images.pluto.tv/channels/68ac55fe3efb41cd979a6877/colorLogoPNG_1760516448132.png" group-title="Sport" tvg-chno="3",Pluto TV Snooker 900
+https://jmp2.uk/68ac55fe3efb41cd979a6877
 
 #EXTINF:-1 tvg-id="63e38a974e83e70008990da9" tvg-logo="https://images.pluto.tv/channels/63e38a974e83e70008990da9/colorLogoPNG.png" group-title="Nytt på Pluto TV" tvg-chno="4",Spin City
 https://jmp2.uk/63e38a974e83e70008990da9
@@ -7160,9 +7160,6 @@ https://jmp2.uk/6825eeeeb19ce6d4a34ebb2a
 #EXTINF:-1 tvg-id="63e389dcc111bc0008ee5b8c" tvg-logo="https://images.pluto.tv/channels/63e389dcc111bc0008ee5b8c/colorLogoPNG.png" group-title="Sitcoms" tvg-chno="963",Cheers
 https://jmp2.uk/63e389dcc111bc0008ee5b8c
 
-#EXTINF:-1 tvg-id="686faf533ffa5e0c912688e7" tvg-logo="https://images.pluto.tv/channels/686faf533ffa5e0c912688e7/colorLogoPNG_1762169254016.png" group-title="Sport" tvg-chno="1",Pluto TV Handboll Live
-https://jmp2.uk/686faf533ffa5e0c912688e7
-
 #EXTINF:-1 tvg-id="6716571bc7626f000890c518" tvg-logo="https://images.pluto.tv/channels/6716571bc7626f000890c518/colorLogoPNG_1732093647930.png" group-title="Sport" tvg-chno="2",MODUS Super Series Darts
 https://jmp2.uk/6716571bc7626f000890c518
 
@@ -7276,6 +7273,9 @@ https://jmp2.uk/664f13aff9992200084a3532
 
 #EXTINF:-1 tvg-id="62cd74e38f6f0d000798cd93" tvg-logo="https://images.pluto.tv/channels/62cd74e38f6f0d000798cd93/colorLogoPNG_1746816954969.png" group-title="Sport" tvg-chno="101",Pluto TV Sport
 https://jmp2.uk/62cd74e38f6f0d000798cd93
+
+#EXTINF:-1 tvg-id="686faf533ffa5e0c912688e7" tvg-logo="https://images.pluto.tv/channels/686faf533ffa5e0c912688e7/colorLogoPNG_1762169254016.png" group-title="Sport" tvg-chno="103",Pluto TV Handboll Live
+https://jmp2.uk/686faf533ffa5e0c912688e7
 
 #EXTINF:-1 tvg-id="68dfa3e2cc3c6cd904052c41" tvg-logo="https://images.pluto.tv/channels/68dfa3e2cc3c6cd904052c41/colorLogoPNG_1761838923264.png" group-title="Sport" tvg-chno="104",Pluto TV Handboll Highlights
 https://jmp2.uk/68dfa3e2cc3c6cd904052c41
@@ -7886,9 +7886,6 @@ https://jmp2.uk/686d01ad94a028da3aaca6b3
 #EXTINF:-1 tvg-id="6391df52d146a40007c265f3" tvg-logo="https://images.pluto.tv/channels/6391df52d146a40007c265f3/colorLogoPNG.png" group-title="Sitcoms" tvg-chno="1020",The Nanny
 https://jmp2.uk/6391df52d146a40007c265f3
 
-#EXTINF:-1 tvg-id="6618f54baec96800081525ec" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png" group-title="Sport" tvg-chno="1",Pluto TV Håndbold Live
-https://jmp2.uk/6618f54baec96800081525ec
-
 #EXTINF:-1 tvg-id="671656a37d5da50008de6514" tvg-logo="https://images.pluto.tv/channels/671656a37d5da50008de6514/colorLogoPNG_1732093553712.png" group-title="Sport" tvg-chno="2",MODUS Super Series Darts
 https://jmp2.uk/671656a37d5da50008de6514
 
@@ -8074,6 +8071,9 @@ https://jmp2.uk/6405d444d200410008009419
 
 #EXTINF:-1 tvg-id="675c0762f433320008707f68" tvg-logo="https://images.pluto.tv/channels/675c0762f433320008707f68/colorLogoPNG.png" group-title="Sport" tvg-chno="203",BET25 Live+
 https://jmp2.uk/675c0762f433320008707f68
+
+#EXTINF:-1 tvg-id="6618f54baec96800081525ec" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png" group-title="Sport" tvg-chno="204",Pluto TV Håndbold Live
+https://jmp2.uk/6618f54baec96800081525ec
 
 #EXTINF:-1 tvg-id="68dfa431cc3c6cd904053100" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" group-title="Sport" tvg-chno="205",Pluto TV Håndbold Highlights
 https://jmp2.uk/68dfa431cc3c6cd904053100
